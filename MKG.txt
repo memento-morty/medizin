@@ -1,0 +1,91 @@
+Mund-Kiefer-Gesichtschirurgie – Zusammenfassung der
+Vorlesung
+Dr. med. Dr. med. dent. Reinald Kühle
+Autor: Emanuel Buzov
+25. Mai 2025
+1 Vorstellung des Fachgebietes
+Die Mund-Kiefer-Gesichtschirurgie (MKG) ist das einzige chirurgische Fach, das zwei volle
+Staatsexamina verlangt. Dadurch kann eine*r MKG-Chirurg*in sowohl hartes (Knochen,
+Zähne) als auch weiches Gewebe (Haut, Schleimhaut, Muskulatur) im Gesicht ganzheitlich
+behandeln. In der Vorlesung betonte Dr. Kühle, dass MKG zwar historisch aus der Versorgung schwerer Kriegsverletzungen hervorging, heute jedoch ein breitgefächertes Spektrum
+abdeckt – von der Dysgnathie-Korrektur über rekonstruktive Tumorchirurgie bis hin zur
+Implantologie. Jede Operation bewegt sich dabei in einem ästhetisch hochsensiblen Bereich:
+Schon eine Abweichung von einem Millimeter kann das Ergebnis sichtbar verschlechtern.
+2 Kerninhalte der Vorlesung
+Im Zentrum stand der vollständige digitale Workflow der Heidelberger Klinik:
+1. Bildakquisition – Dünnschicht-CT oder Cone-Beam-CT (0,5–1 mm) liefert die
+knöcherne Anatomie; ein Intraoral-Scan ergänzt farbgetreue Zahnoberflächen.
+2. Datenfusion – In Materialise Mimics/3-Matic werden CT-Volumen und OberflächenMesh per „Iterative Closest Point“ exakt übereinandergelegt.
+3. Virtuelle OP – Osteotomien, Segmentverschiebungen, Nervenverläufe und Okklusion werden simuliert; Weichteilveränderungen lassen sich per Morphing prognostizieren.
+4. Output – Aus den Planungsdaten entstehen 3-D-gedruckte Schnittschablonen für
+definierte Sägeschnitte sowie patientenspezifische Titanplatten (PSI), die bereits
+vorgebogen exakt passen.
+Fall 1 – Tumorresektion: Ein großer gutartiger Tumor in Wange, Orbitaboden und Oberkiefer wurde virtuell orange markiert, mit einem 1-cm-Sicherheitsabstand versehen und
+mittels mehrsegmentiger Schnittschablone reseziert. Der Defekt wurde anschließend mit
+einem vaskularisierten Beckenkammblock und gitterförmiger Titan-PSI rekonstruiert.
+Fall 2 – Dysgnathie: Bei einem Patienten mit schiefem Gesicht erfolgte eine dreiteilige
+Oberkiefer- und beidseitige Unterkieferosteotomie. Durch den digitalen Plan konnte vorab
+der neue Biss geprüft und dem Patienten eine realistische Weichgewebssimulation gezeigt
+werden, was Ängste nahm und Komplikationen reduzierte.
+1
+3 Aktuelle Herausforderungen
+3 Aktuelle Herausforderungen
+Die unzureichende Präzision aktueller Mixed-Reality-Brillen stellt nach wie vor ein zentrales
+Hindernis im MKG-OP dar. So erreichen Systeme wie die HoloLens lediglich eine Genauigkeit von etwa 3–4 mm und dämpfen zugleich das Sichtfeld, wodurch Detailstrukturen
+während der Operation nicht zuverlässig erkennbar sind. Zwar verspricht die Apple Vision
+Pro deutlich schärfere Displays und präzisere Sensorik, doch fehlende CE-Zulassung und robuste markerfreie Registrierungsverfahren verhindern bislang ihren klinischen Einsatz. Um
+den Patienten zuverlässig zu lokalisieren, sind daher weiterhin invasive Marker oder Antennenpunkte notwendig. Zudem erfordern die Echtzeit-Overlays und Live-Datenströme eine
+immense Render- und GPU-Leistung, sodass flüssige, submillimetergenaue Darstellungen
+im OP noch Zukunftsmusik sind. Die semiautomatische Generierung patientenspezifischer
+Implantate via KI steht ebenfalls erst am Anfang. Prototypische Algorithmen erlauben
+zwar die Definition von Schraubenkanälen und Gitterstrukturen, liefern jedoch häufig klobige Modelle, die umfangreiche manuelle Nachbearbeitung in CAD-Programmen erfordern.
+Bis die Design- und Kommunikationsschnittstellen ausgereift sind, bleibt der erwartete
+Zeitgewinn begrenzt, da erfahrene Medizintechnik-Designer weiterhin präzise 3D-Modelle
+von Hand erstellen müssen. Hinzu kommt, dass sämtliche im OP verwendeten Drucker,
+Harze und Nachbearbeitungsprozesse als Medizinprodukte zertifiziert sein müssen. Jeder
+Materialtyp, jede Prozessstufe und jede Software-Version erfordert Dokumentation, Validierung und behördliche Freigabe. Diese strengen regulatorischen Anforderungen binden
+Klinikressourcen und verlangsamen die Einführung neuer digitaler Workflows erheblich.
+4 Genutzte technische Anwendungen
+Verfahren Schichtdicke Einsatz Besonderheiten
+FDM-Druck 200–300 µm Lehr-Modelle,
+Schnittlehren
+günstig, großes
+Material-Portfolio
+SLA/DLP 50 µm Resinschablonen,
+Aligner & biokompatible lichthärtende Harze
+SLM (Titan) 30–60 µm patienten spez. Implantate
+leichte Gitterstrukturen, hohe Festigkeit
+Optische Navigation
+– Bohrer-Tracking Binokularkameras triangulieren Marker
+Tabelle 1: Übersicht additiver Verfahren in der MKG-Chirurgie
+Ein besonderes Highlight war das Mixed-Reality-Konferenzsetup mit einem vier Meter
+großen holografischen Schädel, den alle Teilnehmenden synchron sehen und annotieren
+konnten.
+2
+5 Ausblick
+Dr. Kühle sieht drei konvergierende Innovationen: photonenzählende CT-Scanner für
+rauschärmere Bilder bei niedriger Dosis und minimalen Metallartefakten, Deep-Learning-Shape-Modelle
+aus über 25 000 Schädel-Datensätzen zur automatischen Defekterkennung und PSI-Generierung
+in Minuten sowie ausgereifte Mixed Reality mit Mikro-OLED-Displays und LiDAR-Tracking
+für submillimetergenaue Overlays ohne Marker. Parallel dazu laufen Projekte zu bioresorbierbaren Magnesium-Schrauben, KI-segmentierter Weichgewebsanalyse und OP-Visualisierung
+in Unreal Engine 5, an denen Studierende in Kooperation mit KIT und Industriepartnern
+mitarbeiten können.
+6 Begriffserklärungen
+Osteotomie Operative Durchtrennung eines Knochens zwecks Reposition.
+STL-Datei Trianguliertes Oberflächen-Gitter, Standardformat im
+3-D-Druck.
+Mixed Reality Gleichzeitige Wahrnehmung realer und virtueller Objekte in
+einer überlagerten Umgebung.
+Stereolithographie Lichtgehärteter Harz-Druck mit Schichtdicke von ca. 50 µm.
+Navigation Optisches Tracking von Instrumenten mit Zielpräzision unter
+1 mm.
+Dysgnathie Fehlbiss durch Lageabweichung der Kiefer.
+PSI Patienten spezifisches Implantat, meist als Titan-SLM gefertigt.
+Tabelle 2: Wichtige Fachbegriffe
+7 Literatur
+Alle Aussagen basieren auf dem Audiotranskript der Vorlesung von Dr. Reinald Kühle;
+externe Quellen wurden nicht verwendet.
+8 KI-Nutzung
+Diese Zusammenfassung wurde mit ChatGPT generiert. Inhaltlich basiert sie ausschließlich
+auf dem genannten Mitschrieb.
+3
