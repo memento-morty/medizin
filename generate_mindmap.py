@@ -183,7 +183,10 @@ def main():
     if nx is None or plt is None:
         raise RuntimeError("networkx and matplotlib are required to render the mindmap")
 
-    pos = nx.spring_layout(graph)
+    # Arrange nodes in columns based on colon depth so labels rarely overlap
+    # Root, categories and topics share the first tier; bullet points and
+    # subpoints appear in subsequent tiers.
+    pos = nx.multipartite_layout(graph, subset_key=lambda n: n.count(':'))
     plt.figure(figsize=(20, 20))
     nx.draw(graph, pos, with_labels=True, node_size=50, font_size=6)
     plt.savefig("mindmap.pdf")
