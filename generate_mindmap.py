@@ -1,15 +1,10 @@
 """
-generate_mindmap_columnar.py
+generate_mindmap.py
 
-Draws the medical‑topics mind‑map with a *multipartite* (columnar) layout
-instead of a force‑directed spring layout.  Each “tier” is determined by how
-many colons ‘:’ a node name contains:
-
-    tier 0 →  root          (“Medizin”)
-    tier 1 →  category      (“Neurologie” …)
-    tier 2 →  topic         (“Radiologie” …)
-    tier 3 →  bullet        (“Radiologie: CT hat …”)
-    tier 4 →  sub‑bullet    (“Radiologie: CT hat …: Dosisreduktion”)
+Draws a radial mind‑map for the medical topics.  Each node's tier is
+determined by how many colons ``:`` occur in its name, placing it on
+progressively larger shells around the centre node ``"Medizin"``.  The map
+therefore grows from the middle outwards like a classic mind map.
 
 The code below is self‑contained; install the two pure‑Python libraries once:
 
@@ -94,58 +89,7 @@ TOPICS = {                 # (exactly the dictionary from your earlier code)
     },
 }
 
-CROSS_EDGES = [
-    ("Radiomics", "Radiologie"),
-    ("Radionomics", "Radiologie"),
-    ("Strahlentherapie", "Radiologie"),
-    ("NCT Datenbanken", "Radiomics"),
-    ("NCT Datenbanken", "Strahlentherapie"),
-    ("Neurochirurgie – Hirntumorchirurgie", "Radiologie"),
-    ("Neurochirurgie – Hirntumorchirurgie", "Strahlentherapie"),
-    ("Schädelhirntrauma in der Neurochirurgie",
-     "Neurochirurgie – Hirntumorchirurgie"),
-    ("Tiefe Hirnstimulation", "Neurochirurgie – Hirntumorchirurgie"),
-    ("Spinale Navigation", "Neurochirurgie – Hirntumorchirurgie"),
-    ("Hämatologie", "Pharmakologie"),
-    ("Diarrhö und chronisch entzündliche Darmerkrankungen", "Pharmakologie"),
-    ("MKG", "HNO"),
-    ("Computertomographie", "Radiologie"),
-    ("Computertomographie", "Strahlentherapie"),
-    ("Computertomographie", "Radiomics"),
-    ("Computertomographie", "Radionomics"),
-    ("Einführung in die Strahlentherapie", "Strahlentherapie"),
-    ("Intra- und extrakranielle stereotaktische Strahlentherapie",
-     "Strahlentherapie"),
-    ("Intra- und extrakranielle stereotaktische Strahlentherapie",
-     "Radiologie"),
-    ("Intra- und extrakranielle stereotaktische Strahlentherapie",
-     "Computertomographie"),
-    ("HNO", "Radiologie"),
-    ("MKG", "Computertomographie"),
-    ("MKG", "Strahlentherapie"),
-    ("Anästhesie und Notfallmedizin",
-     "Schädelhirntrauma in der Neurochirurgie"),
-    ("Anästhesie und Notfallmedizin", "Radiologie"),
-    ("Anästhesie und Notfallmedizin", "Computertomographie"),
-    ("Pharmakologie", "Radiologie"),
-    ("Pharmakologie", "Strahlentherapie"),
-    ("Hämatologie", "Strahlentherapie"),
-    ("Neurochirurgie – Hirntumorchirurgie", "Computertomographie"),
-    ("Neurowissenschaften", "Tiefe Hirnstimulation"),
-    ("Neurowissenschaften", "Schädelhirntrauma in der Neurochirurgie"),
-    ("Neurowissenschaften", "Radiologie"),
-    ("NCT Datenbanken", "Computertomographie"),
-    ("NCT Datenbanken", "Radionomics"),
-    ("Radiomics", "Radionomics"),
-    ("Radiomics", "Tiefe Hirnstimulation"),
-    ("Radionomics", "Tiefe Hirnstimulation"),
-    ("Spinale Navigation", "Computertomographie"),
-    ("Spinale Navigation", "Radiologie"),
-    ("Spinale Navigation", "Strahlentherapie"),
-    ("Schädelhirntrauma in der Neurochirurgie", "Radiologie"),
-    ("Schädelhirntrauma in der Neurochirurgie", "Computertomographie"),
-    ("Radiologie", "Neurowissenschaften"),
-]
+CROSS_EDGES: list[tuple[str, str]] = []  # no cross-references for a clean tree
 
 
 # ───────────────────────────────────────────────────── graph builder ───
@@ -201,6 +145,16 @@ def build_graph(include_bullets: bool = True,
     return g
 
 
+def radial_positions(graph: "nx.Graph") -> dict:
+    """Return shell-layout positions grouped by each node's tier."""
+    tiers: dict[int, list[str]] = {}
+    for node, data in graph.nodes(data=True):
+        tier = data.get("tier", node.count(":"))
+        tiers.setdefault(tier, []).append(node)
+    shells = [tiers[k] for k in sorted(tiers)]
+    return nx.shell_layout(graph, nlist=shells)
+
+
 # ──────────────────────────────────────────────────────────── main ───
 def main() -> None:
     if nx is None or plt is None:
@@ -213,9 +167,8 @@ def main() -> None:
     for n in graph:
         graph.nodes[n]["tier"] = n.count(":")  # 0=root, 1=category, …
 
-    # multipartite_layout now just needs the *attribute name*
-    pos = nx.multipartite_layout(graph, subset_key="tier", align="horizontal")
-    # ─────────────────────────────────────────────────────────────────
+    # arrange the nodes in concentric shells based on their tier
+    pos = radial_positions(graph)
 
     plt.figure(figsize=(18, 14))
     nx.draw_networkx(graph,
@@ -226,8 +179,8 @@ def main() -> None:
                      edge_color="#888888")
     plt.axis("off")
     plt.tight_layout()
-    plt.savefig("mindmap_columnar.pdf")
-    print("Saved mindmap_columnar.pdf")
+    plt.savefig("mindmap_radial.pdf")
+    print("Saved mindmap_radial.pdf")
 
 
 if __name__ == "__main__":
