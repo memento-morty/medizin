@@ -1,0 +1,62 @@
+Florian Hauptmann (und andere) Medizin 27.03.2025
+Neurowissenschaften
+Vortragender: Jun.-Prof. Dr. phil. Christoph Korn, Sektionsleiter der Neurowissenschaften im
+Universitätsklinikum Heidelberg
+Emotionserkennung
+• Im MRT Gehirn scannen, wenn wir Emotionen erkenne sollen
+• Gehirn zerlegt Eingabebild so ähnlich wie Neurales Netzwerk
+o Korrelationsmatrix von Dense Layer des NNs
+o Korrelationsmatrix von Aktivierungen eines ROIs im Hirn
+o Daraus lassen sich Ähnlichkeiten erkennen
+Soziale Entscheidungen
+• Patienten mit psychischen Erkrankungen im MRT untersuchen --> Hirnaktivitäten messen
+• Spiel, damit der Patient Entscheidungen treffen muss
+o Man hat bis zu 5 Energiepunkte
+o Man muss jeden Tag eine Entscheidung treffen
+▪ Nahrung sammeln
+• Entweder man bekommt Energiepunkte, abhängig davon, was man
+sammelt
+o Tiere jagen --> Man bekommt bei Erfolg mehr Energiepunkte,
+aber die Erfolgswahrscheinlichkeit ist niedrig
+o Früchte sammeln --> Man bekommt bei Erfolg wenig
+Energiepunkte, es hat aber eine hohe
+Erfolgswahrscheinlichkeit
+• Man hat eine gewisse Wahrscheinlichkeit, dass das Sammeln fehl
+schlägt --> man verliert 2 Energiepunkte
+• Es gibt noch das Wetter als Variable --> Bei gutem Wetter sind die
+Erfolgswahrscheinlichkeiten für das Sammeln höher, als bei
+schlechtem Wetter
+▪ Daheim bleiben --> Man verliert auf jeden Fall einen Energiepunkt
+o Wenn die Energiepunkte auf 0 fallen hat man verloren
+o Man kann eine optimale Überlebensstrategie berechnen und die Patienten damit
+vergleichen
+• Das Spiel wurde einmal durchgeführt, wenn der Patient nur alleine agiert und nur für sich
+sorgen muss und einmal, wenn zwei Patienten zusammen das Spiel spielen.
+• Wenn die Patienten zu zweit spielen gibt es die zusätzlichen Regeln:
+o Beide Patienten treffen ihre Entscheidung unabhängig voneinander und sehen die
+Entscheidung des anderen zur selben Zeit.
+o Wenn beide Patienten sich für das Sammeln entscheiden, steigt die Wahrscheinlichkeit
+für den Erfolg, aber bei einem Scheitern verlieren beide 2 Energiepunkte.
+o Wenn einer daheim bleibt und der andere sammeln geht, gelten die Regeln, als wie als
+wenn sie alleine spielen.
+Florian Hauptmann (und andere) Medizin 27.03.2025
+o Dabei ergibt sich jetzt zwei Hilfsszenarien:
+▪ Riskante Hilfe:
+• Patient 1 hat einen Energiepunkt --> er muss Nahrung sammeln gehen,
+ansonsten stirbt er
+• Patient 2 hat zwei Energiepunkte --> er kann auch Nahrung sammeln,
+um seinem Partner zu helfen, aber wenn das Sammeln fehl schlägt,
+sterben beide
+▪ Sichere Hilfe:
+• Patient 1 hat einen Energiepunkt --> er muss Nahrung sammeln gehen,
+ansonsten stirbt er
+• Patient 2 hat drei Energiepunkte --> er kann auch Nahrung sammeln,
+um seinem Partner zu helfen und würde auch nicht sterben, wenn es
+fehlschlägt
+• Es wurde eine Experimentreihe durchgeführt, bei der Borderline Patienten mit normalen
+Patienten verglichen wurden und vor ihrer Entscheidung gefragt wurden, was sie von ihrem
+Partner erwarten würden.
+o Ein Ergebnis war, dass Borderline-Patienten weniger Hilfe von ihrem Partner erwarten,
+als normale Patienten
+• Dieses Spiel könnte man z.B. benutzen um in Therapie auf Verhaltensweisen von Patienten
+hinzuweisen 
