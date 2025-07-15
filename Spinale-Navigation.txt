@@ -1,0 +1,138 @@
+Florian Hauptmann Medizin 27.03.2025
+Spinale Navigation
+Vortragender: Prof. Dr. med. Basem Ishak, Facharzt für Neurochirurgie, Sportmedizin und
+Intensivmedizin
+Überblick:
+Die spinale Navigation ermöglicht eine präzisere Durchführung von Operationen an der Wirbelsäule,
+wie das Einsetzen von Pedikelschrauben. Während beim konventionellen Verfahren nur wiederholte
+Verifizierungsscans durchgeführt wurden, um die korrekte Platzierung der Schrauben erst im
+Nachhinein zu überprüfen, bietet die spinale Navigation eine Echtzeitkontrolle. Mithilfe bildgebender
+Verfahren wie 2D- oder 3D-Fluoroskopie oder intraoperativem CT erhalten Chirurgen während des
+Eingriffs ein Livebild, das eine kontinuierliche Überwachung der Instrumente ermöglicht. Dadurch
+können Abweichungen frühzeitig erkannt und korrigiert werden, was die Genauigkeit im Vergleich zu
+herkömmlichen Methoden deutlich erhöht.
+Ein weiterer Ansatz zur Verbesserung der Präzision ist der Einsatz von Robotern. Hierbei übernimmt
+ein mechanischer Arm das Bohren in den Knochen und schafft so den Weg für die Schraube. Diese
+Systeme arbeiten oft präziser als Menschen, verfügen jedoch über wenig taktiles Feedback und können
+nicht auf Unregelmäßigkeiten im Gewebe reagieren, da sie ausschließlich vorprogrammierte
+Bewegungen ausführen.
+Zusätzlich wird die Endoskopie als Navigationshilfe erprobt. Dabei sitzt eine hochauflösende Kamera
+an der Spitze einer Nadel und ermöglicht eine visuelle Führung während der Bohrung. Durch dieses
+Verfahren kann minimalinvasiv operiert werden, allerdings zeigen Studien (Qin et al., 2018; Rasouli,
+Rahimi-Movaghar, Shokraneh, Moradi-Lakeh & Chou, 2014), dass sich die Behandlungsergebnisse
+hierbei nicht signifikant von denen der minimalinvasiven spinalen Navigation unterscheiden.
+Anwendungsbereiche der spinalen Navigation
+Die Stabilisierung der Wirbelsäule ist bei verschiedenen Erkrankungen notwendig, insbesondere bei
+degenerativen Veränderungen wie Morbus Bechterew oder einem Bandscheibenvorfall. In diesen
+Fällen werden Pedikelschrauben eingesetzt, um die Wirbelsäule zu stabilisieren. Die Platzierung dieser
+Schrauben erfordert höchste Präzision, da ein Fehltritt zu schweren Komplikationen führen kann –
+beispielsweise durch das Eindringen in benachbarte Organe, den Nervenkanal, die Aorta oder den
+Darm.
+Konventionelle Schraubenimplantation und ihre Herausforderungen
+Bei der herkömmlichen Methode erfolgt die Schraubenplatzierung ohne direkte intraoperative
+Navigation. Stattdessen werden Verifizierungsscans mittels Fluoroskopie genutzt, um im Nachhinein zu
+überprüfen, ob die Schraube korrekt sitzt. Dies birgt das Risiko, dass Fehlplatzierungen oft erst zu spät
+erkannt werden. Studien zeigen, dass es bei dieser Methode zu Fehllagen von bis zu 24 % kommen
+kann (Kosmopoulos & Schizas, 2007), was die Notwendigkeit präziserer Verfahren hervorhebt.
+Spinale Navigation: Konzepte und Workflow
+Die moderne spinale Navigation setzt auf intraoperative Bildgebung, um die Schraubenplatzierung in
+Echtzeit zu überwachen und Fehlplatzierungen frühzeitig zu erkennen und zu korrigieren. Zu den
+wichtigsten Techniken gehören die 2D- und 3D-Fluoroskopie und das intraoperative CT.
+Florian Hauptmann Medizin 27.03.2025
+Wenn die spinale Navigation bei einer Schraubenimplantation zum Einsatz kommt, umfasst der
+Workflow dabei meist folgende Schritte:
+1. Verwendung von intraoperativer Bildgebung, meist durch einen C-Bogen, für eine EchtzeitÜberwachung.
+2. Befestigung einer Kamera am C-Bogen, die als erster Referenzpunkt für die Navigation dient.
+3. Maximalinvasiver Zugang, bei dem die Muskulatur zur Seite geschoben wird, um das
+Operationsfeld freizulegen.
+4. Befestigung einer Kamera an einem Dorn der Wirbelsäule als zweiten Referenzpunkt.
+5. Registrierung der medizinischen Instrumente mit der Point-to-Point-Methode, damit diese
+exakt in der Bildgebung dargestellt werden können.
+Ergebnisse der Metaanalyse zur spinalen Navigation (Kosmopoulos & Schizas, 2007)
+Eine groß angelegte Metaanalyse mit 130 Studien und 37.337 Pedikelschrauben untersuchte die
+Genauigkeit und Revisionsraten verschiedener Verfahren:
+Diese Ergebnisse zeigen deutlich, dass die navigationsgestützten Verfahren eine wesentlich höhere
+Genauigkeit und eine reduzierte Revisionsrate aufweisen.
+Die spinale Navigation bietet nicht nur eine höhere Genauigkeit, sondern reduziert auch die
+Strahlenbelastung für Patienten und Chirurgen im Vergleich zur konventionellen Methode. Dadurch
+entfällt für den Chirurgen die Notwendigkeit, während der Operation eine schwere Bleiweste zu tragen,
+was die Arbeitsbedingungen erheblich verbessert.
+Minimalinvasive Schraubenimplantation:
+Neben der maximalinvasiven Operation, bei der ein großer Bereich des Rückens geöffnet wird, besteht
+die Möglichkeit, Schrauben minimalinvasiv einzusetzen. Dabei werden lediglich kleine Schnitte gesetzt,
+um zum einen die Kamera zur bildlichen Überwachung der Instrumente an der Wirbelsäule zu
+platzieren und zum anderen die Schrauben zu befestigen.
+Diese Methode bietet mehrere Vorteile: Sie führt zu einem geringeren Blutverlust, niedrigeren
+Entzündungsparametern und reduziertem Muskeltrauma. Dadurch sind die Krankenhausaufenthalte
+nach dieser Methode meist kürzer als bei dem maximalinvasiven Vorgehen.
+Warum ist die spinale Navigation noch kein Standard?
+Trotz der Vorteile hat sich die spinale Navigation noch nicht flächendeckend als Standard etabliert. Eine
+Umfrage von mehr als 3300 Wirbelsäulenchirurgen (Härtl et al., 2013) ergab unter anderem folgende
+Hauptgründe:
+• Beeinflussung des Workflows – die Einführung der Technologie erfordert Umstellungen im OPAblauf.
+• Höhere Operationszeit – wenn die spinale Navigation nicht gut in den Workflow eingebunden
+wird, kann sich die Operationszeit erhöhen.
+Methode Genauigkeit Revisionsrate
+Konventionell 68,1 % 10–15 %
+2D-Navigation 84,3 % 7–8 %
+3D-Navigation 95,5 % 3–4 %
+Florian Hauptmann Medizin 27.03.2025
+• Hohe Kosten – sowohl für die Anschaffung als auch für den laufenden Betrieb.
+Ausblick:
+Neben der spinalen Navigation werden auch Roboter eingesetzt, um die Präzision bei der
+Schraubenimplantation zu erhöhen. Ein mechanischer Arm wird vom medizinischen Personal so
+eingestellt, dass er automatisch in die gewünschte Stelle der Wirbelsäule bohrt. Während Roboter eine
+höhere Genauigkeit als Menschen erreichen, fehlt es durch die automatische Bewegung an taktilem
+Feedback. Dies kann es Chirurgen erschweren, bei ungewöhnlichen Gewebestrukturen präzise zu
+arbeiten, ohne unbeabsichtigte Gewebeschäden zu riskieren.
+Dennoch haben Studien gezeigt, dass der Einsatz von Robotern bei der Schraubenimplantation mit
+einem kürzeren Krankenhausaufenthalt, geringerem Blutverlust (Gum et al., 2019) und einer
+niedrigeren Rate an Kortikalisdurchbrüchen von Pedikelschrauben (Good et al., 2022) verbunden ist.
+Allerdings konnten keine signifikanten Unterschiede hinsichtlich Komplikationen, Revisionen oder
+erneuten Krankenhausaufnahmen im Vergleich zur spinalen Navigation festgestellt werden (Lee et al.,
+2021). Insgesamt zeigt sich, dass die Robotik ein wertvolles Hilfsmittel in der Wirbelsäulenchirurgie ist
+und in Zukunft möglicherweise eine noch größere Rolle spielen wird.
+Wiki:
+Begriff Definition
+CT Computertomographie
+Endoskopie Beobachtung innerer Organe durch einen biegsamen Schlauch
+Fluoroskopie Kontinuierliches Röntgen des Patienten
+Kortikalis Äußere Schicht des Knochens
+Maximalinvasives Verfahren Es wird über einen großen offenen Zugang operiert.
+Minimalinvasives Verfahren Es wird über einen kleinen Zugang operiert.
+Morbus Bechterew Wirbelsäulenerkrankung, die zu einer Verknöcherung der
+Wirbelsäule führen kann.
+Muskeltrauma Verletzung der Muskeln
+Pedikelschrauben Spezielle Schrauben zur Stabilisierung der Wirbelsäule
+Revision (In der Medizin) Eine Operation muss wiederholt oder erweitert werden.
+Taktiles / haptisches Feedback Die Rückmeldung über den menschlichen Tastsinn. Wenn der
+Mensch etwas anfasst, fühlt er die Beschaffenheit, spürt
+Widerstand, etc.
+Einsatz von KI:
+Large Language Models wie ChatGPT wurden verwendet, um aus einer Liste gegebener Stichpunkte
+einen kohärenten Text zu verfassen, sowie einen vorgeschriebenen Text für eine bessere
+Verständlichkeit umzuformulieren.
+Florian Hauptmann Medizin 27.03.2025
+Quellen:
+• Good, C. R., Orosz, L. D., Thomson, A. E., Schuler, T. C., Haines, C. M., Bhatt, F. R., ... & Jazini, E.
+(2022). Robotic-guidance allows for accurate S2AI screw placement without
+complications. Journal of Robotic Surgery, 1-6.
+• Gum, J. L., Crawford III, C. H., Djurasovic, M., Owens II, R. K., Brown, M., Steele, P., & Carreon,
+L. Y. (2019). 126. Introducing navigation or robotics into TLIF techniques: are we optimizing our
+index episode of care or just spending more money?. The Spine Journal, 19(9), 61-62.
+• Härtl, R., Lam, K. S., Wang, J., Korge, A., Kandziora, F., & Audigé, L. (2013). Worldwide survey
+on the use of navigation in spine surgery. World Neurosurgery, 79(1), 162-172.
+• Kosmopoulos, V., & Schizas, C. (2007). Pedicle screw placement accuracy: a metaanalysis. Spine, 32(3), E111-E120.
+• Lee, N. J., Zuckerman, S. L., Buchanan, I. A., Boddapati, V., Mathew, J., Leung, E., ... & Lehman,
+R. A. (2021). Is there a difference between navigated and non-navigated robot cohorts in robotassisted spine surgery? A multicenter, propensity-matched analysis of 2,800 screws and 372
+patients. The Spine Journal, 21(9), 1504-1512.
+• Qin, R., Liu, B., Hao, J., Zhou, P., Yao, Y., Zhang, F., & Chen, X. (2018). Percutaneous endoscopic
+lumbar discectomy versus posterior open lumbar microdiscectomy for the treatment of
+symptomatic lumbar disc herniation: a systemic review and meta-analysis. World
+Neurosurgery, 120, 352-362.
+• Rasouli, M. R., Rahimi-Movaghar, V., Shokraneh, F., Moradi-Lakeh, M., & Chou, R. (2014).
+Minimally invasive discectomy versus microdiscectomy/open discectomy for symptomatic
+lumbar disc herniation. Cochrane Database of Systematic Reviews, (9).
+• Yamout, T., Orosz, L. D., Good, C. R., Jazini, E., Allen, B., & Gum, J. L. (2023). Technological
+advances in spine surgery: navigation, robotics, and augmented reality. Orthopedic
+Clinics, 54(2), 237-246.
