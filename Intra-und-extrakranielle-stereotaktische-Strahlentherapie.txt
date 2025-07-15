@@ -1,0 +1,148 @@
+Intra- und extrakranielle
+stereotaktische Strahlentherapie
+Prof. Dr. Stefanie Milker-Zabel
+Xcare Praxis für Strahlentherapie Trier
+Zusammenfassung
+Autor: Julian Krauß
+16. April 2025
+1. Einleitung und historische Entwicklung
+Diese Vorlesung behandelt das Prinzip der hochpräzisen Bestrahlungstechnik in der onkologischen
+Strahlentherapie, die als Stereotaxie bezeichnet wird. Der Begriff umfasst sowohl die intrakranielle (innerhalb des Schädels) als auch die extrakranielle (außerhalb des Schädels) Anwendung.
+Bereits im Jahr 1968 wurde durch Leksell und Larsson am Gammaknife eine erste hochpräzise
+Bestrahlung durchgeführt. Seitdem haben sich kontinuierlich modernere Geräte und Verfahren
+entwickelt, die eine immer exaktere Lokalisation des Tumors ermöglichen. Dank computergestützter Bildgebungsverfahren wie Computertomographie (CT), Magnetresonanztomographie (MRT)
+und Positronenemissionstomographie (PET) können zielgenaue Dosen verabreicht werden, was
+die Wirksamkeit erhöht und zugleich das umliegende gesunde Gewebe schont.
+2. Grundprinzipien und Terminologie
+Die Arbeitsgemeinschaft der Deutschen Gesellschaft für Radioonkologie (DEGRO) definiert
+die Stereotaxie als eine perkutane Strahlentherapie, bei der ein klar abgrenzbares Zielvolumen
+in einer oder wenigen Sitzungen mit einer hohen, präzise fokussierten Dosis behandelt wird.
+Dabei ist die Radiochirurgie eine einmalige Bestrahlung mit erhöhter Einzeldosis (zum Beispiel
+18 bis 22 Gy), während die hypofraktionierte stereotaktische Strahlentherapie (HSRT) mehrere
+Teilbestrahlungen mit ebenfalls hohen Einzeldosen durchführt. Die einmalige Bestrahlung führt
+zu einer stark zellabtötenden, sogenannten zytoablativen Wirkung. Im Verlauf einer konventionellen Strahlentherapie verteilt man die Gesamtdosis dagegen üblicherweise auf viele Sitzungen
+mit deutlich geringerer Einzeldosis, um auch spät reagierendes Gewebe zu schonen. Bei der
+Stereotaxie erfolgt eine sehr enge und hochkonformale Abgrenzung des Zielvolumens, wobei
+die Sicherheitssäume oft nur wenige Millimeter betragen. Dies gelingt unter anderem durch
+reproduzierbare Lagerungshilfen wie Kopfmasken oder starr befestigte Ringe und durch die
+regelmäßige bildliche Kontrolle während der Behandlung. Ein wichtiger Bestandteil ist auch die
+Zeitkomponente, da man für eine optimale Wirksamkeit zeitnahe Bildgebung und Bestrahlung
+anstrebt, um etwaige Lage- oder Größenänderungen des Tumors früh zu erkennen.
+3. Oligometastasierung und allgemeine Anwendung
+In der Onkologie spricht man von einer Oligometastasierung, wenn nur wenige (häufig bis zu
+fünf) Metastasen vorhanden sind. In dieser Situation kann eine lokal ablative Behandlung, zu der
+auch die stereotaktische Strahlentherapie zählt, das tumorfreie Überleben und die Lebensqualität
+teilweise deutlich verbessern. Die Strahlendosen liegen dabei oft höher als bei konventionellen
+1
+Intra- und extrakranielle stereotaktische Strahlentherapie
+Therapien, zum Beispiel im Bereich von 5 bis 20 Gy pro Fraktion. Da nur kleine Areale hochdosiert
+bestrahlt werden, ist das Risiko, gesundes Gewebe zu schädigen, überschaubar, während der
+Tumor kaum noch Reparaturmechanismen einleiten kann.
+4. Hirnmetastasen
+Hirnmetastasen stellen eine häufige Komplikation verschiedener Krebserkrankungen dar und
+treten bei 20 bis 30 Prozent der Tumorpatientinnen und -patienten auf. Ohne Behandlung können
+sie durch ihre raumfordernde Wirkung in wenigen Wochen zum Tode führen. Mit Hilfe der
+Stereotaxie kann man auch solitäre oder wenige Hirnmetastasen effizient kontrollieren. Die
+Radiochirurgie wird dabei oft bei einzelnen Metastasen (bis etwa 3,5 bis 4 cm Durchmesser)
+eingesetzt, da eine einmalige hohe Dosis irreparable DNA-Schäden in den Tumorzellen verursacht.
+Eine hypofraktionierte stereotaktische Bestrahlung ist hingegen sinnvoll, wenn die Metastasen
+größer sind oder in sensiblen Bereichen liegen, da sich dadurch das gesunde Gewebe zwischen
+den Sitzungen besser erholen kann. Neben dieser nicht-invasiven Technik wird in manchen
+Fällen zusätzlich operiert, vor allem wenn ein einzelner Metastasenherd gut zugänglich ist und
+Symptome verursacht. Eine Kombination aus Operation und stereotaktischer Nachbestrahlung
+der sogenannten Resektionshöhle verlängert das rezidivfreie Überleben und senkt das Risiko
+lokaler Rückfälle. Neuerdings wird in Studien außerdem erprobt, ob sich durch eine neoadjuvante
+Bestrahlung (zunächst Bestrahlung, dann Operation) die Gesamtprognose weiter verbessern
+lässt.
+5. Lungenmetastasen
+Auch die Lunge kann häufig von Metastasen betroffen sein. Da sie sich während des Atmens
+verschiebt, ist die Bestrahlungsplanung komplexer als bei einem festen Organ. Eine Lösung bildet
+das Atemgating: Der Tumor wird nur in bestimmten Phasen des Atemzyklus bestrahlt, sodass der
+Strahl genau dann abgegeben wird, wenn sich das Zielvolumen in der vorab definierten Position
+befindet. Durch diese hochpräzise Methode lassen sich Lokalregionen in der Lunge mit wenigen
+Fraktionen (etwa drei bis sechs) auf hohe Dosen bringen, ohne dass Herz, Rückenmark oder
+andere empfindliche Strukturen erheblich geschädigt werden. Bei kleinen Befunden, etwa einem
+sehr frühen Lungenkarzinom, ist das Ergebnis oft vergleichbar mit einer Operation, vor allem
+wenn die Patientin oder der Patient aus medizinischen Gründen nicht operabel ist. Nach der
+Bestrahlung entsteht oftmals eine fibrotische Narbe, die in Bildgebungen wie CT oder MRT für
+ein Tumorfortschreiten gehalten werden könnte, jedoch nur das übliche Abheilen des zerstörten
+Gewebes widerspiegelt.
+6. Lebermetastasen
+Die Leber ist als stark durchblutetes Organ ebenfalls ein häufiger Ort für Metastasen, zum
+Beispiel bei Tumoren aus dem Verdauungstrakt oder bei Brustkrebs. Das Bestrahlen der Leber
+erfordert höchste Präzision, da auch hier die Atmung zu einer Verschiebung führt und sich zudem
+empfindliche Nachbarstrukturen wie Magen oder Herz in unmittelbarer Nähe befinden. Ziel ist
+es, eine ausreichend hohe Dosis in der Metastase zu erreichen, ohne die Leberfunktion durch
+Überdosierung zu gefährden. Für kleine Metastasen (unter drei bis vier Zentimetern Durchmesser) sind lokale Kontrollraten von über achtzig bis neunzig Prozent möglich. Fortschrittliche
+Bestrahlungsgeräte wie MR-Beschleuniger oder Robotersysteme (etwa CyberKnife) erlauben es,
+die Tumorbewegung kontinuierlich zu verfolgen und das Strahlenfeld anzupassen. Für größere
+Herde oder ungünstige Lagen wird oft ein fraktioniertes Stereotaxie-Protokoll gewählt, bei dem
+mehrere Sitzungen mit moderaten, aber kumulativ hohen Teildosen appliziert werden, damit
+sich das gesunde Lebergewebe zwischen den Bestrahlungen regenerieren kann.
+2
+Intra- und extrakranielle stereotaktische Strahlentherapie
+7. Zukunft und Ausblick
+Sowohl für intrakranielle als auch für extrakranielle Stereotaxie gilt, dass immer detailliertere Bildgebungen und ausgefeiltere Bestrahlungsgeräte die Genauigkeit weiter erhöhen. Das neoadjuvante
+Bestrahlen von Metastasen vor einer Operation wird gerade erforscht, um mögliche Streuungen zu
+minimieren und das zu resezierende Volumen zu verringern. Autokonturierungssysteme sollen das
+Erstellen des Zielvolumens automatisieren und damit die Planung beschleunigen, ersetzen jedoch
+nicht die Erfahrung und das Fachwissen von Radioonkologinnen und Radioonkologen. Da die
+Geräte, zum Beispiel MR-Linacs, sehr kostspielig sind, können sie nicht überall flächendeckend
+eingesetzt werden. Dennoch zeigt sich, dass die stereotaktische Strahlentherapie auf dem besten
+Weg ist, in vielen Zentren zum Standard bei ausgewählten Indikationen zu werden.
+8. Fazit
+Die Stereotaxie zeichnet sich durch hochpräzise, konformal geplante Bestrahlungen aus, die
+ein enges therapeutisches Fenster nutzen: Der Tumor erhält eine extrem hohe Dosis, während
+umliegendes Gewebe nahezu verschont bleibt. Bei wenigen Metastasen (Oligometastasierung)
+lassen sich durch lokale Ablationstechniken wie der Radiochirurgie oder der hypofraktionierten
+stereotaktischen Bestrahlung teils erhebliche Überlebensvorteile erzielen. Die kurzen Behandlungszeiträume sind für die Patientinnen und Patienten schonend, weil sie nur wenige Sitzungen
+benötigen und dennoch eine tumorzerstörende Dosis verabreicht bekommen. Obwohl die Technik
+bereits ein hohes Niveau erreicht hat, ermöglichen aktuelle Forschungsansätze eine weitere Verfeinerung, etwa durch Echtzeit-Anpassungen der Strahlenfelder oder neoadjuvante Konzepte. Somit
+wird die Stereotaxie auch künftig eine zentrale Rolle in der modernen onkologischen Versorgung
+einnehmen und dabei helfen, Tumoren noch gezielter zu bekämpfen.
+Literatur
+Es wurden keine direkten Literaturquellen angegeben; alle Inhalte basieren auf dem Vortrag von
+Prof. Dr. Stefanie Milker-Zabelund den Vorlesungsnotizen.
+KI-Nutzung
+Für die Erstellung dieser Zusammenfassung wurde eine KI-gestützte Textassistenz (ChatGPT)
+verwendet, um die Vorlesungsinhalte strukturiert und präzise aufzubereiten. Dabei wurden
+ausschließlich die im Vortrag explizit erwähnten Themen berücksichtigt, während Punkte, die
+nicht vom Arzt angesprochen wurden, weggelassen und durch relevantere Inhalte ersetzt wurden.
+3
+Intra- und extrakranielle stereotaktische Strahlentherapie
+Begriffserklärung (Eintrag ins Wiki)
+Begriff Beschreibung
+Stereotaxie Hochpräzise Bestrahlung mit exakter Bildgebung und spezieller
+Lagerungstechnik. Tumoren erhalten eine hohe Dosis, während
+umliegendes Gewebe dank enger Sicherheitssäume geschont wird.
+Intrakranielle Strahlentherapie
+Strahlentherapie innerhalb des Schädels (z. B. zur Behandlung von
+Hirnmetastasen). Höchste Präzision ist erforderlich, um empfindliches Hirngewebe zu schützen.
+Extrakranielle Strahlentherapie
+Stereotaktische Bestrahlungsverfahren außerhalb des Schädels (z. B.
+bei Lungen- oder Lebermetastasen). Berücksichtigt wird dabei die
+Bewegung der Organe, etwa durch Atemgating.
+Radiochirurgie Einmalige, sehr hochdosierte Bestrahlung (z. B. 18–22 Gy). Diese
+Methode zielt auf kleine, klar umrissene Tumorherde ab und zerstört sie mit nur einer Sitzung.
+Hypofraktionierte stereotaktische Strahlentherapie
+(HSRT)
+Variante der Stereotaxie mit wenigen Sitzungen (Fraktionen). Die
+hohe Gesamtdosis wird aufgeteilt, damit sich gesundes Gewebe
+zwischen den Terminen besser erholen kann.
+Oligometastasierung Vorliegen nur weniger Metastasen (bis zu fünf). Bei dieser Situation kann eine lokal ablative Therapie, wie die Stereotaxie, das
+Überleben signifikant verbessern.
+Resektionshöhle Hohlraum nach operativer Entfernung einer Metastase oder eines
+Tumors. Er wird oft stereotaktisch nachbestrahlt, um verbliebene
+Tumorzellen zu bekämpfen.
+Neoadjuvante Bestrahlung Bestrahlung vor einem chirurgischen Eingriff. Ziel ist, das Tumorvolumen zu verringern und eine mögliche Tumorzellstreuung zu
+reduzieren.
+Atemgating Verfahren, bei dem die Strahlung nur in bestimmten Atemphasen
+abgegeben wird. Dies verhindert, dass sich bewegliche Tumoren
+(z. B. in der Lunge) während der Bestrahlung verlagern.
+VMAT (Volumetric Modulated Arc Therapy)
+Rotationsbasierte Bestrahlungstechnik mit variabler Dosismodulation. Ermöglicht eine an die Tumorform angepasste Dosisverteilung
+während der Rotation um den Patienten.
+PET (Positronenemissionstomographie)
+Verfahren mit radioaktiv markierten Substanzen, die Tumorareale
+durch stärkere Anreicherung „leuchten“ lassen. Hilft, aktive Tumoranteile für die Bestrahlung zu identifizieren.
+4
