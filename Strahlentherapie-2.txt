@@ -1,0 +1,152 @@
+Ruprecht-Karls-Universität Heidelberg und Hochschule
+Heilbronn
+Institut für Medizinische Informatik
+Zusammenfassung: Strahlentherapie 2
+Die zwei häufigsten Tumorentitäten im Überblick
+Chris Benz
+17. April 2025
+Professorin Dr. Stefanie Milker-Zabel am 10.04.2025
+Expertin für Strahlentherapie an der Xcare Praxis für Strahlentherapie Trier [1].
+1 Fachgebiet der Strahlentherapie
+Bei der Strahlentherapie handelt es sich um ein eigenständiges medizinisches Fachgebiet innerhalb der Onkologie. Es befasst sich mit der Behandlung maligner Erkrankungen mittels ionisierender Strahlen. Ziel ist die Kontrolle von Tumorwachstum aus therapeutischen oder palliativen Gründen [2]. Die Therapie erfolgt oft in
+Kombination mit Operation, Chemotherapie oder Hormontherapie. Die Praxis für
+Strahlentherapie befindet sich am Krankenhaus der Barmherzigen Brüder in Trier
+und verfügt über neueste Technik und ein eingespieltes Team aus Experten mit
+langjähriger Erfahrung [1].
+2 Die zwei häufigsten Tumorentitäten im Überblick
+Im Fokus stehen die jeweils häufigsten malignen Erkrankungen des jeweiligen Geschlechtes - das Mammakarzinom bei der Frau sowie das Prostatakarzinom beim
+Mann.
+2.1 Mammakarzinom
+2.1.1 Risikofaktoren
+Das Mammakarzinom ist die häufigste bösartige Tumorerkrankung bei Frauen.
+Zu den wichtigsten Risikofaktoren zählen genetische Prädispositionen, hormonelle
+Einflüsse wie eine frühe Menarche und eine späte Menopause und eine langjährige
+Hormontherapie. Auch das späte oder ausbleibende Eintreten einer Schwangerschaft sowie eine Strahlenexposition im Jugendalter (zum Beispiel bei der Behandlung von Morbus Hodgkin) erhöhen das Erkrankungsrisiko.
+2.1.2 Symptomatik
+Symptome, die auf ein Mammakarzinom hindeuten, umfassen Sekretion oder Einziehung der Mamille, Änderung der Brustgröße, Hautveränderungen und die Schwellung der Achselhöhlen, wobei vor allem letzteres nicht spezifisch einem Krankheitsbild zuzuordnen ist. Knoten in der Brust können erst ab circa einem Zentimeter ertastet werden, weshalb regelmäßige Mammographie-Screenings wichtig
+sind. Empfohlen wird dies bei Frauen zwischen 50 und 69 Jahren.
+1
+2.1.3 Diagnostik und prognostische Faktoren
+Diagnostisch erfolgt zuerste eine klinische Untersuchung, ergänzt durch bildgebende Verfahren wie die Mammographie, Sonographie und MR-Mammographie.
+Letzteres kommt vor allem bei unklaren Befunden zum Einsatz. Zur weiteren
+Abklärung können eine Biopsie, auch MRT-gesteuert, und ein Labor mit Blutbild sowie Leberfunktion angeordnet werden. Histologisch handelt es sich bei 75
+Prozent der Mammakarzinome um duktal-invasive Tumore. Mehr als die Hälfte
+aller Tumore befindet sich im oberen, äußeren Quadranten. Dies muss vor allem
+bei der anschließenden Therapie im Hinblick auf den Lymphabfluss berücksichtigt werden. Prognostisch relevant sind insbesondere der Lymphknotenstatus, die
+Tumorgröße, der Hormonrezeptorstatus (Östrogen- und Progesteronrezeptor) und
+das Alter. Patientinnen, die an einem Tumor mit Stadium T1-T3 leiden, haben
+eine 5-Jahres-Überlebensrate von mehr als 85 Prozent. Das Vorliegen von synchronen Fernmetastasen führt zu einer signifikant schlechteren Prognose.
+2.1.4 Therapie
+Therapeutisch stellt die brusterhaltende Therapie (BET) mittlerweile den Standard dar. Sie umfasst eine Tumorresektion und Entfernung des Wächterlymphknotens, gefolgt von einer adjuvanten Bestrahlung der Restbrust. Eine Boostbestrahlung, eine zusätzliche Bestrahlung des Tumorbetts, wird insbesondere bei
+einem Alter von bis zu 50 Jahren angeraten und erhöht die lokale Kontrolle zusätzlich. Insbesondere jüngere Patientinnen profitieren davon. Abhängig von der
+Schwere der Erkrankung kann zusätzlich eine Systemtherapie angewendet werden.
+Aufgrund längerer Follow-up-Zeiträume in den Studien wurde auch die empfohlene Dauer der Hormontherapie angepasst. Bei der Behandlung des Mammakarzinoms wird immer häufiger auf Deeskalation gesetzt: so viel wie nötig, so wenig
+wie möglich. Dies umfasst auch den Trend hin zur Hyperfraktionierung, hierbei
+wird die Bestrahlung in mehrere Sitzungen mir geringere Dosis aufgeteilt [3]. Die
+ständig aktualisierten AGO-Guidelines empfehlen eine moderate hypofraktionierte Bestrahlung nach BET und stehen den oft veralteten Leitlinien gegenüber. In
+Fällen, in denen eine BET nicht durchführbar ist - zum Beispiel bei besonders
+großen Tumoren oder inflammatorischem Brustkrebs - besteht die Möglichkeit
+einer Mastektomie.
+2
+2.2 Prostatakarzinom
+2.2.1 Risikofaktoren
+Das Prostatakarzinom ist die häufigste Tumorerkrankung bei Männern. Mit dem
+Alter steigt das Risiko: Mehr als 80 Prozent der Männer über 80 Jahren weisen
+Tumorzeichen auf. Nur ein kleiner Teil dieser Männer erkrankt klinisch relevant,
+und etwa 3 Prozent dieser versterben.
+2.2.2 Früherkennung
+Die Früherkennung bei Prostatakarzinomen basiert zunehmend auf der PSAWertbestimmung. Die digitale rektale Untersuchung wird wegen zu vieler falscher
+Ergebnisse nicht mehr empfohlen. Die neue, jedoch noch nicht veröffentlichte,
+Konsultationsfassung Prostatakarzinom sieht keine rektale Untersuchung mehr
+vor.
+2.2.3 Diagnostik und Staging
+Abbildung 1: Bestimmung des GleasonScores [4].
+Zur Diagnostik kann unter anderem eine Prostatabiopsie vorgenommen werden. Dabei wird das suspekte Areal mittels Ultraschall untersucht und 10-12 Gewebezylinder zur weiteren Untersuchung entnommen.
+Bei PSA-Werten über 20 kann ergänzend eine Skelettszintigraphie durchgeführt werden, die Aufschluss über
+aktive Veränderungen in den Knochen gibt. Mittels
+Gleason-Score erfolgt eine histologische Einordnung des
+Tumors anhand der zwei am meisten vorherrschenden
+Gewebemuster (siehe Abbildung 1).
+2.2.4 Therapie
+Bei Low-Risk-Patienten kann eine aktive Überwachung (Active Surveillance) erfolgen und erst bei Fortschreiten wird eine kurative Therapie eingeleitet. Bei kurativer Therapie besteht die Wahl zwischen einer radikalen Prostatektomie oder
+Strahlentherapie. Die beiden Brachytherapieverfahren LDR und HDR ermöglichen zusätzlich das Einbringen radioaktiver Quellen direkt in das Prostatagewebe.
+High-Risk-Patienten profitieren zudem von einer bis zu 2 Jahren langen Hormontherapie. Patienten mit begrenzter Lebenserwartung werden meist nur im Sinne
+eines palliativen Konzepts begleitet (Watchful Waiting).
+3
+3 Aktuelle Herausforderungen und die Rolle der
+MI
+Abbildung 2: VisionRT zur Positionierung bei Bestrahlung [4].
+Die Herausforderungen in der Strahlentherapie werden immer spezifischer - etwa anatomischer Veränderungen während der Bestrahlung,
+Lageunsicherheiten oder organisatorischer Aufwand. Ein zentrales Problem ist die variable
+Lage von Organen. So verändert sich die Lage der Prostata in Abhängigkeit von Blasenund Darmfüllung. Bildgestützte Systeme wie
+die IGRT schaffen Abhilfe und ermöglichen
+vor und während der Behandlung eine exakte,
+reproduzierbare Lagerung des Patienten und
+des Zielgebiets. Eine große Herausforderung
+bestand zudem bei Patienten mit künstlichen
+Hüftgelenken, da es bei der Erstellung von CT-Aufnahmen zu Signalauslöschungen auch im Bereich der Prostata kam. MR-Beschleuniger lösen dieses Problem
+und ermöglichen störungsfreie Aufnahmen der Prostata. Bei der Bestrahlung von
+Mammakarzinomen spielt die Herzprotektion eine besondere Rolle. Mithilfe von
+Atemgating, unterstützt durch das System VisionRT zur Positionierung der Patientin, wird die Bestrahlung zeitgleich zur Inspiration durchgeführt - dem Zeitpunkt an dem das Herz am weitesten von der Thoraxwand entfernt ist. Dadurch
+wird die Strahlenbelastung des Herzens enorm gesenkt und Folgeerkrankungen,
+wie sie früher auftraten, werden minimiert. Algorithmen und KI-gestützte Tools
+verbessern die Planungssicherheit, während robotergestützte Systeme wie DaVinci in der Chirurgie für präzisere Eingriffe sorgen. Die medizinische Informatik
+ist damit kein optionaler Bestandteil, sondern eine tragende Säule der modernen
+Strahlentherapie, die entscheidend zur Qualität, Sicherheit und Individualisierung
+der Behandlung beiträgt.
+4 Die Zukunft der Strahlentherapie
+Die Strahlentherapie entwickelt sich stetig weiter. Zukünftige Schwerpunkte liegen auf adaptiven Therapiekonzepten, die sich flexibel an die jeweilige Situation
+anpassen lassen, sowie der Integration molekularer Bildgebung und neuer Algorithmen. Auch längere Studien und die Überarbeitung der Guidelines helfen, alte
+Standards zum Besseren zu durchbrechen. Durch die Erfahrung von Radiologen
+und durch die Unterstützung der MI wird eine personalisierte Strahlentherapie
+zunehmend Realität.
+4
+5 Wiki
+Begriff Erklärung
+Maligne Bösartig
+Menarche Erste Regelblutung
+Menopause Letzte Regelblutung
+Morbus Hodgkin Bösartige Erkrankung des lymphatischen
+Systems
+Duktal-invasives Mammakarzinom Häufigstes Karzinom in der Brust und hat
+seinen Ursprung in den Milchgängen
+Lokalen Kontrolle Erfolgreiche Eindämmung/Beseitigung,
+ohne dass dieser dort weiterwächst oder
+erneut auftritt
+Inflammatorisch Entzündlich
+Mastektomie Chirurgische Entfernung des Brustgewebes
+Brustödem Flüssigkeitsansammlung in den
+Brustlymphknoten
+Plexus brachialis Nervengeflecht des peripheren Nervensystems
+Inspiration Phase während der Luft in die Lungen aufgenommen wird
+PSA Prostataspezifisches Antigen
+Skelettszintigraphie Untersuchungsverfahren zur Darstellung
+von Knochenstoffwechselveränderungen
+Adenokarzinom Bösartigen von der Deckzellschicht ausgehenden Tumor, der aus Drüsengewebe
+hervorgegangen ist
+Prostatektomie Entfernung der Prostata
+Brachytherapieverfahren Verfahren bei dem radioaktive Strahler in
+das Tumorgewebe eingebracht werden
+LDR Strahlentherapie mit niedriger Dosisleistung, die kontinuierlich über lange Zeit im
+Körper wirkt
+HDR Strahlentherapie mit hoher Dosisleistung,
+die in kurzen Sitzungen (Minuten) erfolgt
+MR-Beschleuniger Kombiniert Magnetresonanztomographen
+mit einem Linearbeschleuniger
+Atemgating Bestrahlungsverfahren, bei dem die Bestrahlung synchron zur Atembewegung
+der Patienten erfrolgt
+5
+Literatur
+1. Trier. Xcare | Radiologie Nuklearmedizin Strahlentherapie im Saarland und
+der Region Trier. Available from: https : / / www . x - care . de / standorte /
+trier/ [Accessed on: 2025 Apr 15]
+2. DocCheck Mb. Strahlentherapie. DocCheck Flexikon. Available from: https:
+//flexikon.doccheck.com/de/Strahlentherapie [Accessed on: 2025 Apr
+15]
+3. DocCheck Mb. Hyperfraktionierung. DocCheck Flexikon. Available from: https:
+//flexikon.doccheck.com/de/Hyperfraktionierung [Accessed on: 2025
+Apr 17]
+4. Milker-Zabel S. Strahlentherapie - Die zwei häufigsten Tumorentitäten im
+Überblick. 2025 Apr 10
+Anmerkung: Zur Verbesserung der Grammatik wurde der online GrammatikCheck von scribbr.com genutzt.
+6
