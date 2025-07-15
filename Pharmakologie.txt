@@ -1,0 +1,206 @@
+Rongge Cao Medizin Pharmakologie 8.Mai
+1 / 8
+Einführung in die Klinische Pharmakologie
+Vortragender: Prof. Dr. sc. hum. Hanna Seidling, Abteilung Klinische Pharmakologie und Pharmakoepidemiologie, Kooperationseinheit Klinische Pharmazie
+Autor der Zusammenfassung: Rongge Cao
+Zusammenfassung
+Die Klinische Pharmakologie beschäftigt sich mit der Wirkung, Sicherheit und Anwendung von Arzneimitteln am Menschen. Sie bildet die Schnittstelle zwischen theoretischer Pharmakologie und der praktischen Patientenversorgung. Ziel ist es, durch wissenschaftlich fundierte Studien die Wirksamkeit und
+Unbedenklichkeit von Arzneimitteln zu belegen und deren Einsatz im klinischen Alltag zu optimieren. Dabei spielen auch regulatorische Aspekte, individuelle Dosierungsformen (z. B. Rezepturen) sowie die Abgrenzung zu Nahrungsergänzungsmitteln und Medizinprodukten eine zentrale Rolle. 1. Grundbegriffe der Klinischen Pharmakologie
+Zu den zentralen Begriffen der Klinischen Pharmakologie gehören Arzneimittel, Wirkstoffe, Rezepturen, Nahrungsergänzungsmittel und Medizinprodukte. Arzneimittel bestehen aus einem oder mehreren Wirkstoffen und gegebenenfalls Hilfsstoffen, die in eine bestimmte Darreichungsform (z. B. Tablette, Salbe, Tropfen) gebracht werden. Siedienen der Heilung, Linderung oder Verhütung von Krankheiten und wirken pharmakologisch, immunologisch oder metabolisch. Damit ein Arzneimittel in Verkehr gebracht werden darf, muss es von den zuständigen Zulassungsbehörden wie dem BfArM, dem PEI oder der EMAgeprüft und zugelassen werden. Dabei werden Qualität, Wirksamkeit und Unbedenklichkeit
+bewertet. Ein Wirkstof ist die pharmakologisch aktive Substanz eines Arzneimittels. Er ist
+verantwortlich für die therapeutische Wirkung und dient der Heilung, Linderung oder
+Verhütung von Krankheiten. Neben dem Wirkstoff enthalten Arzneimittel in der Regel auchHilfsstoffe, die keine eigene pharmakologische Wirkung entfalten, aber z. B. die Stabilität, Löslichkeit, Haltbarkeit oder den Geschmack des Medikaments verbessern. Rezepturarzneimittel werden individuell in Apotheken zubereitet, etwa für Kinder mit
+speziellen Dosierungsbedarfen oder bei besonderen Darreichungsformen. Defekturarzneimittel hingegen sind vorproduzierte Zubereitungen in kleinen Serien für häufigbenötigte Therapien. Beide Formen sind besonders relevant, wenn keine geeigneten
+industriellen Fertigarzneimittel zur Verfügung stehen. Nahrungsergänzungsmittel unterscheiden sich von Arzneimitteln dadurch, dass sie keine
+Zulassung benötigen und keine pharmakologische Wirkung entfalten dürfen. Medizinprodukte wiederum wirken in der Regel nicht pharmakologisch, sondern physikalischoder mechanisch und umfassen beispielsweise Pflaster, Injektionshilfen oder Software zur
+medizinischen Anwendung.
+Rongge Cao Medizin Pharmakologie 8.Mai
+2 / 8
+2. Pharmakodynamik
+2.1Pharmakodynamik und klinische Relevanz
+bei Polypharmazie
+Mit zunehmendem Alter steigt sowohl die
+Häufigkeit der Arzneimitteleinnahme als auch die
+Anzahl gleichzeitig verordneter Wirkstoffe
+deutlich an – ein zentrales Thema in der
+klinischen Pharmakologie. Die in Abbildung 1
+dargestellten Daten zeigen, dass insbesondere
+Personen über 70 Jahren – und hier vor allem
+Frauen – besonders häufig von Polypharmazie
+betroffen sind. So nehmen über 90 % der Frauen
+dieser Altersgruppe regelmäßig Medikamente ein, bei fast der Hälfte wurden mehr als fünf
+Wirkstoffe verordnet. 2.2 Grundlagen der Pharmakodynamik
+Die Pharmakodynamik beschreibt, wie ein Arzneistoff im Körper wirkt – also den
+Zusammenhang zwischen Konzentration und Wirkung. Dabei geht es um die Art und Weise, wie ein Wirkstoff an Zielstrukturen (z. B. Rezeptoren oder Enzyme) bindet und dadurch eine
+gewünschte oder unerwünschte Reaktion auslöst. Auf molekularer Ebene beruhen
+pharmakodynamische Effekte meist auf bestimmten Wirkmechanismen. Dazu zählen vor allem rezeptorvermittelte Wirkungen wie:
+ Aktivierung oder Hemmung von Enzymen
+ Hemmung von Transportern
+ Öffnen oder Schließen von Ionenkanälen
+ Beeinflussung von Strukturproteinen
+Daneben gibt es auch nicht-rezeptorvermittelte Wirkungen, z. B.:
+ Säureneutralisation durch Antacida
+ Chelatbildung bei Schwermetallvergiftungen
+ Osmotische Effekte bei Obstipation
+2.3 Dosis-Wirkungs-Kurve – Potenz und
+Wirksamkeit
+Die Wirkung eines Arzneistoffs hängt nicht nur
+vom Wirkmechanismus ab, sondern auch von der
+verabreichten Dosis bzw. Konzentration im
+Körper. Dies wird durch die sogenannte
+Dosis-Wirkungs-Kurve beschrieben (siehe
+Abb. 2). Zwei wichtige pharmakodynamische Kenngrößen
+sind dabei:
+ Potenz (Potency): Die Konzentration, bei der
+50 % der maximalen Wirkung erreicht
+Abb. 1: Arzneimitteleinnahme und Polypharmazie nach Alter undGeschlecht
+Abb. 2: Dosis-Wirkungs-Kurve mit Darstellung von Potenz undWirksamkeit.
+Rongge Cao Medizin Pharmakologie 8.Mai
+3 / 8
+werden (z. B. EC₅₀).  Wirksamkeit (Efficacy): Der maximale Effekt, den ein Wirkstoff entfalten kann –
+unabhängig von der verabreichten Menge. Eine hohe Potenz bedeutet, dass schon geringe Konzentrationen ausreichend Wirkung zeigen. Eine hohe Wirksamkeit bedeutet, dass ein Wirkstoff prinzipiell eine starke Wirkung erzielenkann. Diese Unterscheidung ist besonders wichtig, wenn verschiedene Medikamente
+therapeutisch verglichen werden. 2.4 Unerwünschte Arzneimittelwirkungen (UAWs)
+Die Dosis eines Arzneistoffs beeinflusst nicht nur die gewünschte Wirkung, sondern auch das
+Risiko für Nebenwirkungen. Viele Wirkstoffe entfalten bei höheren Konzentrationen Effekte
+an weiteren Zielstrukturen, was zu unerwünschten Arzneimittelwirkungen (UAWs) führen
+kann. Wie in Abbildung 3 dargestellt, befindet sich der therapeutisch sinnvolle Bereich (blau)
+meist zwischen zwei kritischen Schwellen: Bei zu niedriger Dosis bleibt der Effekt aus oder
+es wirken andere Rezeptoren; bei zu hoher Dosis steigt das Risiko für Toxizität und
+Nebenwirkungen deutlich an.
+Abb. 3: Dosis-Wirkungs-Kurven zweier Zielstrukturen mit Risiko für UAWs außerhalb des therapeutischen Bereichs 2.5 Variabilität in der Pharmakodynamik
+Nicht alle Patient:innen reagieren gleich auf ein Arzneimittel – selbst bei identischer
+Dosierung. Die Ursache dafür liegt oft in pharmakodynamischer Variabilität. Dabei spielenmehrere Faktoren eine Rolle:
+ Rezeptorsensibilität: Manche Personen sprechen empfindlicher oder schwächer auf einenWirkstoff an.  Rezeptordichte: Die Anzahl der Zielstrukturen (z. B. Rezeptoren) kann genetisch oder
+krankheitsbedingt unterschiedlich sein.  Arzneimittelwechselwirkungen: Gleichzeitige Gabe anderer Medikamente kann die
+Wirkung verstärken, abschwächen oder verändern. Diese Unterschiede machen eine individualisierte Dosierung und Therapieüberwachung
+erforderlich – insbesondere bei älteren Menschen oder Polypharmazie. 2.6 Pharmakodynamische Wechselwirkungen
+Neben individuellen Unterschieden in der Rezeptordichte oder -sensibilität können auch
+gleichzeitige Arzneimittelgaben die Wirkung eines Wirkstoffs verändern. Solche
+Rongge Cao Medizin Pharmakologie 8.Mai
+4 / 8
+pharmakodynamischen Wechselwirkungen entstehen typischerweise auf Rezeptorebene undlassen sich in zwei Hauptkategorien unterteilen:
+2.6.1 Agonist + Agonist:
+Wenn zwei Substanzen mit gleichgerichteter Wirkung gleichzeitig verabreicht werden, kannsich ihre Wirkung addieren oder verstärken. Dies kann zu einer zeitlich überlappenden
+Aktivierung desselben Zielrezeptors führen und das Risiko für unerwünschte
+Arzneimittelwirkungen erhöhen. Typische Beispiele sind die Kombination von Morphin und Diazepam, die beide zentral
+dämpfend wirken und gemeinsam das Risiko einer Atemdepression signifikant erhöhen. Ebenso kritisch ist die gleichzeitige Gabe von ASS 100 und Ibuprofen: Wird Ibuprofen vor
+der Einnahme von ASS eingenommen, kann es die irreversible
+Thrombozytenaggregationshemmung von ASS aufheben, was die Schutzwirkung gegen
+kardiovaskuläre Ereignisse beeinträchtigt. Allerdings werden solche Wechselwirkungen auch gezielt therapeutisch genutzt, z. B. in der
+Kombinationstherapie, um eine bessere Wirksamkeit durch synergistische Effekte zu
+erreichen. Beispiele hierfür sind:
+ Antihypertensive Therapie: Kombination von β-Blockern und ACE-Hemmern
+ Analgetische Therapie: Kombination von Opioiden und Nichtopioiden
+ Antivirale Therapie, z. B. bei HIV
+2.6.2 Agonist + Antagonist:
+Bei dieser Kombination entfalten zwei Substanzen eine entgegengesetzte Wirkung amselbenoder verwandten Rezeptor. Dies kann zu einer Wirkungsabschwächung oder demvollständigen Ausbleiben des Effekts führen. Ein typisches Beispiel ist die gleichzeitige Gabe von Salbutamol (β₂-Agonist) und
+Propranolol (nicht-selektiver β-Blocker): Der Bronchodilatator-Effekt von Salbutamol kanndurch Propranolol erheblich reduziert oder aufgehoben werden – mit möglicherweise
+gefährlichen Folgen für Asthmapatient:innen. Auch hier kann die gegenseitige Hemmung therapeutisch sinnvoll eingesetzt werden, z. B. zur
+Behandlung von Intoxikationen:
+ Opioide + Opioidantagonisten (z. B. Naloxon bei Opioidüberdosierung)
+ Marcumar + Vitamin K (zur Antagonisierung bei Blutungsrisiken)
+Abb. 4: Wirkung entsteht durch Zusammenspiel von Pharmakokinetik
+und Pharmakodynamik
+Rongge Cao Medizin Pharmakologie 8.Mai
+5 / 8
+Die gezeigte Abbildung 4 macht deutlich: Die Wirkung eines Arzneistoffs ist nicht nur eine
+Frage der Pharmakodynamik, sondern hängt ebenso stark von der Pharmakokinetik ab – alsodavon, wie der Körper mit dem Wirkstoff umgeht. 3. Pharmakokinetik
+Die Pharmakokinetik beschreibt, was der Körper mit dem Arzneistoff macht – also den Wegdes Wirkstoffs durch den Organismus. Im Gegensatz zur Pharmakodynamik, die die Wirkungauf den Körper betrachtet, analysiert die Pharmakokinetik die Konzentrationsverläufe imKörper im Zeitverlauf. Ein zentrales Konzept ist dabei die Beziehung zwischen verabreichter Dosis und
+resultierender Plasmakonzentration. Die
+meisten Arzneimittel folgen einer linearen
+Kinetik erster Ordnung, bei der eine
+proportionale Beziehung zwischen Dosis und
+Konzentration besteht (siehe Abb. 5). Einige
+Wirkstoffe wie Phenytoin, Propafenon oder
+Alkohol folgen dagegen einer nicht-linearen
+Michaelis-Menten-Kinetik (0. Ordnung): Hier
+steigt die Konzentration überproportional an, wenn metabolische Enzyme gesättigt sind. Andere Medikamente wie Methotrexat oder
+Gabapentin zeigen eine sättigbare Absorption
+oder Proteinbindung, wodurch der Anstieg ab
+einem bestimmten Punkt abflacht. 3.1 LADME-Modell
+Der Weg eines Arzneistoffs im Körper häufig durch das sogenannte LADME-Modell
+beschrieben. Es umfasst fünf aufeinanderfolgende Prozesse: Liberation, Absorption, Distribution, Metabolismus und Elimination. 3.1.1 Liberation
+Die Liberation bezeichnet die Freisetzung des Wirkstoffs aus der Arzneiform. Sie ist oft der
+geschwindigkeitsbestimmende Schritt, da nur gelöster Wirkstoff resorbiert werden kann. Die
+Geschwindigkeit der Freisetzung hängt wesentlich von der Arzneiform ab – z. B.:
+ schnell freisetzend
+ verzögert freisetzend
+ retardiert (verlangsamt) freisetzend
+3.1.2 Absorption
+Die Absorption (auch Resorption) ist die Aufnahme des gelösten Wirkstoffs vomResorptionsort in den zentralen Blutkreislauf, was Voraussetzung für eine systemische
+Wirkung ist. Der Resorptionsort hängt von der Arzneiform und dem Applikationsweg ab. Absorptionswege:
+ Passive Diffusion (häufigster und effektivster Weg; Voraussetzung: Lipophilie)
+Abb. 5: Konzentrationsverläufe in Abhängigkeit von der Dosis –unterschiedlicheKinetiktypen
+Rongge Cao Medizin Pharmakologie 8.Mai
+6 / 8
+ Transporter-vermittelter Transport -passiv (Carrier)
+-aktiv (gegen den Gradienten, braucht Energie)
+ Parazelluläre Diffusion (durch Poren/Lücken; meist ineffektiv)
+ Pinozytose (selten und ineffektiv)
+3.1.3 Distribution
+Die Distribution beschreibt die Verteilung des Wirkstoffs im Körper nach demEintritt in denBlutkreislauf. Ein zentraler Parameter ist das Verteilungsvolumen, das den Zusammenhangzwischen der Gesamtmenge im Körper und der Konzentration im Plasma beschreibt:
+V = Gesamtmenge / Plasmakonzentration
+Ein großes Verteilungsvolumen weist darauf hin, dass der Wirkstoff sich stark imGewebe
+verteilt und wenig im Plasma verbleibt. 3.1.4 Metabolismus
+Der Metabolismus bezeichnet die biochemische Umwandlung von Arzneistoffen, meist in der
+Leber. Er besteht aus drei Phasen:
+ Phase I (Reduktion/Oxidation):
+Funktionalisierung durch Enzyme wie CYP450
+– der Wirkstoff wird chemisch verändert, bleibt
+aber oft pharmakologisch aktiv.  Phase II (Konjugation): Anfügen hydrophiler
+Gruppen (z. B. Glucuronsäure durch UGT) zur
+Erhöhung der Wasserlöslichkeit.  Phase III (gerichteter Transport): Aktiver
+Transport der Metabolite in die Galle oder den
+Blutkreislauf, Vorbereitung auf die
+Ausscheidung. Diese Umwandlungsprozesse dienen der Entgiftung und Elimination des Wirkstoffs und
+seiner Metabolite, die in der Regel über die Niere ausgeschieden werden. 3.1.5 Elimination
+Die Elimination umfasst alle Prozesse, durch die ein Arzneistoff aus dem Körper entfernt
+wird – hauptsächlich über Niere (renal) und Leber (biliär/metabolisch). Ein zentraler Parameter ist die Clearance (CL): Sie beschreibt das Blutvolumen, das pro
+Zeiteinheit vollständig vom Arzneistoff befreit wird. Die Clearance kann sich auf den
+gesamten Körper oder auf einzelne Organe (z. B. Leber-Clearance) beziehen. CL = Dosis / AUC (AUC = Fläche unter der Konzentrations-Zeit-Kurve)
+Die Clearance ist entscheidend für die Dosierungsplanung: Bei konstanter Erhaltungsdosis
+bestimmt sie die Höhe der steady-state Plasmakonzentration und damit die Wirkung. 4. Arzneimitteltherapiesicherheit im Medikationsprozess
+Der Medikationsprozess umfasst alle Schritte von der Verordnung bis zur Verabreichung unddem Monitoring. Für die sichere Arzneimitteltherapie gelten die „9 Rechte“ als Standard:
+Der richtige: Patient – Arzneimittel – Applikationsweg – Zeitpunkt – Dosis – Dokumentation– Indikation – Arzneiform – Monitoring.
+Abb. 6: Phasen des Arzneistoffmetabolismus (Phase I–III) mit Transport zur Elimination
+Rongge Cao Medizin Pharmakologie 8.Mai
+7 / 8
+In der Praxis ist dieser Prozess jedoch durch komplexe Arbeitsabläufe, viele Beteiligte, Zeitdruck, Informationsflut und häufige Übergaben geprägt – alles Faktoren, die die
+Sicherheit beeinträchtigen können. 4.1. Fehlerentstehung (nach Reason-Modell)
+Die Entstehung von Medikationsfehlern lässt sich mit dem „Swiss Cheese Modell“ nach
+Reason erklären: Fehler entstehen dann, wenn mehrere Schwachstellen gleichzeitig auftretenund sich „Lücken“ in den Sicherheitsbarrieren überlagern. Einflussfaktoren:
+ Übergeordnete Strategie (z. B. Managemententscheidungen)
+ Begünstigende Faktoren (z. B. unklare Abläufe, Zeitmangel)
+ Fehlverhalten (z. B. Flüchtigkeitsfehler)
+ Versagen von Sicherheitsnetzen
+Wenn diese Ebenen nicht greifen, kann es zum Medikationsfehler kommen. 4.2 Arzneimitteltherapiesicherheit (AMTS)
+Arzneimitteltherapiesicherheit (AMTS) bezeichnet alle Maßnahmen zur Verbesserung der
+Sicherheit im Medikationsprozess. Ziel ist es, vermeidbare Risiken und Fehler zu reduzieren, um die Patientensicherheit zu erhöhen. Zu den bewährten AMTS-Instrumenten zählen:
+ Digitalisierung (z. B. elektronische Verordnungssysteme)
+ Checklisten
+ Workflow-Optimierung
+ Interprofessionelle Zusammenarbeit (Teamarbeit)
+ Ausbildung und Schulung
+5. Rolle der MI
+Die Medizinische Informatik spielt eine zentrale Rolle bei der Verbesserung der
+Arzneimitteltherapiesicherheit (AMTS). Durch digitale Lösungen wie elektronische
+Verordnungssysteme, automatisierte Interaktionsprüfungen, strukturierte Medikationspläne
+und Monitoring-Tools kann sie helfen, Medikationsfehler zu vermeiden und die
+Kommunikation zwischen Behandelnden zu verbessern. Besonders im komplexen Medikationsprozess unterstützt MI dabei, Informationen transparent
+darzustellen, Schnittstellen sicher zu gestalten und Entscheidungsprozesse evidenzbasiert zuunterstützen. So trägt sie wesentlich dazu bei, Risiken zu verringern und die
+Patientensicherheit zu erhöhen. 6. Aktuelle Herausforderungen
+Trotz digitaler Unterstützung bleibt die sichere Arzneimitteltherapie herausfordernd. Informationen zu Diagnosen, Vorerkrankungen und Medikationen sind oft über verschiedene
+Systeme verteilt, was besonders bei Übergaben oder sektorübergreifender Versorgung zu
+Kommunikationslücken führen kann. Hinzu kommen Zeitdruck, Personalmangel und
+komplexe Therapien – etwa bei älteren Patient:innen mit Multimorbidität. Auch mangelnde
+Interoperabilität und begrenzte Akzeptanz digitaler Systeme erschweren eine durchgängig
+sichere Versorgung. Gefragt sind klare Prozesse, interprofessionelle Zusammenarbeit und
+benutzerfreundliche IT-Lösungen.
+Rongge Cao Medizin Pharmakologie 8.Mai
+8 / 8
+7. Ausblick
+Die Arzneimitteltherapie der Zukunft wird stärker durch Digitalisierung, personalisierte
+Ansätze und den gezielten Einsatz von Entscheidungsunterstützungssystemen geprägt sein. Dabei ist die Zusammenarbeit zwischen medizinischen, pharmazeutischen, pflegerischen undinformatischen Fachbereichen zentral – nicht nur zur Fehlervermeidung, sondern auch zur
+Optimierung einer patientenzentrierten Versorgung. 8. Hinweise zur Erstellung
+Diese Zusammenfassung basiert auf dem Vortrag von Prof. Dr. sc. hum. Hanna Seidling
+sowie auf den bereitgestellten Vorlesungsunterlagen und persönlichen Notizen. Mit Hilfe vonChatGPT erstellt und an die Inhalte der Lehrveranstaltung angepasst.
