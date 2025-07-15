@@ -1,0 +1,104 @@
+Rongge Cao Medizin Neurochirurgie 17.April
+1 / 4
+Schädelhirntrauma---in der Neurochirurgie
+Vortragender: Prof. Dr. Med. Habil. Daniela Becker
+Neurochirurgin der Neurochirurgischen Klinik des Universitätsklinikums Heidelberg
+Autor der Zusammenfassung: Rongge Cao
+1. Einführung: Schädel-Hirn-Trauma (SHT)
+Ein Schädel-Hirn-Trauma (SHT) bezeichnet eine Verletzung des Schädels und/oder des
+Gehirns infolge einer äußeren Gewalteinwirkung, z. B. durch Sturz, Unfall oder Schlag. In
+Deutschland treten jährlich etwa 248.000 Fälle auf (≈ 332 pro 100.000 Einwohner). Betroffen sind vor allem Menschen im 2. bis 4. Lebensjahrzehnt, wobei junge Männer
+häufiger betroffen sind als Frauen. Das SHT stellt eine der häufigsten Todesursachen imjungen Erwachsenenalter dar – jährlich versterben daran etwa 2.750 Personen. Die meisten Fälle (ca. 91 %) verlaufen leichtgradig, während nur ca. 5 % schwer sind. Dennoch können selbst milde Verläufe langfristige Folgen wie Konzentrationsstörungen oder
+Kopfschmerzen hinterlassen. Die Schwere wird meist mithilfe der Glasgow Coma Scale
+(GCS) klassifiziert. 2. Pathophysiologie und Klassifikation
+Ein Schädel-Hirn-Trauma (SHT) führt zu primären und sekundären Hirnschäden:
+ Primärschäden entstehen unmittelbar durch die mechanische Krafteinwirkung – etwa
+durch Erschütterung, Quetschung oder Zerreißung von Hirngewebe und Blutgefäßen. Dazu zählen z. B. Kontusionsblutungen, Schädelbrüche, oder Axonalschäden durch
+Rotationskräfte.  Sekundärschäden entwickeln sich verzögert durch Entzündungsprozesse, zerebrales
+Ödem, Ischämie, erhöhten intrakraniellen Druck (ICP) oder zerebrale Herniation
+(Einklemmung). Ein zentrales Modell zur Erklärung der Volumenverhältnisse im Schädel ist die
+Monro-Kellie-Doktrin: Da der Schädel ein starrer Raum ist, muss bei einer Volumenzunahme(z. B. durch Blutung oder Ödem) ein anderer Bestandteil (Liquor oder venöses Blut)
+verdrängt werden – sonst steigt der ICP, was lebensbedrohlich werden kann. Die klinische Einschätzung des Schweregrads erfolgt mithilfe standardisierter Skalen wie der
+Glasgow Coma Scale (GCS), die im nächsten Abschnitt näher erläutert wird. 3. Klinische Ersteinschätzung und Notfallmanagement
+Bei Patient:innen mit Schädel-Hirn-Trauma (SHT) ist eine rasche und strukturierte
+Rongge Cao Medizin Neurochirurgie 17.April
+2 / 4
+Ersteinschätzung entscheidend für das weitere Vorgehen. Neben der klinischen Beobachtungspielen standardisierte Instrumente wie die Glasgow Coma Scale (GCS) und das
+ABCDE-Schema eine zentrale Rolle. 3.1 Glasgow Coma Scale (GCS)
+Die GCS dient der objektiven Beurteilung des Bewusstseinszustands anhand von drei
+Parametern:
+ Augenöffnung (E): 1–4 Punkte
+ Verbale Reaktion (V): 1–5 Punkte
+ Motorische Reaktion (M): 1–6 Punkte
+Die maximale Punktzahl beträgt 15 (voll bewusst), die minimale 3 (tiefes Koma). Die
+Einteilung erfolgt wie folgt:
+ leichtes SHT: GCS 13–15
+ mittleres SHT: GCS 9–12
+ schweres SHT: GCS ≤ 8
+Die GCS sollte initial und im Verlauf regelmäßig erhoben werden, um Veränderungen
+frühzeitig zu erkennen. 3.2 ABCDE-Schema
+Zur strukturierten Erstversorgung wird das ABCDE-Schema eingesetzt, besonders imRettungsdienst und Schockraum:
+ A – Airway: Freimachen und Sichern der Atemwege
+ B – Breathing: Beurteilung der Atemfrequenz und Oxygenierung
+ C – Circulation: Kontrolle von Blutdruck, Herzfrequenz, Blutung
+ D – Disability: Neurologischer Status (GCS, Pupillen)
+ E – Exposure: Entkleidung zur Ganzkörperinspektion
+Diese strukturierte Herangehensweise ermöglicht eine schnelle Priorisierung
+lebensbedrohlicher Probleme und dient als Grundlage für die weitere Diagnostik und
+Therapie. 4. Diagnostik und Klinik
+Die klinische Präsentation eines Schädel-Hirn-Traumas (SHT) ist variabel und hängt von
+Schweregrad und Lokalisation der Verletzung ab. Häufige Symptome umfassen
+Bewusstseinsstörungen, Übelkeit, Kopfschmerzen, Amnesie, Krampfanfälle sowie
+neurologische Ausfälle. Besonders relevant ist die Beurteilung der Pupillenreaktion, da weite
+oder lichtstarre Pupillen auf einen erhöhten intrakraniellen Druck oder eine Einklemmung
+hinweisen können. Die primäre Bildgebung erfolgt mittels kranialer Computertomographie (cCT), da sie schnell
+und zuverlässig Blutungen, Frakturen, Ödeme und Mittellinienverschiebungen erkennen lässt. Die Magnetresonanztomographie (MRT) wird ergänzend eingesetzt, insbesondere bei
+Verdacht auf diffuse axonale Verletzungen (DAI) oder zur weiteren Abklärung imVerlauf. Typische Verletzungsmuster bei SHT sind:
+ Subduralhämatom (SDH): langsam verlaufende venöse Blutung zwischen Dura mater
+und Arachnoidea; oft sichelförmig im CT sichtbar
+Rongge Cao Medizin Neurochirurgie 17.April
+3 / 4
+ Epiduralhämatom (EDH): meist arterielle Blutung, z. B. durch Riss der A. meningea
+media; bikonvexe Form im CT
+ Subarachnoidalblutung (SAB): Blut im Liquorraum, häufig begleitet von starken
+Kopfschmerzen und Reizsymptomen
+ Kontusionsblutung: fokale Hirnquetschung, v. a. frontotemporal lokalisiert
+ Diffuse axonale Verletzung (DAI): Mikroschäden durch Scherkräfte; häufig nur imMRT darstellbar
+Die Kombination aus klinischem Befund, GCS-Wert und Bildgebung bestimmt das weitere
+Vorgehen in der Akutversorgung. 5. Therapie und chirurgische Maßnahmen
+Die Behandlung eines Schädel-Hirn-Traumas (SHT) richtet sich nach dem Schweregrad, demklinischen Zustand der Patient:innen sowie den bildgebenden Befunden. Ziel ist es, sekundäreHirnschäden zu vermeiden und den intrakraniellen Druck zu kontrollieren. Bei einem leichten SHT genügt in der Regel eine symptomatische Therapie und klinische
+Beobachtung. Bei mittleren bis schweren Verläufen kann eine intensivmedizinische
+Überwachung notwendig sein, inklusive Hirndruckmessung, Sicherung der Vitalfunktionenund ggf. sedierende Maßnahmen. 5.1 Chirurgische Maßnahmen
+Bei Raumforderungen wie Hämatomen oder erhöhtem Hirndruck kommen folgende
+Verfahren zum Einsatz:
+ Bohrloch-Trepanation: minimal-invasiver Eingriff zur Entlastung, z. B. bei chronischemSubduralhämatom
+ Kraniotomie: operative Eröffnung des Schädels zur Entfernung von Hämatomen oder
+kontaminiertem Gewebe
+ Dekompressive Kraniektomie: Entfernung eines Schädelknochens zur Druckentlastungbei therapierefraktärem ICP-Anstieg
+5.2 Besonderheiten bei Kindern
+Bei Kindern ist besondere Vorsicht geboten: Das klinische Bild kann unspezifisch sein, die
+Schädelstruktur ist noch nicht vollständig ossifiziert und Kompensationsmechanismen
+unterscheiden sich. Auch psychosoziale Aspekte spielen bei der Nachsorge eine größere
+Rolle. 5.3 Prognose
+Die Prognose hängt entscheidend vom initialen GCS-Wert, Alter, Begleitverletzungen und
+der Zeit bis zur Intervention ab. Frühzeitige Diagnostik und konsequente Therapie verbesserndie Chancen auf einen guten neurologischen Outcome erheblich. 6. Ethische Aspekte beim Schädel-Hirn-Trauma
+In der Akutversorgung von Patient:innen mit schwerem Schädel-Hirn-Trauma stellen sich
+häufig ethisch herausfordernde Fragen – insbesondere, wenn keine Patientenverfügung
+Rongge Cao Medizin Neurochirurgie 17.April
+4 / 4
+vorliegt und die Prognose ungünstig erscheint. In solchen Fällen greift in der Erstversorgunghäufig der rechtfertigende Notstand, der es erlaubt, zunächst lebenserhaltende Maßnahmen zuergreifen, bis eine differenzierte Entscheidung möglich ist. Besonders im interdisziplinären Setting – etwa auf der Intensivstation – wird großer Wert auf
+eine spätere gemeinsame Entscheidungsfindung mit den Angehörigen gelegt. Dabei müssenmedizinische Erfolgsaussichten mit Aspekten der Lebensqualität, der Würde und der
+Wünsche der Patient:innen abgewogen werden. Falls nötig, werden auch Ethikkommissionenhinzugezogen, um komplexe Entscheidungen zu unterstützen. Ziel bleibt es, im Sinne des mutmaßlichen Patientenwillens zu handeln – mit größtmöglicher
+Sorgfalt, Respekt und professioneller Verantwortung. 7. Rolle der MI
+In der Neurochirurgie unterstützt die Medizinische Informatik vor allem die Bildgebung, Verlaufsdokumentation und Operationsplanung. CT- und MRT-Bilder werden über
+PACS-Systeme schnell verfügbar gemacht und sind entscheidend für die
+Behandlungsentscheidung bei Schädel-Hirn-Trauma. Neurologische Parameter wie GCS, Pupillenstatus oder ICP-Werte können digital dokumentiert und im Team nachvollzogen
+werden. Auch navigierte Eingriffe oder virtuelle Simulationen gewinnen in der Ausbildungund Planung zunehmend an Bedeutung. 8. Ausblick
+Die Behandlung von Schädel-Hirn-Traumen bleibt eine zentrale Herausforderung in der
+Neurochirurgie – sowohl akut als auch im Langzeitverlauf. Zukünftig werden präzisere
+Bildgebungsverfahren, individualisierte Therapiekonzepte und digitale Assistenzsysteme einenoch größere Rolle spielen. Auch die interdisziplinäre Zusammenarbeit sowie ethisch
+fundierte Entscheidungen werden weiterhin entscheidend für eine qualitativ hochwertige undpatientenzentrierte Versorgung sein. Die Medizinische Informatik kann diesen Wandel durchbessere Datenverfügbarkeit, Verlaufsanalysen und digitale Entscheidungsunterstützung aktivmitgestalten. 9. Hinweise zur Erstellung
+Diese Zusammenfassung basiert auf dem Vortrag von Prof. Dr. Med. Habil. Daniela Becker
+im Rahmen der Lehrveranstaltung Neurochirurgie – Schädel-Hirn-Trauma sowie auf
+persönlichen Notizen. Mit Hilfe von ChatGPT erstellt und inhaltlich an die besprochenen
+Themen angepasst.
