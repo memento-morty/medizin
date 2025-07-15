@@ -1,0 +1,122 @@
+NCT-Datenbanken in der
+Neuroonkologie
+Andreas Kudak
+Wissenschaftlicher Mitarbeiter (Abteilung für Radioonkologie und Strahlentherapie)
+Zusammenfassung
+Autor: Robin Hefner
+6. Juni 2025
+1. Vorstellung des medizinischen Fachgebietes
+Die Radioonkologie ist ein medizinisches Fachgebiet, das sich mit der Behandlung von Tumorerkrankungen durch ionisierende Strahlung befasst. Ziel ist es, bösartige Zellen gezielt zu zerstören
+oder ihr Wachstum zu hemmen, ohne das umliegende gesunde Gewebe unnötig zu schädigen.
+Dabei wird die Wirkung der Strahlung auf die Erbsubstanz genutzt, wodurch die Zellteilung
+gestoppt und Zellen in den programmierten Zelltod überführt werden. Gesunde Körperzellen
+besitzen eine höhere Fähigkeit zur Regeneration, weshalb die Bestrahlung in mehreren Fraktionen
+erfolgt, um diesen Unterschied therapeutisch auszunutzen. Die Abteilung für Radioonkologie
+und Strahlentherapie am Universitätsklinikum Heidelberg ist eine der größten Einrichtungen
+dieser Art in Deutschland. Sie ist eingebunden in ein überregionales Netzwerk bestehend aus
+dem Deutschen Krebsforschungszentrum, dem Nationalen Centrum für Tumorerkrankungen,
+der Medizinischen Fakultät Heidelberg sowie dem Heidelberger Ionenstrahl-Therapiezentrum.
+Dieses Netzwerk bildet das Heidelberger Institut für Radioonkologie, kurz HIRO. Ziel dieser
+Kooperation ist es, Forschung, klinische Versorgung und technische Entwicklung im Bereich der
+Strahlentherapie eng miteinander zu verzahnen. Die Radioonkologie in Heidelberg bietet das gesamte Spektrum moderner Bestrahlungsverfahren an und betreut jährlich Tausende Patientinnen
+und Patienten stationär und ambulant. Sie ist personell und technisch hervorragend aufgestellt,
+mit spezialisierten Ärztinnen und Ärzten, medizinischen Physikern, medizinischen Technologen,
+Dokumentationsassistenten, Study Nurses und einem IT-Team.
+2. Kern der Vortragsinhalte
+Inhaltlich behandelte die Vorlesung die physikalischen und biologischen Grundlagen der Strahlentherapie, den klinischen Ablauf sowie technische Verfahren. Der therapeutische Effekt der
+Strahlung beruht auf der gezielten Schädigung der DNA in Tumorzellen. Durch Fraktionierung
+wird die Strahlung über mehrere Sitzungen verteilt, sodass sich gesunde Zellen besser erholen
+können als Tumorzellen. Die Therapie kann kurativ mit dem Ziel der Heilung oder palliativ
+zur Linderung tumorbedingter Symptome eingesetzt werden. Darüber hinaus ist sie oft Teil
+eines multimodalen Behandlungskonzepts, etwa in Kombination mit Operation, Chemotherapie oder Immuntherapie. Der Ablauf beginnt mit der Fixierung des Patienten, zum Beispiel
+durch individuell angepasste Masken oder Vakuummatratzen. Danach erfolgt die Bildgebung,
+häufig ein Planungs-CT, ergänzt durch MRT oder PET zur besseren Abgrenzung von Tumor
+und gesundem Gewebe. Auf Grundlage der Bilddaten werden Zielvolumen und Risikoorgane
+segmentiert. Anschließend wird die Bestrahlung am Computer geplant. Die Dosisverteilung wird
+berechnet, simuliert und an die anatomischen Gegebenheiten des Patienten angepasst. Am Tag
+1
+NCT-Datenbanken in der Neuroonkologie 6. Juni 2025
+der Bestrahlung wird der Patient in die exakte Planposition gebracht. Die Therapie selbst dauert
+meist nur wenige Minuten. Im gesamten Prozess spielt die Qualitätssicherung eine zentrale Rolle,
+etwa durch die Nutzung von Wasserphantomen zur Überprüfung der Dosisabgabe. Bestrahlt wird
+mit hochenergetischen Photonen, Elektronen oder – bei speziellen Indikationen – mit Protonen
+und Schwerionen. Letztere kommen im Heidelberger Ionenstrahl-Therapiezentrum zum Einsatz,
+das über eine weltweit einzigartige Gantry verfügt. Dieses rotierende Bestrahlungssystem erlaubt
+eine millimetergenaue Bestrahlung aus beliebigen Richtungen.
+3. Aktuelle Herausforderungen bei der täglichen Arbeit
+Die Radioonkologie ist ein datenintensives Fach. Im klinischen Alltag stellt vor allem der Umgang
+mit heterogenen, oft unstrukturierten Daten eine Herausforderung dar. Zwar existieren viele ITSysteme wie Krankenhausinformationssysteme, Radiologie- und Onkologieinformationssysteme,
+PACS-Systeme für Bilddaten sowie Planungssysteme, doch die Informationen liegen häufig in
+unterschiedlichen Formaten und Strukturen vor. Es existiert keine einheitliche Plattform, die alle
+relevanten Informationen bündelt. Selbst einfache Daten wie Geburtsdatum oder Geschlecht sind
+systemabhängig unterschiedlich gespeichert. Hinzu kommen Freitexte wie Arztbriefe oder Verlaufsdokumentationen, die sich automatisiert kaum auswerten lassen. Das erschwert insbesondere
+die Durchführung klinischer Studien. Prospektive Studien bieten zwar strukturierte Daten, sind
+jedoch zeit- und kostenintensiv und erfordern langfristige Nachverfolgung. Retrospektive Studien
+können auf bereits vorhandene Daten zugreifen, leiden aber unter fehlender Standardisierung und
+unvollständiger Dokumentation. Die Studienarbeit erfordert daher eine enge Zusammenarbeit
+zwischen medizinischem Personal, Informatikern und Dokumentationsassistenten. Auch rechtliche
+Vorgaben wie Datenschutz und Pseudonymisierung müssen berücksichtigt werden. Die Integration
+all dieser Informationen in zentrale Datenbanken, wie die HIRO-Forschungsdatenbank, ist ein
+wesentlicher Schritt zur Verbesserung der Datenqualität und zur Ermöglichung wissenschaftlicher
+Analysen.
+4. Genutzte technische Anwendungen
+Die Radioonkologie Heidelberg nutzt eine Vielzahl modernster Technologien, die ein breites
+Spektrum an Behandlungsmöglichkeiten abdecken. Dazu gehören Photonenbeschleuniger für Standardbehandlungen, Elektronen für oberflächennahe Tumoren, sowie Protonen- und Schwerionenbestrahlung für hochpräzise Therapien bei empfindlichen oder schwer zugänglichen Tumoren. Die
+MR-LINAC-Technologie verbindet Bestrahlung mit MRT-Bildgebung und erlaubt eine Echtzeitanpassung an Tumorbewegungen. Das CyberKnife ist ein robotergestützter Linearbeschleuniger mit
+integrierter Bildkontrolle zur hochpräzisen Bestrahlung kleiner, inoperabler Tumoren. Weitere
+eingesetzte Systeme sind die Tomotherapie, intraoperative Bestrahlung mit dem Mobetron,
+HDR-Brachytherapie sowie verschiedene Planungstechniken wie konformale Strahlentherapie,
+intensitätsmodulierte Verfahren und bildgestützte Therapie. Die HIRO-Forschungsdatenbank
+bildet das Zentrum für die strukturierte Erfassung und Analyse klinischer und bildgebender
+Daten. Sie ist webbasiert, datenschutzkonform, DICOM-kompatibel und erlaubt die Integration
+in bestehende Kliniksysteme. Bilddaten aus verschiedenen Quellen wie PACS oder MOSAIQ
+können automatisiert importiert, pseudonymisiert und für Studienzwecke vorbereitet werden.
+Über ein Studienportal mit Rollen- und Rechtemanagement erhalten Forschende Zugang zu
+relevanten Informationen. Auch die Verbindung von Bilddaten mit elektronischen Fallberichten
+(eCRFs) ist möglich. Für jedes Forschungsprojekt wird ein eigener Studienmandant eingerichtet,
+was eine saubere Trennung und gezielte Auswertung erlaubt.
+2
+NCT-Datenbanken in der Neuroonkologie 6. Juni 2025
+5. Ausblick des Faches
+Die Zukunft der Radioonkologie liegt in der weiteren Digitalisierung, der Nutzung künstlicher
+Intelligenz und der konsequenten Integration strukturierter Daten in den klinischen Alltag.
+Projekte wie die Medizininformatik-Initiative HiGHmed zeigen, wie standardisierte Datenmodelle
+standortübergreifende Zusammenarbeit ermöglichen können. Auch der Broad Consent, also die
+allgemeine Einwilligung zur Verwendung von Patientendaten für Forschungszwecke, gewinnt an
+Bedeutung. In Heidelberg wurden bereits Tausende Patientinnen und Patienten über dieses Modell
+eingeschlossen. Die Nachsorge wird zunehmend digitalisiert, etwa durch elektronische Fragebögen
+zur Lebensqualität, sogenannte ePROMs, die per E-Mail oder direkt in der Klinik über Tablets
+erhoben werden. Künstliche Intelligenz kommt bereits heute zum Einsatz, etwa bei der Analyse
+medizinischer Texte durch Natural Language Processing oder zur Vorhersage des Auftretens
+weiterer Hirnmetastasen. Ziel ist es, bislang verborgene Zusammenhänge aufzudecken und
+Prognosemodelle zu entwickeln. Die Herausforderung besteht dabei in der Verfügbarkeit großer,
+strukturierter und qualitativ hochwertiger Datenmengen. Die Heidelberger Radioonkologie trägt
+durch ihre Infrastruktur, ihre interdisziplinäre Aufstellung und ihre Innovationskraft wesentlich
+dazu bei, diese Zukunft aktiv mitzugestalten.
+6. Begriffserklärung (Eintrag ins Wiki)
+Stereotaxie Hochpräzise Technik zur Bestrahlung kleiner Tumoren mit
+vielen Einstrahlrichtungen aus unterschiedlichen Winkeln.
+Tumorboard Interdisziplinäre Besprechung von Patientenfällen durch verschiedene Fachdisziplinen zur gemeinsamen Therapieentscheidung.
+Multilamellenkollimator Gerät zur Formung des Strahlenfeldes bei IMRT durch bewegliche Metalllamellen, die die Dosisverteilung steuern.
+DICOM Offener Standard zur Speicherung, Übertragung und Verwaltung medizinischer Bilddaten inklusive Metainformationen.
+Bragg-Peak Physikalisches Phänomen bei Ionenstrahlung, bei dem die
+maximale Energieabgabe exakt im Tumor erfolgt.
+Gantry Drehbares Strahlentherapie-System, das Bestrahlungen aus
+verschiedenen Winkeln um den Patienten herum ermöglicht.
+CyberKnife Robotergestütztes System für hochpräzise Strahlentherapie
+mit automatischer Lagekorrektur, insbesondere bei kleinen
+Tumoren.
+MR-LINAC Kombination aus Magnetresonanztomograph (MRT) und
+Linearbeschleuniger zur bildgeführten Strahlentherapie in
+Echtzeit.
+7. Literatur
+Es wurden keine direkten Literaturquellen angegeben; alle Inhalte basieren auf dem Vortrag von
+Andreas Kudak und den Vorlesungsnotizen.
+3
+NCT-Datenbanken in der Neuroonkologie 6. Juni 2025
+8. KI-Nutzung
+Für die Erstellung dieser Zusammenfassung wurde eine KI-gestützte Textassistenz (ChatGPT)
+verwendet, um die Vorlesungsinhalte strukturiert und präzise aufzubereiten. Dabei wurden
+ausschließlich die im Vortrag explizit erwähnten Themen berücksichtigt, während Punkte, die
+nicht vom Arzt angesprochen wurden, weggelassen und durch relevantere Inhalte ersetzt wurden.
+4
