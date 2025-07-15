@@ -1,0 +1,88 @@
+Neurochirurgie – Hirntumorchirurgie
+Zusammenfassung der Vorlesung „Neurochirurgie 1“
+Kurs Medizin
+Vortragende: PD Dr. med. Christine Jungk
+18. April 2025
+Inhaltsverzeichnis
+1 Vorstellung des medizinischen Fachgebietes 2
+2 Kern der Vortragsinhalte 2
+2.1 Überblick über Hirntumoren . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2.2 WHO-Klassifikation und molekulare Marker . . . . . . . . . . . . . . . . . 2
+2.3 Epidemiologie und Ätiologie . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2.4 Klinische Symptomatik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2.5 Therapiesäulen und Prognose . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2.6 Neurochirurgische Therapie-Prinzipien . . . . . . . . . . . . . . . . . . . . 2
+2.7 Operative Techniken . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.8 Funktionstragende Areale und intraoperative Strategie . . . . . . . . . . . 3
+3 Aktuelle Herausforderungen 3
+4 Genutzte technische Anwendungen 3
+5 Ausblick 3
+6 Weitere Aspekte 3
+7 Begriffserklärung (Eintrag ins Wiki) 3
+8 Literatur 3
+9 KI-Nutzung 4
+1
+1 Vorstellung des medizinischen Fachgebietes
+Die Neurochirurgie widmet sich der Diagnostik und operativen Therapie des zentralen sowie peripheren Nervensystems. Ein Schwerpunkt ist die Neuroonkologie:
+Sie kombiniert präzise Bildgebung, molekulare Klassifikation, mikrochirurgische
+Resektion und interdisziplinäre Nachbehandlung. Hierzu zählen stereotaktische
+Biopsien, endoskopische Hypophysenchirurgie und wachgeführte Resektionen
+in eloquenten Arealen.
+2 Kern der Vortragsinhalte
+2.1 Überblick über Hirntumoren
+Man unterscheidet intraaxiale (parenchymale) und extraaxiale (verdrängende) Tumoren. Wichtige Entitäten: diffuse Gliome, Glioblastom, Meningeom, Hirnmetastasen, Kraniopharyngeom, Akustikusneurinom, Medulloblastom. Meningeome sind die häufigsten benignen, Glioblastome die prototypischen hochmalignen
+Tumoren.
+2.2 WHO-Klassifikation und molekulare Marker
+Die WHO-Klassifikation (CNS 5, 2021) graduiert Tumoren in Grad I–IV. Seit 2016
+fließen molekulare Marker wie IDH-Mutation, 1p/19q-Kodesletion oder H3-K27M
+verbindlich in die integrierte Diagnose ein.
+2.3 Epidemiologie und Ätiologie
+Inzidenz: 23,9 / 100 000 Jahr für Metastasen, 9,1 für Meningeome, 4,5 für diffuse
+Gliome. Gesicherte Risikofaktoren: genetische Syndrome (NF I/II, Li-Fraumeni) und
+ionisierende Strahlung. Mobilfunkstrahlung erhöht das Risiko nicht.
+2.4 Klinische Symptomatik
+Häufig: epileptische Anfälle, fokale Defizite (z. B. Hemiparese, Aphasie), Hirndruckzeichen (Kopfschmerz, Übelkeit), Wesensveränderung. Selläre Tumoren verursachen endokrinologische Störungen.
+2.5 Therapiesäulen und Prognose
+Gliome: Resektion + Radiotherapie + Temozolomid; bei Progress zielgerichtete
+Inhibitoren. Meningeome: Resektion oder stereotaktische Bestrahlung. Positive
+Prognostik: junges Alter, guter KPS, WHO Grad I/II, IDH-Mutation, minimaler Resttumor.
+2.6 Neurochirurgische Therapie-Prinzipien
+Die onko-funktionelle Balance beschreibt das Verhältnis von Maximalresektion zu
+Funktionserhalt. Ziele: Gewebesicherung für personalisierte Therapie, Dekom2
+pensation neurovaskulärer Strukturen, Anfallskontrolle und Lebensqualitätssteigerung.
+2.7 Operative Techniken
+Kraniotomie: Knochenklappe wird refixiert. Kraniektomie: Deckel bleibt permanent entfernt. Weitere Verfahren: stereotaktische Biopsie, endoskopische Zugänge, Gliadel-Wafer, CED, LITT. Historisch: Vincenz Czerny – erste erfolgreiche
+Gliomresektion 1890 in Heidelberg.
+2.8 Funktionstragende Areale und intraoperative Strategie
+Ca. 30 % der diffusen Gliome betreffen eloquente Regionen. Präoperatives Mapping:
+fMRT, Diffusions-Traktographie, nTMS. Intraoperatives Monitoring: ECoG, MEP/SSEP,
+ggf. Wachkraniotomie. Resektionskontrolle: Neuronavigation, navigierter Ultraschall, 5-ALA-Fluoreszenz, intraoperatives MRT.
+3 Aktuelle Herausforderungen
+Infiltratives Wachstum, eloquente Lokalisation, Blut-Hirn-Schranke und Kosten hochmoderner Verfahren prägen den klinischen Alltag. Big-Data und KI-Bildfusion
+bieten Chancen für personalisierte OP-Simulationen.
+4 Genutzte technische Anwendungen
+Kombination aus Neuronavigation, intraoperativem MRT, 5-ALA und Neuromonitoring ermöglicht millimetergenaue Resektionen bei gleichzeitigem Schutz der
+Pyramidenbahn und anderer Leitungsbahnen.
+5 Ausblick
+Weiterentwicklung von Spektral-MRT, automatisierter Faserbahn-Segmentierung
+und 3-D-DruckModellen sowie molekular gezielten Therapien (z. B. IDH-, BRAF-Inhibitorenwird die operative Radikalität künftig selektiver gestalten.
+6 Weitere Aspekte
+Hydrocephalus-Shunts, perioperative Anfallskontrolle und Biobank-Ethik erfordern enge interdisziplinäre Kooperation.
+7 Begriffserklärung (Eintrag ins Wiki)
+8 Literatur
+Vorlesungsunterlagen und Erläuterungen von PD Dr. med. Christine Jungk (SoSe 2025).
+3
+Begriff Beschreibung
+Kraniotomie Temporäre Knochenklappe zur Tumorresektion
+Kraniektomie Permanenter Deckelverzicht bei Dekompression
+WHO-Grad Malignitätsskala I–IV nach WHO 2021
+IDH-Mutation Prognostisch günstiger Marker bei Gliomen
+Pyramidenbahn Hauptmotorbahn Kortex → Rückenmark
+Onko-funktionelle Balance Maximalresektion vs. Funktionserhalt
+Mapping Elektrostimulation zur Areal-Lokalisation
+Monitoring Kontinuierliche Funktionsüberwachung
+Wachkraniotomie Resektion mit intraoperativem Patienten-Feedback
+Tabotamp Cellulose-Schwamm zur Blutstillung
+9 KI-Nutzung
+Der Text wurde mithilfe eines KI-Assistenten strukturiert; ausschließlich Vorlesungsund Mitschriebinhalte wurden verwendet.
+4
