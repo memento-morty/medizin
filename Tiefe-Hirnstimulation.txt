@@ -1,0 +1,138 @@
+Florian Hauptmann Medizin 20.03.2025
+Tiefe Hirnstimulation
+Vortragender: Prof. Dr. med. Martin Jakobs, Oberarzt in der Neurochirurgischen Klinik des
+Universitätsklinikum Heidelbergs, Leiter der Sektion Stereotaktische Neurochirurgie
+Überblick:
+Die Tiefe Hirnstimulation (THS) ist ein etabliertes Verfahren zur Behandlung neurologischer
+Erkrankungen. Dabei werden Elektroden in subkortikale Hirnstrukturen implantiert, welche dann
+elektrische Impulse erzeugen, die sich dann auf die umliegenden Neuronen auswirken. Die THS ist für
+verschiedene Indikationen zugelassen, darunter Morbus Parkinson, Tremor, Dystonie, Epilepsie,
+Zwangsstörungen und Alzheimer. Besonders bei Morbus Parkinson spielt die THS eine wichtige Rolle,
+wenn medikamentöse Therapien an ihre Grenzen stoßen.
+Anwendungsgebiet M. Parkinson:
+Bei Morbus Parkinson kommt es zum Verlust
+dopaminerger Neurone im Gehirn. Diese
+Nervenzellen produzieren Dopamin – einen
+essenziellen Neurotransmitter für die
+Bewegungssteuerung. Der dadurch
+entstehende Dopaminmangel führt zu einem
+Ungleichgewicht in den neuronalen
+Schaltkreisen: Der Thalamus wird weniger
+stimuliert, wodurch der motorische Cortex
+weniger Signale erhält. Dies resultiert in einer
+eingeschränkten Beweglichkeit der Patienten.
+Um dieses Ungleichgewicht auszugleichen,
+stehen verschiedene medikamentöse
+Therapien zur Verfügung. Eine
+Standardbehandlung ist die Gabe von
+Levodopa, einer Vorstufe von Dopamin, um
+den Neurotransmittermangel zu kompensieren. Alternativ können Medikamente eingesetzt werden,
+die die Ausschüttung von Dopamin fördern, dessen Wirkung im synaptischen Spalt verlängern oder den
+Abbau verlangsamen.
+Allerdings kann es etwa 3–4 Jahre nach Beginn der medikamentösen Therapie zu einem
+Wirkungsverlust der dopaminergen Behandlung kommen, sodass höhere Dosierungen erforderlich
+werden. Dies führt oft zu stärkeren Schwankungen der Medikamenteneffekte und kann im schlimmsten
+Fall L-Dopa-induzierte Dyskinesien hervorrufen. In solchen Fällen kann die THS eine vielversprechende
+Alternative sein.
+Ein großer Vorteil der THS besteht darin, dass sie nicht auf Medikamente angewiesen ist, was bewirkt,
+wodurch Nebenwirkungen wie eine L-Dopa-bedingten Dyskinesien verringert werden. Gleichzeitig
+kann sie motorische Fluktuationen mindern und ermöglicht es Parkinson-Patienten, Bewegungen
+wieder schneller zu starten und auszuführen, den Bewegungsumfang zu vergrößern und das Zittern
+deutlich zu reduzieren. Dadurch verbessert sich die Lebensqualität der Patienten erheblich und die
+Notwendigkeit häufiger Arztbesuche sinkt.
+Florian Hauptmann Medizin 20.03.2025
+Entwicklung der THS:
+Vor der Einführung der elektrischen Stimulation wurden Patienten mit motorischen Symptomen wie
+einem Tremor durch Läsionsverfahren behandelt. Hierbei kam die Radiofrequenz-Koagulation zum
+Einsatz, bei der gezielt Hirngewebe zerstört wurde. Diese Methode war jedoch nur unilateral
+anwendbar, da eine beidseitige Läsion ein hohes Risiko für dauerhafte Nebenwirkungen mit sich
+brachte. Zudem folgte das Verfahren dem Prinzip „What-you-see-is-what-you-get“ – einmal gesetzte
+Läsionen konnten nicht rückgängig gemacht oder angepasst werden. Ein Vorteil bestand jedoch darin,
+dass nach der Operation keine technische Nachsorge erforderlich war.
+Mit der Einführung der Stereotaxie wurden minimalinvasive Eingriffe in präzise definierte Hirnareale
+möglich. Frühe stereotaktische Verfahren nutzten Röntgenbilder und Kontrastmittel zur Lokalisierung
+der Zielregionen. Die Positionierung erfolgte anhand eines Hirnatlasses, wobei die AC-PC-Linie als
+konstante Referenz diente. Diese Technik war genauer als frühere Läsionsverfahren, blieb aber
+unpräzise, da individuelle anatomische Unterschiede nicht vollständig berücksichtigt werden konnten.
+Ein entscheidender Durchbruch war die Entdeckung, dass eine hochfrequente elektrische Stimulation
+des Thalamus einen Tremor vorübergehend unterdrücken kann. Diese Erkenntnis führte zur
+Entwicklung der Tiefen Hirnstimulation, bei der durch gezielte elektrische Impulse neuronale
+Funktionen verändert werden, ohne das Gewebe zu zerstören. Die Methode ist reversibel, anpassbar
+und individuell regulierbar. Zudem kann sie beidseitig angewendet werden, ohne direkte Schäden am
+zentralen Nervensystem zu verursachen.
+Die heutige Stereotaxie ermöglicht dank fortschrittlicher Bildgebung und computerassistierter
+Navigation eine noch präzisere Platzierung von Elektroden. Dabei gibt es zwei Hauptansätze:
+• Frame-based Stereotaxie: Hierbei wird ein starrer Stereotaxie-Ring am Kopf fixiert. Eine
+Localizer-Box wird für die Bildgebung genutzt, während ein Zielbogen die präzise Führung von
+Instrumenten ermöglicht.
+• Frameless Stereotaxie: Moderne Verfahren setzen auf robotisierte Chirurgie, stereotaktische
+Plattformsysteme und MRT-fähige Systeme, die eine Live-Bildgebung während der Operation
+erlauben.
+Technische Innovationen bei der Tiefen Hirnstimulation:
+Die Stimulation bei der THS kann heute flexibel an die Bedürfnisse der Patienten angepasst werden.
+Sie kann tonisch oder kontinuierlich erfolgen, wodurch eine gleichmäßige und anhaltende Wirkung
+erzielt wird. Diese Anpassungsfähigkeit ermöglicht eine optimierte Behandlung und hilft,
+unerwünschte Nebenwirkungen zu reduzieren.
+Zu Beginn der THS wurden einfache 1-Kontakt-Elektroden eingesetzt, die eine grundlegende
+Stimulation ermöglichten. Mit der Einführung von 4-Kontakt-Elektroden verbesserte sich die
+Behandlung, da der Strom über eine größere Fläche verteilt wurde, was zu einer gleichmäßigeren und
+effektiveren Stimulation entlang einer linearen Strecke führte.
+Ein bedeutender Fortschritt war die Entwicklung von 8-Kontakt-Elektroden, die eine gezielte
+Stromlenkung in verschiedene Raumrichtungen ermöglichen. Diese Innovation markierte den
+Übergang von einer rein linearen zu einer direktionalen Stimulation. Je mehr Kontakte eine Elektrode
+besitzt, desto präziser kann die Stromverteilung gesteuert werden. Dadurch lässt sich der sogenannte
+„Sweet Spot“ – der Bereich im Gehirn mit der besten therapeutischen Wirkung – gezielt ansteuern.
+Dies verbessert nicht nur die Effizienz der THS, sondern minimiert auch Nebenwirkungen, da
+unerwünschte Areale gezielt ausgespart werden können.
+Florian Hauptmann Medizin 20.03.2025
+Optimierung von Targeting und Stimulation:
+Eine präzise Dokumentation der individuellen Therapieparameter ist essenziell, um die Behandlung
+langfristig zu optimieren. Dabei werden die genaue Elektrodenlage, die eingestellten
+Stimulationsparameter und mögliche Nebenwirkungen erfasst. Diese Daten liefern wertvolle
+Informationen darüber, welche Konfigurationen für den jeweiligen Patienten am besten funktionieren
+und wo Anpassungen erforderlich sind.
+Um die Elektrodenlage besser einordnen zu können, werden die individuellen Patientendaten in ein
+normiertes Gehirnmodell, das sogenannte „MNI Brain“, übertragen. Dadurch lässt sich die genaue
+Position der Elektroden im Verhältnis zu einem standardisierten Hirnatlas darstellen. Dies ermöglicht
+eine präzise Analyse, welche Hirnareale stimuliert werden und welche klinischen Effekte sich daraus
+ergeben.
+Durch die Zusammenführung von Daten vieler Patienten im Hirnatlas lassen sich umfassendere
+Erkenntnisse über optimale Stimulationsorte gewinnen. Diese werden mithilfe von Heat Maps
+visualisiert, die therapeutisch wirksame „Sweet Spots“ von weniger effektiven oder problematischen
+„Sour Spots“ unterscheiden.
+Ausblick:
+Eine vielversprechende Richtung für zukünftige Forschung ist die Nutzung gesammelter Targeting- und
+Stimulationsdaten zur prädiktiven Modellierung von Stimulationszielen und optimalen
+Therapieparametern. Mithilfe dieser Daten könnten bereits vor der Operation individuelle Vorhersagen
+getroffen werden – sowohl zur idealen Elektrodenplatzierung als auch zur gezielten Stimulation des
+umliegenden Gewebes, um den bestmöglichen therapeutischen Effekt zu erzielen.
+Ein weiteres spannendes Forschungsfeld ist die sogenannte adaptive THS. Während bei der aktuellen
+THS kontinuierlich Impulse gesendet werden, zielt die adaptive Variante darauf ab, die Stimulation nur
+dann zu aktivieren, wenn sie tatsächlich benötigt wird. Dafür werden die vom Gehirn erzeugten Impulse
+gemessen und erst wenn diese einen gewissen Schwellwert überschreiten, sendet die Elektrode einen
+Gegenimpuls. Das könnte zu einem geringeren Stromverbrauch der Elektrode, sowie der Reduzierung
+der Nebenwirkungen führen.
+Florian Hauptmann Medizin 20.03.2025
+Wiki:
+Begriff Definition
+AC-PC Linie Die Verbindung zwischen anteriorer und posteriorer Kommissur.
+Dyskinesie Bewegungsstörung, mit unkontrollierten Bewegungen.
+Heat Maps Grafische Darstellung die Areale unterschiedlicher Bedeutung mit
+verschiedenen Farben darstellt.
+MNI Brain Normiertes Gehirn
+Morbus Parkinson Neurodegenerative Erkrankung, bei welcher Nervenzellen im Gehirn
+absterben.
+Radiofrequenz-Koagulation Verfahren, bei dem ein Gewebe durch hochfrequentierte Wellen
+zerstört wird.
+Sour Spots Areale im Hirn, bei denen ein elektrischer Impuls keinen oder einen
+negativen therapeutischen Effekt hat.
+Stereotaxie Bildgeführtes minimalinvasives Operieren in einem definierten
+Raum.
+Sweet Spots Areale im Hirn, bei denen ein elektrischer Impuls einen positiven
+therapeutischen Effekt hat.
+THS Tiefe Hirnstimulation
+Tremor Unwillkürliches Muskelzittern
+Einsatz von KI:
+Large Language Models wie ChatGPT wurden verwendet, um aus einer Liste gegebener Stichpunkte
+einen kohärenten Text zu verfassen, sowie einen vorgeschriebenen Text für eine bessere
+Verständlichkeit umzuformulieren. 
