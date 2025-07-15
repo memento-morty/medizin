@@ -1,0 +1,108 @@
+Dataflut und Künstliche Intelligenz in
+der medizinischen Bildverarbeitung
+Zusammenfassung der Vorlesung von Ralf Floca
+Radiomics 1
+Dominik Buzov
+20. Mai 2025
+Formalitäten
+Diese Zusammenfassung fasst die Vorlesung "Dataflut und Künstliche Intelligenz in der medizinischen Bildverarbeitungßusammen, die Dr. rer. nat. Ralf Floca, Gruppenleiter der Division of
+Medical Image Computing am Deutschen Krebsforschungszentrum (DKFZ) in Heidelberg, am 20.
+Mai 2025 im Rahmen der Vorlesungsreihe "Radiomics & AI for Medicine"hielt. Verfasser dieser
+Zusammenfassung ist Dominik Buzov, Student im Masterstudiengang Medizinische Informatik.
+1 Vorstellung des Fachgebiets
+Die medizinische Bildverarbeitung ist ein interdisziplinäres Feld, das Verfahren aus Physik,
+Mathematik und Informatik kombiniert, um aus Rohdaten von bildgebenden Verfahren wie Computertomografie (CT), Magnetresonanztomografie (MRT), Ultraschall und Positronen-EmissionsTomografie (PET) frühzeitig klinisch relevante Informationen zu extrahieren. Dazu gehören
+neben klassischen Segmentierungsalgorithmen und Bildregistrierungsmethoden zunehmend robuste Machine-Learning- und Deep-Learning-Techniken, die Muster in Millionen von Bildvolumina
+erkennen. Die gewonnenen quantitativen Merkmale dienen sowohl der Diagnostik etwa der
+Erkennung von Tumoren oder entzündlichen Prozessen als auch der Therapieplanung und
+Verlaufsbeurteilung. In translationalen Forschungsprojekten werden diese algorithmischen Entwicklungen direkt in klinische Studien und in die Softwarearchitektur für den großflächigen
+Einsatz in Krankenhäusern überführt.
+2 Kern der Vortragsinhalte
+Dr. Floca eröffnete seinen Vortrag mit einem Blick auf die stetig wachsende Datenmenge im
+Gesundheitswesen. Schätzungen zufolge existieren derzeit weltweit rund 10 000 Exabyte an
+Gesundheitsdaten, darunter Bilddaten, Laborergebnisse und elektronische Patientenakten. Diese
+Datenmenge wächst jährlich um 38-48 %, getrieben vor allem durch den zunehmenden Einsatz
+bildgebender Verfahren und genomischer Sequenzierungen. Während strukturierte Laborwerte
+bereits automatisiert ausgewertet werden können, gilt für rund 97 % aller Bilddaten: Sie liegen
+als "Dark Dataünerschlossen vor, da sie in Form von DICOM-Dateien, JPEG-Bildern oder
+Papier-Scans gespeichert sind und erst aufwändig annotiert und standardisiert werden müssen,
+bevor maschinelle Verfahren sie analysieren können. Am Beispiel der Radiologie zeigte Dr. Floca,
+dass die 9 000 Radiolog*innen in Deutschland im Jahr 2019 bei einer Bearbeitungsgeschwindigkeit
+von einer Aufnahme pro Sekunde mehr als 47 Jahre bräuchten, um alle 13,5 Billionen CT- und
+MRT-Schnitte durchzusehen.
+1
+Im Anschluss erläuterte er die Entwicklung von Künstlicher Intelligenz (KI) über Machine
+Learning (ML) hin zu Deep Learning (DL). KI im engeren Sinne bezeichnet regelbasierte
+Expertensysteme, wie sie bereits in den 1940er Jahren entstanden. ML basiert seit den späten
+1970er Jahren auf statistischen Modellen von Entscheidungsbäumen über Clustering bis zu
+Reinforcement-Learning-Algorithmen und versuchte, aus Daten Muster abzuleiten, ohne explizite
+Regeln vorzugeben. Deep Learning, das ab Ende der 2000er Jahre dank GPU-Beschleunigung und
+Frameworks wie CUDA, PyTorch und TensorFlow an Bedeutung gewann, nutzt mehrschichtige
+neuronale Netze (DNN). Dr. Floca erwähnte Live-Demos zum Training einfacher PerzeptronModelle, die Funktionsweise von Faltungsschichten in CNNs (mittels des Ryerson-Visualizers)
+und das interaktive Experimentierfeld "Deeper Playground".
+Ein Schwerpunkt lag auf der Methode Radiomics, bei der aus vorab segmentierten Läsionen
+tausende quantitative Bildmerkmale extrahiert werden. Radiomics-Features lassen sich grob in
+Form-Charakteristika (etwa Kugelgestalt und Kompaktheit), Textur-Kennzahlen (z. B. Entropie,
+Homogenität), Intensitätsstatistiken (Grauwert-Histogramme) und funktionelle Merkmale (Kontrastmittelkinetik in Serienbilddaten) unterteilen. Dr. Floca verwies auf maßgebliche Studien von
+Kumar et al. (2012) und Aerts et al. (2014), die illustrierten, wie Tumoruntergruppen anhand dieser Merkmalsvektoren zuverlässig geclustert und deren klinisches Outcome prognostiziert werden
+kann. Indem Radiomics die Zahl der Freiheitsgrade von typischen 1283 Voxel auf wenige tausend
+Merkmale reduziert, werden Machine-Learning-Modelle auch bei begrenzten Trainingsdaten (30
+000 Fälle) robust trainierbar.
+Anhand des Gartner Hype-Cycle beschrieb Dr. Floca die Phasen überzogener Erwartungen,
+Ernüchterung und später reifer Produktivität von KI-Technologien. Er kritisierte das Überversprechen mancher Anwendungen etwa der Aussage, dass klassische Softwareentwickler vollständig
+durch KI ersetzt würden und hob hervor, dass komplexe Entwicklungsaufgaben (z. B. Architekturbewertung, fehlerfreie C++-Implementierungen) selbst bei hochtrainierten LLMs noch
+fehleranfällig bleiben. Er gab praxisnahe Beispiele, in denen automatisch generierte Tests durch
+fehlerhafte Import-Umbenennungen unerwartet bestehende Testframeworks brachen, und betonte
+die Notwendigkeit menschlicher Kontrolle.
+Schließlich stellte Dr. Floca demonstrative Reinforcement-Learning-Experimente vor, etwa das
+Atari-Spiel "Breakout", in dem Agenten ungeahnte Glitch-Strategien (Tunnelbuddeln) entdeckten,
+um das Spielziel effizient zu erreichen. Er wies darauf hin, dass in der Medizin ein solches "RewardHackingßeltener auftritt, da die Belohnungsfunktionen streng an klinisch validen Endpunkten
+orientiert sein müssen z. B. Überleben, Organfunktion, minimale Nebenwirkungen.
+3 Aktuelle Herausforderungen
+Die Heterogenität der Datenquellen erfordert umfangreiche Vorverarbeitung, um Bilddaten
+(DICOM, JPEG), dokumentenbasierte Befunde (PDF, TIFF) und strukturierte Laborwerte in
+ein einheitliches, maschinenlesbares Format zu überführen. Fehlende Metadaten wie Zeitstempel,
+Patientenkonten oder Ortsinformationen erschweren die Zuordnung von Aufnahmen zu klinischen
+Ereignissen. Der Datenschutz erfordert den Einsatz von Privacy-Preserving-Techniken wie Secure
+Federated Learning oder Differential Privacy, um sensible Informationen auch bei kollaborativen
+Modelltrainings zu schützen. Deep-Learning-Modelle bleiben trotz hoher Genauigkeit oft eine
+Black Box, sodass Explainable AI und Unsicherheitsquantifizierung (z. B. Monte-Carlo-Dropout,
+Bayessche Netze) für die Zulassung in der Medizin unverzichtbar sind. Außerdem müssen KIAnwendungen regulatorische Anforderungen (CE-Kennzeichnung, FDA-Zulassung) erfüllen, die
+umfangreiche Validierungs- und Dokumentationsprozesse voraussetzen. Interdisziplinäre Teams
+aus Informatikern, Medizinern und Physikern müssen gemeinsame Terminologien entwickeln,
+damit Begriffe wie "Radiomicsöder "CNN"nicht missverständlich verwendet werden. Ergänzend
+betonte Dr. Floca die Bedeutung von standardisierten Annotationstools (z. B. 3D-Slicer, ITKSNAP) und von Qualitätskontrollen menschlicher Experten in jeder Stufe der Datenaufbereitung.
+2
+Pilotprojekte am DKFZ haben gezeigt, dass mit semi-automatischer Segmentierung bereits eine
+Zeitersparnis von bis zu 60 % erzielt werden kann, wenn Experten nur noch Korrekturen statt
+Vollannotationsaufwand leisten.
+4 Genutzte Software und technische Anwendungen
+In der Abteilung kommen Python-basierte Frameworks zum Einsatz: PyTorch und TensorFlow
+für neuronale Netze, CUDA für GPU-Beschleunigung, scikit-learn für klassische ML-Algorithmen
+sowie OpenCV für allgemeine Bildverarbeitung. Die Whisper-API dient der Transkription von
+Diktaten, während Docker/Singularity reproduzierbare Forschungsumgebungen bereitstellen.
+GPU-Cluster (z. B. NVIDIA A100) und spezialisierte Hardware wie MR-Linac und CT-on-Rails
+ermöglichen tagesaktuelle Bildgebung. MLflow oder Weights & Biases protokollieren Experimente, und CI/CD-Pipelines (GitLab/GitHub Actions) integrieren LLM-gestützte Codeanalyse,
+automatische Test-Generierung und Ticket-Automatisierung. Für Live-Demonstrationen wurden
+Tools wie "Deeper Playgroundünd der Ryerson CNN-Visualisierer genutzt.
+5 Ausblick des Faches
+Zukünftig werden multimodale Foundation Models angestrebt, die Bild-, Text- und Labordaten
+verschränken, um automatisierte Reportgenerierung und Entscheidungsunterstützung zu realisieren. In der Therapieplanung erlauben MR-Linac-Systeme und KI-basierte Segmentierung
+eine adaptive Anpassung der Strahlenpläne in Echtzeit. AlphaFold-ähnliche Modelle für ProteinDesign eröffnen neue Wege in der Wirkstoffentwicklung und der personalisierten Prävention.
+Darüber hinaus gewann das Thema digitale Zwillinge von Patienten an Bedeutung, in denen
+Simulationen von Krankheitsverläufen und Therapieresponse im virtuellen Modell überprüft
+werden können. Die Integration von Smart-Health-Daten, etwa Wearable-Sensoren zur Erfassung
+von Schlaf- und Bewegungsmustern sowie Umweltdaten (Luftqualität, Ernährung), verspricht eine
+umfassende Individualisierung von Diagnose und Therapie. Angesichts der raschen technischen
+Entwicklung forderte Dr. Floca eine konsequente Haltung des "Lifelong Learning", um Fachkräfte
+kontinuierlich fortzubilden und den Anschluss an neueste Methoden nicht zu verlieren.
+Begriffserklärungen
+Dark Data Unstrukturierte Bild- und Dokumentendaten, die ohne Aufbereitung nicht maschinenlesbar sind.
+Radiomics Quantitative Extraktion zahlreicher Bildmerkmale zur statistischen
+Analyse klinischer Fragestellungen.
+CNN Convolutional Neural Network tiefe neuronale Netze mit Faltungsschichten, spezialisiert auf Bilderkennung.
+LLM Large Language Model tiefes neuronales Netz für natürliche Sprache, das Texte generiert und versteht.
+IGRT Image Guided Radiotherapy tägliche Lagekontrolle mittels bildgebender Verfahren vor und während der Bestrahlung.
+KI-Nutzung
+Diese Zusammenfassung wurde mithilfe von KI erstellt.
+3
