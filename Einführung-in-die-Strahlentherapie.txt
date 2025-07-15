@@ -1,0 +1,113 @@
+Florian Hauptmann Medizin 03.04.2025
+Einführung in die Strahlentherapie
+Vortragender: Prof. Dr. Angelika Zabel-du Bois, Oberärztin in der Klinik für Strahlentherapie und
+Radiologische Onkologie in Ludwigshafen
+Einführung:
+Tumorerkrankungen stellen eine der größten Herausforderungen der modernen Medizin dar. In
+Deutschland zählen sie nach Herz-Kreislauf-Erkrankungen zur zweithäufigsten Todesursache. Die
+meisten Tumoren treten geschlechtsspezifisch auf – so betreffen Brustkrebs vorwiegend Frauen und
+Prostatakrebs Männer. Etwa 39 % aller Tumorerkrankungen sind auf vermeidbare Umweltfaktoren
+zurückzuführen, wobei Rauchen mit einem Anteil von 19 % eine besonders große Rolle spielt –
+insbesondere bei Lungenkrebs.
+Ziele der Strahlentherapie:
+Die Strahlentherapie hat grundsätzlich zwei Zielrichtungen: Die kurative, also heilende Bestrahlung,
+und die palliative, also symptomlindernde Therapie. Im kurativen Ansatz kann die Bestrahlung als
+alleinige Maßnahme eingesetzt werden, sie dient aber auch häufig vor einer Operation zur
+Tumorverkleinerung oder nach der Operation zur Vermeidung eines Rückfalls (Rezidiv). In der
+palliativen Therapie steht die Linderung von Beschwerden im Vordergrund – dazu zählen Schmerzen,
+die durch Entzündungen verursacht werden, neurologische Symptome oder lokale Komplikationen
+durch Tumorwachstum.
+Eigenschaften von Tumoren:
+Benigne (gutartig) Maligne (bösartig)
+Langsamen Wachstum Rasches Wachstum
+Expansiv, verdrängendes Wachstum Infiltrierendes Wachstum*
+Kapsel Pseudokapsel --> Die Zellen sind verstreut
+Keine Metastasen Fernmetastasen*
+Rezidivneigung*
+*Malignitätskriterien → Wenn eins davon zutrifft, ist der Tumor bösartig
+Auswirkungen eines bösartigen Tumors auf den Körper
+Ein bösartiger Tumor kann den Körper auf vielfältige Weise beeinträchtigen. Das Tumorwachstum führt
+zur Volumenzunahme und zur Verdrängung gesunden Gewebes. Es können lebenswichtige Strukturen
+wie Gefäße, Bronchien, der Harnleiter oder der Darm eingeengt oder verlegt werden. Häufig tritt eine
+sogenannte Kachexie auf – eine Auszehrung des Körpers, da der Tumor dem Organismus Nährstoffe
+entzieht. Zusätzlich können paraneoplastische Syndrome entstehen: Dabei produziert der Tumor
+Hormone oder andere Botenstoffe, die zu Stoffwechselstörungen oder neurologischen Symptomen
+führen.
+Florian Hauptmann Medizin 03.04.2025
+Die TNM-Klassifikation
+Zur standardisierten Beschreibung der Tumorausdehnung wird die TNM-Klassifikation verwendet. „T“
+beschreibt die Größe und Ausdehnung des Primärtumors (von T1 = klein bis T4 = groß). „N“ steht für
+den Befall regionaler Lymphknoten (N0 = kein Befall, N3 = weit verbreiteter Befall), und „M“ gibt an,
+ob Fernmetastasen in entfernten Organen oder Lymphknoten vorhanden sind (M0 = keine, M1 = ja).
+Wie wirkt Strahlung auf Tumorzellen?
+Die Strahlentherapie nutzt ionisierende Strahlung, die in den Zellen molekulare Schäden, insbesondere
+an der DNA, verursacht. Dadurch wird die Zellteilung gestoppt – das Ziel ist die Verhinderung der
+weiteren Vermehrung der Tumorzellen. Besonders effektiv ist die Strahlung bei gut durchbluteten,
+sauerstoffreichen Tumoren (Sauerstoffeffekt). Neben dem antiproliferativen Effekt kann die Strahlung
+auch Apoptose, also programmierten Zelltod, auslösen. Gesunde Zellen hingegen haben eine bessere
+Fähigkeit zur Reparatur, was sich die Therapie zunutze macht.
+Dosis-Wirkungsbeziehung
+Für eine erfolgreiche Therapie ist die richtige Dosis entscheidend: Tumorzellen sterben bereits bei einer
+bestimmten Strahlendosis, während gesundes Gewebe eine höhere Toleranzgrenze hat. Diese
+Differenz bildet das sogenannte therapeutische Fenster. Es erlaubt die gezielte Zerstörung von
+Tumorgewebe unter Schonung der umliegenden Strukturen. Medikamente wie Chemotherapeutika
+können dieses Fenster zusätzlich erweitern. Eine gängige Praxis ist die fraktionierte Bestrahlung, bei
+der die Gesamtdosis in mehrere kleinere Einzeldosen aufgeteilt wird. Das erhöht die Wirksamkeit, da
+Tumorzellen zwischen den Sitzungen weniger regenerieren können als gesunde Zellen.
+Techniken der Strahlentherapie
+Zur Strahlentherapie zählen verschiedene Methoden, die kontinuierlich weiterentwickelt werden. Der
+Strahlenschutz ist essenziell: Die Strahlung wird gezielt auf den Tumor gerichtet, während
+medizinisches Personal während der Bestrahlung den Raum verlässt. Um die Behandlung präzise
+durchzuführen, muss die Position des Patienten bei jeder Sitzung exakt gleich sein, insbesondere bei
+fraktionierter Therapie.
+Die häufigste Form ist die perkutane (externe) Strahlentherapie. Früher wurde das gesunde Gewebe
+mit Bleiblöcken geschützt – heute erlaubt die 3D-Bestrahlungsplanung eine hochpräzise Steuerung,
+wobei kritische Organe gezielt geschont werden können. Durch individuell einstellbare Felder und
+sogenannte „Leafs“ kann im Tumor die maximale Dosis und im gesunden Gewebe die minimale Dosis
+erreicht werden. Eine besonders präzise Methode ist die 4D-CT-gestützte Bestrahlung, bei der z. B. bei
+Lungentumoren die Atembewegung mit in die Planung einbezogen wird.
+Bei der intraoperativen Strahlentherapie wird während der Operation direkt bestrahlt – der Chirurg
+kann dabei empfindliche Organe zur Seite schieben. Diese Methode ist allerdings aufwändiger. Eine
+weitere Technik ist die Brachytherapie, bei der eine Strahlenquelle über einen Katheter direkt in den
+Tumor eingebracht wird – so bleibt die Strahlenbelastung auf die unmittelbare Umgebung begrenzt.
+Moderne Konzepte wie die adaptive Radiotherapie oder Image-guided Radiotherapy passen die
+Bestrahlung laufend an Veränderungen der Patientenanatomie oder der Tumorgeometrie an. Ziel ist
+es, die Dosis im Tumor zu maximieren und gleichzeitig das gesunde Gewebe bestmöglich zu schonen.
+Florian Hauptmann Medizin 03.04.2025
+Strahlentherapie im Therapiekonzept
+Strahlentherapie ist meist Teil eines multimodalen Therapiekonzepts. Je nach zeitlicher Einordnung
+unterscheidet man zwischen neoadjuvanter (vor der Operation), adjuvanter(nach der Operation) oder
+definitiver (alleiniger) Bestrahlung. Auch Kombinationen mit Chemotherapie sind möglich: Diese
+können sequentiell (nacheinander) oder simultan (gleichzeitig) erfolgen – letzteres steigert
+nachweislich die Effektivität der Behandlung.
+Weitere Einsatzgebiete und Nebenwirkungen
+Die Strahlentherapie wird nicht nur bei bösartigen, sondern auch bei gutartigen Erkrankungen
+eingesetzt, etwa bei entzündlichen Prozessen, Meningeomen oder Hypophysenadenomen.
+Im palliativen Kontext steht die Linderung von Beschwerden im Vordergrund – insbesondere bei
+Schmerzen (z. B. durch Knochenmetastasen), lokalen Komplikationen wie Gefäßkompression oder
+neurologischen Symptomen (z. B. bei Hirnmetastasen).
+Nebenwirkungen hängen stark vom bestrahlten Organ ab. Akut können Entzündungen wie Enteritis,
+Pneumonitis oder Nephritis auftreten. Chronisch drohen Gewebeveränderungen wie Fibrosen,
+Nekrosen oder Schrumpforgane. Man unterscheidet hierbei serielle Organe (z. B. Rückenmark), bei
+denen ein Schaden zur vollständigen Funktionsunfähigkeit führt, und parallele Organe (z. B. Leber,
+Niere), bei denen ein teilweiser Funktionsverlust kompensiert werden kann. Die
+Nebenwirkungswahrscheinlichkeit ist dabei abhängig von der Dosis (Serielle Organe) und dem
+bestrahlten Volumen (Parallele Organe).
+Wiki:
+Begriff Definition
+Antiproliferativen Effekt Effekt der gegen eine Gewebsvermehrung gerichtet ist.
+Kurative Therapie Das Ziel ist die Bekämpfung der Ursache.
+Metastase Vom Primärtumor getrenntes Tumorgewebe, das durch das
+Verschleppen von Tumorzellen entstanden ist.
+Palliative Therapie Das Ziel ist die Symptomminderung, nicht die Beseitigung der
+Ursache.
+Parallele Organe Organe, bei denen ein teilweiser Funktionsverlust kompensiert
+werden kann (z.B. Leber, Niere)
+Serielle Organe Organe, bei denen ein Schaden zu einem kompletten
+Funktionsverlust führt (z.B. das Rückenmark)
+Tumor Gutartige oder Bösartige Neubildung von Körpergewebe, aufgrund
+einer Fehlregulation des Zellwachstums.
+Einsatz von KI:
+Large Language Models wie ChatGPT wurden verwendet, um aus einer Liste gegebener Stichpunkte
+einen kohärenten Text zu verfassen, sowie einen vorgeschriebenen Text für eine bessere
+Verständlichkeit umzuformulieren. 
