@@ -1,0 +1,155 @@
+Ruprecht-Karls-Universität Heidelberg und Hochschule
+Heilbronn
+Institut für Medizinische Informatik
+Zusammenfassung: Eindrücke aus der
+Hals-Nasen-Ohren-Heilkunde für Medizininformatiker
+Chris Benz
+10. April 2025
+Prof. Dr. med. G. Dyckhoff am 03.04.2025
+Oberarzt (Hals-, Nasen- und Ohrenklinik),
+Stellv. Arbeitsgruppenleiter (AG Molekulare Zellbiologie),
+Ärztliche Leitung (Schilddrüsensprechstunde) am 03.04.2025 [1].
+Anmerkung: Aufgrund der vielen medizinischen Fachbegriffen, wurde
+bei der ersten Verwendung des Wortes ein Übersetzung in Klammer
+dahinter geschrieben. Eine Übersicht findet sich im Wiki.
+1 Fachgebiet
+Abbildung 1: Mit was
+beschäftigt sich die
+HNO [2]?
+Das Fachgebiet der Hals-Nasen-Ohren-Heilkunde (HNO)
+umfasst typischerweise Prävention, Diagnostik, Therapie und Behandlung im Bereich der Ohren, Nase inklusive der Nebenhöhlen, der Mundhöhle, des Rachens, des
+Kehlkopf sowie angrenzender Regionen von Kopf und
+Hals. Zudem fallen Funktionsstörungen im Bereich von
+Hals und Kopf – unter anderem Hörstörungen, Gleichgewichtsstörungen und Sprachstörungen – in den Bereich der HNO [3]. Die Abteilung der HNO am Universitätsklinikum Heidelberg wird geführt von Prof. Dr.
+med. Patrick Schuler und verfügt über eine mit modernster Technik ausgestattete Einrichtung. In enger Zusammenarbeit mit anderen Fachabteilungen wird insbesondere bei Krebserkrankungen versucht, eine individuelle und bestmögliche Behandlung jedes Patienten
+zu gewährleisten. Zudem gehört sie zu einer der anerkanntesten medizinischen
+Fakultäten, die auch in den Bereichen Forschung und Bildung aktiv ist [4].
+2 Krankheitsbilder
+2.1 Otitis media chronica (Mittelohrentzündung)
+Ein wesentliches Krankheitsbild der HNO im Bereich der Ohren ist die Otitis
+media chronica, die sich in zwei Formen unterteilt.
+2.1.1 Otitis media chronica mesotympanalis (chronische Schleimhauteiterung)
+1
+Abbildung 2: Tromelfelldefekt verursacht durch
+Otitis media chronica
+mesotympanalis [5].
+Bei der mesotympanalen Form handelt es sich um eine
+auf die Schleimhaut des Mittelohrs beschränkte Form
+der Otitis media chronica. Diese äußert sich durch
+in Schüben wiederkehrende Schleimhauteiterung (geruchslos) in Verbindung mit Ohren- und Kopfschmerzen sowie Hörverlust durch Probleme bei der Schallweiterleitung. Da sich der Entzündungsprozess auf die
+Schleimhaut beschränkt, wird der Knochen nicht angegriffen. Durch die andauernde Schleimhauteiterung und
+Entzündungen kann es zu Schädigungen, bis hin zu einem klar erkennbaren Defekt des Trommelfells kommen
+(siehe Abbildung 2). Das Eintreten von Wasser bei bestehendem Trommelfelldefekt kann, verursacht durch
+Keime, zur zusätzlichen Verschlechterung der Krankheit führen.
+2.1.2 Otitis media chronica epitympanalis (chronische Knocheneiterung)
+Die epitympanale Form hingegen zeichnet sich durch ein aggressives, tumorähnliches Wachstum aus, welches Knochenstrukturen abbaut und unbehandelt zu
+einem Cholesteatom (eitrige Entzündung) führen kann [6]. Dieses kann sich auch
+hinter einem intakten Trommelfell befinden, was den Befund erschwert. Zu den
+Symptomen zählen eine wiederkehrende, unangenehm riechende Otorrhoe (Ohrausfluss), eine fortschreitende Hörminderung, Ohr- sowie Kopfschmerzen und gegebenenfalls Drehschwindel. Zur Diagnostik werden unter anderem nachfolgende
+Punkte herangezogen:
+• Eitrige, unangenehm riechende Otorrhoe
+• Schallleitungsschwierigkeit
+• Hornperlen (Ansammlung von Epithelmaterial)
+• Gehörgangspolyp (Schleimhautwölbung)
+Hat sich bereits ein Cholesteatom gebildet, kann es zu einer Vielzahl an Komplikationen kommen, die teils lebensbedrohlich sein können. Dazu gehören die Zerstörung der Gehörknöchelchen, die Lähmung des Gesichtsnervs, der Durchbruch zu
+venösen Blutleitern des Gehirns, Meningitis (Hirnhautentzündung) oder Abszesse.
+Die Behandlung erfolgt in zwei Schritten. Im ersten Schritt wird das Cholesteatom
+vollständig entfernt und nach sechs Monaten findet im zweiten Schritt eine Kontrolle statt (second look), sowie der Wiederaufbau des Trommelfells und die Rekonstruktion der Gehörknöchelchenkette. Hierbei gilt, die vollständige Entfernung
+2
+des betroffenen Gewebes steht vor einer Hörverbesserung. Als Transplantatmaterial wird meist ein Doppelimplantat aus Knorpel und Perichondrium (spezialisiertes
+Bindegewebe) genutzt, da dieses die beste Zuverlässigkeit bietet.
+2.2 Epistaxis (Nasenbluten)
+Ein weiteres typisches Krankheitsbild stellt Epistaxis dar. Ursachen können sowohl lokal als auch systemisch sein. Bei einer lokalen Ursache ist in circa 90% der
+Locus Kiesselbach die Blutungsquelle. Weitere lokale Ursachen sind gutartige beziehungsweise bösartige Tumore. Zu den systemischen Ursachen zählen unter anderem Infektionen, Gefäß- und Kreislauferkrankungen, Blutungskrankheiten oder
+Morbus Osler-Redu (Erbkrankheit). Die Therapie umfasst sowohl konservative
+Maßnahmen als auch operative Eingriffe. Im Allgemeinen sollte der Oberkörper
+hoch und der Kopf nach vorne gelagert werden, die Nase zusammengedrückt und je
+nach Bedarf eine Eiskrawatte und Nasentamponade verwendet werden. Dadurch
+lässt sich Epistaxis in den meisten Fällen stoppen. In extremen Fällen ist ein
+operativer Eingriff nötig, um einen lebensbedrohlichen Blutverlust zu vermeiden.
+Dabei kommen verschiedene Techniken zum Einsatz, wie eine Gefäßunterbindung
+oder Embolisation (Verschluss von Blutgefäßen) mit Katheter. Weitere operative
+Eingriffe umfassen das Entfernen von Tumoren, das Korrigieren von Frakturen
+sowie die Septumplastik (Operation an der Nasenscheidewand).
+2.3 Zervikale (zum Hals gehörende) Schwellungen
+Abbildung 3: Beispiel
+für Schwellungen im
+Halsbereich [5].
+Zervikale Schwellungen sind ein zentrales Leitsymptom
+und können auf eine Vielzahl verschiedener Krankheiten hinweisen. Infektiös bedingte Krankheiten umfassen unter anderem Lymphadenitis colli (entzündliche
+Schwellung der Halslymphknoten) und Halslymphknotentuberkulose. Bösartige Differentialdiagnosen (Erkrankungen mit ähnlicher Symptomatik) wie zervikale Lymphknotenmetastasen oder Karzinome (bösartige Gewebeveränderung) der Glandula parotis (Ohrspeicheldrüse) sollten ausgeschlossen werden. Halszysten
+stellen meist schmerzlose Raumforderungen dar, können sich jedoch bei einer Infektion entzünden. Eine
+Sonderform stellt das Paragangliom dar, welches stark pulsiert, nur horizontal
+verschiebbar ist und nicht fälschlicherweise mit einem Lymphknoten verwechselt
+werden darf.
+Die Diagnostik erfolgt bei diesen Veränderungen meist mittels Sonographie (Anwendung von Ultraschall), Computertomographie oder Magnetresonanztomogra3
+phie. Zur Therapie stehen sowohl operative als auch medikamentöse Optionen zur
+Verfügung. Bei bösartigen Tumoren wird zusätzlich ein onkologisches Gesamtkonzept eingesetzt.
+Ein weiterer Teil der HNO betrifft die Mandeln. Differentialdiagnosen bei Halsschmerzen und Belägen auf den Mandeln umfassen unter anderem Angina lacunaris (akute Mandelentzündung), Angina Plaut-Vincenti (seltene Form der Mandelentzündung) und Mononukleose (Pfeiffer-Drüsenfieber). Eine besonders wichtige
+Differentialdiagnose ist das Tonsillenkarzinom, welches sich durch eine einseitige
+Vergrößerung der Rachenmandeln zeigt.
+Anmerkung: Die Themengebiete wurden absteigend tief behandelt währende des Vortrags. Weitere Inhalte des Foliensatzes wurden nicht besprochen.
+3 Aktuelle Herausforderungen bei der täglichen
+Arbeit
+Auf Nachfrage zu aktuellen Herausforderungen wurden keine fachspezifischen Themen angesprochen, sondern allgemein vorherrschende Probleme im Gesundheitswesen genannt. Vor allem ein hoher zeitlicher Druck und wenig Möglichkeiten,
+individuell auf die Patienten einzugehen, wurden bemängelt. Zusätzlich verringert der steigende organisatorische Aufwand die Effizienz und verfügbare Zeit zur
+Patientenversorgung, was unter anderem ein Ansatzpunkt für die MI sein könnte.
+4 Medizinische Informatik in der HNO
+Auf die Verwendung spezieller Software oder MI-bezogene Hilfsmittel wurde während des Vortrags nicht eingegangen. Typischerweise kommen technische Hilfsmittel wie diagnostische und therapeutische Endoskope, CT, MRT sowie computergestützte minimalinvasive Operationsverfahren zum Einsatz [7].
+5 Die Zukunft der HNO
+In Zukunft wird sich die HNO voraussichtlich verstärkt auf die Integration digitaler Technologien und minimalinvasiver (robotergestützter) Operationsverfahren
+konzentrieren. Dadurch können Therapieansätze weiter verbessert und die Patientenversorgung optimiert werden.
+4
+6 Wiki
+Begriff Erklärung
+Otitis media chronica Chronischer Verlauf einer Mittelohentzündung
+Otitis media chronica mesotympanale Chronische Schleimhauteiterung
+Otitis media chronica epitympanale Chronische Knocheneiterung
+Cholesteatom Durch otitis media chronica epitympanale verursachte eitrige Entzündung
+Otorrhoe Ohrausfluss
+Meningitis Hirnhautendzündung
+Perichondrium straffe Schicht aus spezialisiertem Bindegewebe
+Morbus Osler-Redu Erbkrankheit die zur Erweiterung der
+Blutgefäße führt.
+Hornperlen Weiße, runde Ansammlungen von Epithelmaterial im Gehörgang
+Gehörgangspolyp Schleimhautwölbung im Gehörgang
+mit Ursprung im Mittelohr, oft verursacht durch ein Cholesteatom
+Embolisation Verschluss von arteriellen oder venösen
+Blutgefäßen
+Septumplastik Operation zur Stabilisation der Nasenscheidewand
+Zervikal Zum Hals gehörende Struktur
+Sonographie Anwendung von Ultraschall als bildgebendes Verfahren
+CT Computertomographie
+MRT Magnetresonanztomographie
+Lymphadenitis colli Entzündliche Schwellung der
+Halslymphknoten
+Differentialdiagnosen Erkrankung mit ähnlicher bzw. gleicher Symptomatik
+Glandula parotis Ohrspeicheldrüse
+Angina lacunaris Akute Mandelentzündung
+Angina Plaut-Vincenti Seltene Form der Mandelentzündung
+durch Mischinfektion
+Mononukleose Pfeiffer-Drüsenfieber
+Karzinom Bösartige Gewebeveränderung
+5
+Literatur
+1. Prof. Dr. med. G. Dyckhoff: Universitätsklinikum Heidelberg. Available from:
+https://www.klinikum.uni-heidelberg.de/personen/prof-dr-med-gdyckhoff-1006# [Accessed on: 2025 Apr 9]
+2. HNO-Tumore | STZ Freiburg - Zentrum für Strahlentherapie. Available from:
+https://www.stz-fr.de/cms/behandlungsangebot/strahlentherapiekrebserkrankung/hno-tumore/ [Accessed on: 2025 Apr 9]
+3. DocCheck Mb. Hals-Nasen-Ohren-Heilkunde. de. Available from: https://
+flexikon.doccheck.com/de/Hals-Nasen-Ohren-Heilkunde [Accessed on:
+2025 Apr 9]
+4. Hals-, Nasen- und Ohrenklinik: Universitätsklinikum Heidelberg. Available
+from: https://www.klinikum.uni-heidelberg.de/kopfklinik-zentrum/
+hals-nasen-und-ohrenklinik [Accessed on: 2025 Apr 9]
+5. G. Dyckhoff PD med. Präsentation: Eindrücke aus der Hals-Nasen-OhrenHeilkunde für Medizininformatiker. 2025 Apr 3
+6. Schilder AGM, Chonmaitree T, Cripps AW, Rosenfeld RM, Casselbrant ML,
+Haggard MP und Venekamp RP. Otitis media. Nature Reviews. Disease Primers 2016; 2:16063. doi: 10.1038/nrdp.2016.63. Available from: https:
+//www.ncbi.nlm.nih.gov/pmc/articles/PMC7097351/ [Accessed on: 2025
+Apr 10]
+7. Weber RK und Hosemann W. Comprehensive review on endonasal endoscopic
+sinus surgery. GMS Current Topics in Otorhinolaryngology, Head and Neck
+Surgery 2015 Dec; 14:Doc08. doi: 10 . 3205 / cto000123. Available from:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4702057/ [Accessed
+on: 2025 Apr 10]
+6
