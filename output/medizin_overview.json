@@ -4,426 +4,1422 @@
     {
       "name": "Anästhesie und Notfallmedizin",
       "children": [
-        {"name": "Fachgebiete", "children": [
-          {"name": "Operative Anästhesie"},
-          {"name": "Intensivmedizin"},
-          {"name": "Notfallmedizin"},
-          {"name": "Schmerztherapie"}
-        ]},
-        {"name": "Vollnarkose", "children": [
-          {"name": "Bewusstlosigkeit"},
-          {"name": "Analgesie"},
-          {"name": "Amnesie"},
-          {"name": "Muskelrelaxation"},
-          {"name": "Anxiolyse"},
-          {"name": "Reflexunterdrückung"}
-        ]},
-        {"name": "Herausforderungen", "children": [
-          {"name": "Komplikationen"},
-          {"name": "Dosisanpassung"},
-          {"name": "Demografischer Wandel"}
-        ]},
-        {"name": "Technik", "children": [
-          {"name": "Monitoring"},
-          {"name": "EEG/BIS"},
-          {"name": "Simulationstraining"}
-        ]},
-        {"name": "Ausblick", "children": [
-          {"name": "Ökologie"},
-          {"name": "Automatisierung"},
-          {"name": "KI-Systeme"}
-        ]}
+        {
+          "name": "Fachgebiete",
+          "children": [
+            {
+              "name": "Operative Anästhesie"
+            },
+            {
+              "name": "Intensivmedizin"
+            },
+            {
+              "name": "Notfallmedizin"
+            },
+            {
+              "name": "Schmerztherapie"
+            }
+          ]
+        },
+        {
+          "name": "Vollnarkose",
+          "children": [
+            {
+              "name": "Bewusstlosigkeit"
+            },
+            {
+              "name": "Analgesie"
+            },
+            {
+              "name": "Amnesie"
+            },
+            {
+              "name": "Muskelrelaxation"
+            },
+            {
+              "name": "Anxiolyse"
+            },
+            {
+              "name": "Reflexunterdrückung"
+            }
+          ]
+        },
+        {
+          "name": "Herausforderungen",
+          "children": [
+            {
+              "name": "Komplikationen"
+            },
+            {
+              "name": "Dosisanpassung"
+            },
+            {
+              "name": "Demografischer Wandel"
+            },
+            {
+              "name": "Allergien"
+            },
+            {
+              "name": "Kreislaufprobleme"
+            },
+            {
+              "name": "Psychische Faktoren"
+            }
+          ]
+        },
+        {
+          "name": "Technik",
+          "children": [
+            {
+              "name": "Monitoring"
+            },
+            {
+              "name": "EEG/BIS"
+            },
+            {
+              "name": "Simulationstraining"
+            },
+            {
+              "name": "EKG"
+            },
+            {
+              "name": "Pulsoxymetrie"
+            },
+            {
+              "name": "Kapnometrie"
+            }
+          ]
+        },
+        {
+          "name": "Ausblick",
+          "children": [
+            {
+              "name": "Ökologie"
+            },
+            {
+              "name": "Automatisierung"
+            },
+            {
+              "name": "KI-Systeme"
+            }
+          ]
+        },
+        {
+          "name": "Medikamente",
+          "children": [
+            {
+              "name": "Hypnotika"
+            },
+            {
+              "name": "Analgetika"
+            },
+            {
+              "name": "Muskelrelaxanzien"
+            }
+          ]
+        },
+        {
+          "name": "Ablauf",
+          "children": [
+            {
+              "name": "Narkosevisite"
+            },
+            {
+              "name": "Denitrogenisierung"
+            },
+            {
+              "name": "Intubation"
+            },
+            {
+              "name": "Kapnographie"
+            },
+            {
+              "name": "Aufwachen"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Computertomographie",
       "children": [
-        {"name": "Bildgebung", "children": [
-          {"name": "Schichtaufnahmen"},
-          {"name": "Multiplanar"},
-          {"name": "Hounsfield-Skala"}
-        ]},
-        {"name": "Software YACTA", "children": [
-          {"name": "Segmentierung"},
-          {"name": "Bronchiektasie-Index"},
-          {"name": "Datenbank"}
-        ]},
-        {"name": "Herausforderungen", "children": [
-          {"name": "Datenmenge"},
-          {"name": "Schwierige Anatomien"},
-          {"name": "Kalibrierung"}
-        ]},
-        {"name": "Technik", "children": [
-          {"name": "Region Growing"},
-          {"name": "Skelettierung"},
-          {"name": "Low-Dose CT"}
-        ]},
-        {"name": "Ausblick", "children": [
-          {"name": "Photonenzählende CT"},
-          {"name": "KI-Integration"},
-          {"name": "Standardisierung"}
-        ]}
+        {
+          "name": "Bildgebung",
+          "children": [
+            {
+              "name": "Schichtaufnahmen"
+            },
+            {
+              "name": "Multiplanar"
+            },
+            {
+              "name": "Hounsfield-Skala"
+            }
+          ]
+        },
+        {
+          "name": "Software YACTA",
+          "children": [
+            {
+              "name": "Segmentierung"
+            },
+            {
+              "name": "Bronchiektasie-Index"
+            },
+            {
+              "name": "Datenbank"
+            },
+            {
+              "name": "Wanddicke"
+            },
+            {
+              "name": "Bronchialdurchmesser"
+            }
+          ]
+        },
+        {
+          "name": "Herausforderungen",
+          "children": [
+            {
+              "name": "Datenmenge"
+            },
+            {
+              "name": "Schwierige Anatomien"
+            },
+            {
+              "name": "Kalibrierung"
+            },
+            {
+              "name": "Datenvolumen"
+            },
+            {
+              "name": "Anatomische Variationen"
+            },
+            {
+              "name": "Kalibrierungsunterschiede"
+            },
+            {
+              "name": "Kleine Atemwege"
+            }
+          ]
+        },
+        {
+          "name": "Technik",
+          "children": [
+            {
+              "name": "Region Growing"
+            },
+            {
+              "name": "Skelettierung"
+            },
+            {
+              "name": "Low-Dose CT"
+            }
+          ]
+        },
+        {
+          "name": "Ausblick",
+          "children": [
+            {
+              "name": "Photonenzählende CT"
+            },
+            {
+              "name": "KI-Integration"
+            },
+            {
+              "name": "Standardisierung"
+            },
+            {
+              "name": "Ultra-Low-Dose"
+            }
+          ]
+        },
+        {
+          "name": "Anwendungen",
+          "children": [
+            {
+              "name": "COPD"
+            },
+            {
+              "name": "Mukoviszidose"
+            },
+            {
+              "name": "Transplantationsfolgen"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Diarrhö und CED",
       "children": [
-        {"name": "Diarrhö", "children": [
-          {"name": "Definition"},
-          {"name": "Abgrenzung"},
-          {"name": "Pathophysiologie"}
-        ]},
-        {"name": "CED", "children": [
-          {"name": "Morbus Crohn"},
-          {"name": "Colitis Ulcerosa"},
-          {"name": "Therapie: Step-up vs Top-down"}
-        ]},
-        {"name": "Herausforderungen", "children": [
-          {"name": "Unklare Ursachen"},
-          {"name": "Genetik"},
-          {"name": "Immunsystem"}
-        ]},
-        {"name": "Technik", "children": [
-          {"name": "Endoskopie"},
-          {"name": "MRT"},
-          {"name": "Ultraschall"}
-        ]}
+        {
+          "name": "Diarrhö",
+          "children": [
+            {
+              "name": "Definition"
+            },
+            {
+              "name": "Abgrenzung"
+            },
+            {
+              "name": "Pathophysiologie"
+            },
+            {
+              "name": "Motorisch"
+            },
+            {
+              "name": "Osmotisch"
+            },
+            {
+              "name": "Sekretorisch"
+            },
+            {
+              "name": "Exsudativ"
+            }
+          ]
+        },
+        {
+          "name": "CED",
+          "children": [
+            {
+              "name": "Morbus Crohn"
+            },
+            {
+              "name": "Colitis Ulcerosa"
+            },
+            {
+              "name": "Therapie: Step-up vs Top-down"
+            }
+          ]
+        },
+        {
+          "name": "Herausforderungen",
+          "children": [
+            {
+              "name": "Unklare Ursachen"
+            },
+            {
+              "name": "Genetik"
+            },
+            {
+              "name": "Immunsystem"
+            }
+          ]
+        },
+        {
+          "name": "Technik",
+          "children": [
+            {
+              "name": "Endoskopie"
+            },
+            {
+              "name": "MRT"
+            },
+            {
+              "name": "Ultraschall"
+            }
+          ]
+        },
+        {
+          "name": "Differentialdiagnose",
+          "children": [
+            {
+              "name": "Pseudodiarrhö"
+            },
+            {
+              "name": "Paradoxe Diarrhö"
+            },
+            {
+              "name": "Stuhlinkontinenz"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Einführung Strahlentherapie",
       "children": [
-        {"name": "Ziele", "children": [
-          {"name": "Kurativ"},
-          {"name": "Palliativ"}
-        ]},
-        {"name": "Wirkung", "children": [
-          {"name": "DNA-Schaden"},
-          {"name": "Apoptose"},
-          {"name": "Therapeutisches Fenster"}
-        ]},
-        {"name": "Techniken", "children": [
-          {"name": "Perkutan"},
-          {"name": "Intraoperativ"},
-          {"name": "Brachytherapie"}
-        ]},
-        {"name": "Nebenwirkungen", "children": [
-          {"name": "Akut"},
-          {"name": "Chronisch"}
-        ]}
+        {
+          "name": "Ziele",
+          "children": [
+            {
+              "name": "Kurativ"
+            },
+            {
+              "name": "Palliativ"
+            }
+          ]
+        },
+        {
+          "name": "Wirkung",
+          "children": [
+            {
+              "name": "DNA-Schaden"
+            },
+            {
+              "name": "Apoptose"
+            },
+            {
+              "name": "Therapeutisches Fenster"
+            }
+          ]
+        },
+        {
+          "name": "Techniken",
+          "children": [
+            {
+              "name": "Perkutan"
+            },
+            {
+              "name": "Intraoperativ"
+            },
+            {
+              "name": "Brachytherapie"
+            }
+          ]
+        },
+        {
+          "name": "Nebenwirkungen",
+          "children": [
+            {
+              "name": "Akut"
+            },
+            {
+              "name": "Chronisch"
+            }
+          ]
+        },
+        {
+          "name": "Ablauf",
+          "children": [
+            {
+              "name": "Fixierung"
+            },
+            {
+              "name": "Bildgebung"
+            },
+            {
+              "name": "Planung"
+            },
+            {
+              "name": "Fraktionierung"
+            },
+            {
+              "name": "Qualitätssicherung"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "HNO",
       "children": [
-        {"name": "Krankheitsbilder", "children": [
-          {"name": "Otitis media"},
-          {"name": "Epistaxis"},
-          {"name": "Zervikale Schwellungen"}
-        ]},
-        {"name": "Diagnostik", "children": [
-          {"name": "Endoskopie"},
-          {"name": "CT/MRT"},
-          {"name": "Sonographie"}
-        ]},
-        {"name": "Herausforderungen", "children": [
-          {"name": "Zeitdruck"},
-          {"name": "Organisation"}
-        ]},
-        {"name": "Zukunft", "children": [
-          {"name": "Digitale Techniken"},
-          {"name": "Robotik"}
-        ]}
+        {
+          "name": "Krankheitsbilder",
+          "children": [
+            {
+              "name": "Otitis media"
+            },
+            {
+              "name": "Epistaxis"
+            },
+            {
+              "name": "Zervikale Schwellungen"
+            }
+          ]
+        },
+        {
+          "name": "Diagnostik",
+          "children": [
+            {
+              "name": "Endoskopie"
+            },
+            {
+              "name": "CT/MRT"
+            },
+            {
+              "name": "Sonographie"
+            }
+          ]
+        },
+        {
+          "name": "Herausforderungen",
+          "children": [
+            {
+              "name": "Zeitdruck"
+            },
+            {
+              "name": "Organisation"
+            }
+          ]
+        },
+        {
+          "name": "Zukunft",
+          "children": [
+            {
+              "name": "Digitale Techniken"
+            },
+            {
+              "name": "Robotik"
+            }
+          ]
+        },
+        {
+          "name": "Therapie",
+          "children": [
+            {
+              "name": "Konservativ"
+            },
+            {
+              "name": "Operativ"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Hämatologie",
       "children": [
-        {"name": "Krankheitsbilder", "children": [
-          {"name": "Leukämien"},
-          {"name": "Lymphome"},
-          {"name": "AL-Amyloidose"}
-        ]},
-        {"name": "Diagnostik", "children": [
-          {"name": "Blutbild"},
-          {"name": "Biopsie"},
-          {"name": "Molekulare Tests"}
-        ]},
-        {"name": "Herausforderungen", "children": [
-          {"name": "Strukturelle Probleme"},
-          {"name": "Unstrukturierte Daten"}
-        ]},
-        {"name": "Technik", "children": [
-          {"name": "PCR/FISH"},
-          {"name": "Bildgebung"}
-        ]},
-        {"name": "Ausblick", "children": [
-          {"name": "Digitale Daten"},
-          {"name": "KI"}
-        ]}
+        {
+          "name": "Krankheitsbilder",
+          "children": [
+            {
+              "name": "Leukämien"
+            },
+            {
+              "name": "Lymphome"
+            },
+            {
+              "name": "AL-Amyloidose"
+            }
+          ]
+        },
+        {
+          "name": "Diagnostik",
+          "children": [
+            {
+              "name": "Blutbild"
+            },
+            {
+              "name": "Biopsie"
+            },
+            {
+              "name": "Molekulare Tests"
+            }
+          ]
+        },
+        {
+          "name": "Herausforderungen",
+          "children": [
+            {
+              "name": "Strukturelle Probleme"
+            },
+            {
+              "name": "Unstrukturierte Daten"
+            }
+          ]
+        },
+        {
+          "name": "Technik",
+          "children": [
+            {
+              "name": "PCR/FISH"
+            },
+            {
+              "name": "Bildgebung"
+            }
+          ]
+        },
+        {
+          "name": "Ausblick",
+          "children": [
+            {
+              "name": "Digitale Daten"
+            },
+            {
+              "name": "KI"
+            }
+          ]
+        },
+        {
+          "name": "Fallbeispiele",
+          "children": [
+            {
+              "name": "Lymphknoten"
+            },
+            {
+              "name": "Blutbild"
+            },
+            {
+              "name": "Plasmazellerkrankung"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Stereotaktische Strahlentherapie",
       "children": [
-        {"name": "Prinzip", "children": [
-          {"name": "Intrakranielle"},
-          {"name": "Extrakranielle"}
-        ]},
-        {"name": "Anwendungen", "children": [
-          {"name": "Hirnmetastasen"},
-          {"name": "Lungenmetastasen"},
-          {"name": "Lebermetastasen"}
-        ]},
-        {"name": "Ausblick", "children": [
-          {"name": "Neoadjuvant"},
-          {"name": "Autokonturierung"},
-          {"name": "MR-Linac"}
-        ]}
+        {
+          "name": "Prinzip",
+          "children": [
+            {
+              "name": "Intrakranielle"
+            },
+            {
+              "name": "Extrakranielle"
+            }
+          ]
+        },
+        {
+          "name": "Anwendungen",
+          "children": [
+            {
+              "name": "Hirnmetastasen"
+            },
+            {
+              "name": "Lungenmetastasen"
+            },
+            {
+              "name": "Lebermetastasen"
+            }
+          ]
+        },
+        {
+          "name": "Ausblick",
+          "children": [
+            {
+              "name": "Neoadjuvant"
+            },
+            {
+              "name": "Autokonturierung"
+            },
+            {
+              "name": "MR-Linac"
+            }
+          ]
+        },
+        {
+          "name": "Technik",
+          "children": [
+            {
+              "name": "Radiochirurgie"
+            },
+            {
+              "name": "HSRT"
+            },
+            {
+              "name": "Atemgating"
+            }
+          ]
+        },
+        {
+          "name": "Oligometastasierung",
+          "children": [
+            {
+              "name": "Definition"
+            },
+            {
+              "name": "Vorteile"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "MKG-Chirurgie",
       "children": [
-        {"name": "Digitaler Workflow", "children": [
-          {"name": "CT/CBCT"},
-          {"name": "Intraoral-Scan"},
-          {"name": "3D-Druck"}
-        ]},
-        {"name": "Beispiele", "children": [
-          {"name": "Tumorresektion"},
-          {"name": "Dysgnathie"}
-        ]},
-        {"name": "Herausforderungen", "children": [
-          {"name": "Mixed Reality"},
-          {"name": "Regulatorik"}
-        ]},
-        {"name": "Ausblick", "children": [
-          {"name": "Photonenzählendes CT"},
-          {"name": "Deep Learning"}
-        ]}
+        {
+          "name": "Digitaler Workflow",
+          "children": [
+            {
+              "name": "CT/CBCT"
+            },
+            {
+              "name": "Intraoral-Scan"
+            },
+            {
+              "name": "3D-Druck"
+            }
+          ]
+        },
+        {
+          "name": "Beispiele",
+          "children": [
+            {
+              "name": "Tumorresektion"
+            },
+            {
+              "name": "Dysgnathie"
+            }
+          ]
+        },
+        {
+          "name": "Herausforderungen",
+          "children": [
+            {
+              "name": "Mixed Reality"
+            },
+            {
+              "name": "Regulatorik"
+            }
+          ]
+        },
+        {
+          "name": "Ausblick",
+          "children": [
+            {
+              "name": "Photonenzählendes CT"
+            },
+            {
+              "name": "Deep Learning"
+            }
+          ]
+        },
+        {
+          "name": "3D-Druckverfahren",
+          "children": [
+            {
+              "name": "FDM"
+            },
+            {
+              "name": "SLA/DLP"
+            },
+            {
+              "name": "SLM (Titan)"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "NCT Datenbanken",
       "children": [
-        {"name": "Strahlentherapie", "children": [
-          {"name": "Fraktionierung"},
-          {"name": "Planung"},
-          {"name": "Protonen/Schwerionen"}
-        ]},
-        {"name": "Daten", "children": [
-          {"name": "Heterogene Systeme"},
-          {"name": "Pseudonymisierung"},
-          {"name": "HIRO-Datenbank"}
-        ]},
-        {"name": "Ausblick", "children": [
-          {"name": "HighMed"},
-          {"name": "ePROMs"},
-          {"name": "NLP/KI"}
-        ]}
+        {
+          "name": "Strahlentherapie",
+          "children": [
+            {
+              "name": "Fraktionierung"
+            },
+            {
+              "name": "Planung"
+            },
+            {
+              "name": "Protonen/Schwerionen"
+            }
+          ]
+        },
+        {
+          "name": "Daten",
+          "children": [
+            {
+              "name": "Heterogene Systeme"
+            },
+            {
+              "name": "Pseudonymisierung"
+            },
+            {
+              "name": "HIRO-Datenbank"
+            }
+          ]
+        },
+        {
+          "name": "Ausblick",
+          "children": [
+            {
+              "name": "HighMed"
+            },
+            {
+              "name": "ePROMs"
+            },
+            {
+              "name": "NLP/KI"
+            }
+          ]
+        },
+        {
+          "name": "Workflow",
+          "children": [
+            {
+              "name": "Fixierung"
+            },
+            {
+              "name": "Planungs-CT"
+            },
+            {
+              "name": "Bildfusion"
+            },
+            {
+              "name": "Bestrahlung"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Hirntumorchirurgie",
       "children": [
-        {"name": "Tumorarten", "children": [
-          {"name": "Gliome"},
-          {"name": "Meningeome"},
-          {"name": "Metastasen"}
-        ]},
-        {"name": "Therapie", "children": [
-          {"name": "Resektion"},
-          {"name": "Radiotherapie"},
-          {"name": "Chemotherapie"}
-        ]},
-        {"name": "Techniken", "children": [
-          {"name": "Neuronavigation"},
-          {"name": "Intraoperatives MRT"},
-          {"name": "Wachkraniotomie"}
-        ]},
-        {"name": "Herausforderungen", "children": [
-          {"name": "Eloquent Areal"},
-          {"name": "Infiltration"}
-        ]}
+        {
+          "name": "Tumorarten",
+          "children": [
+            {
+              "name": "Gliome"
+            },
+            {
+              "name": "Meningeome"
+            },
+            {
+              "name": "Metastasen"
+            }
+          ]
+        },
+        {
+          "name": "Therapie",
+          "children": [
+            {
+              "name": "Resektion"
+            },
+            {
+              "name": "Radiotherapie"
+            },
+            {
+              "name": "Chemotherapie"
+            }
+          ]
+        },
+        {
+          "name": "Techniken",
+          "children": [
+            {
+              "name": "Neuronavigation"
+            },
+            {
+              "name": "Intraoperatives MRT"
+            },
+            {
+              "name": "Wachkraniotomie"
+            }
+          ]
+        },
+        {
+          "name": "Herausforderungen",
+          "children": [
+            {
+              "name": "Eloquent Areal"
+            },
+            {
+              "name": "Infiltration"
+            }
+          ]
+        },
+        {
+          "name": "WHO-Klassifikation",
+          "children": [
+            {
+              "name": "Grad I-IV"
+            },
+            {
+              "name": "Molekulare Marker"
+            }
+          ]
+        },
+        {
+          "name": "Symptome",
+          "children": [
+            {
+              "name": "Anfälle"
+            },
+            {
+              "name": "Hirndruck"
+            },
+            {
+              "name": "Fokale Defizite"
+            }
+          ]
+        },
+        {
+          "name": "Operative Techniken",
+          "children": [
+            {
+              "name": "Biopsie"
+            },
+            {
+              "name": "Kraniotomie"
+            },
+            {
+              "name": "LITT"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Neurowissenschaften",
       "children": [
-        {"name": "Emotionserkennung", "children": [
-          {"name": "MRT-Analyse"},
-          {"name": "Neuronale Netzwerke"}
-        ]},
-        {"name": "Soziale Entscheidungen", "children": [
-          {"name": "Energiespiel"},
-          {"name": "Borderline-Studie"}
-        ]}
+        {
+          "name": "Emotionserkennung",
+          "children": [
+            {
+              "name": "MRT-Analyse"
+            },
+            {
+              "name": "Neuronale Netzwerke"
+            },
+            {
+              "name": "Korrelationsmatrix"
+            },
+            {
+              "name": "Ähnlichkeiten"
+            }
+          ]
+        },
+        {
+          "name": "Soziale Entscheidungen",
+          "children": [
+            {
+              "name": "Energiespiel"
+            },
+            {
+              "name": "Borderline-Studie"
+            },
+            {
+              "name": "Energiepunkte"
+            },
+            {
+              "name": "Riskante Hilfe"
+            },
+            {
+              "name": "Sichere Hilfe"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Pharmakologie",
       "children": [
-        {"name": "Grundbegriffe", "children": [
-          {"name": "Arzneimittel"},
-          {"name": "Wirkstoffe"},
-          {"name": "Rezepturen"}
-        ]},
-        {"name": "Pharmakodynamik", "children": [
-          {"name": "Rezeptorwirkung"},
-          {"name": "Dosis-Wirkung"},
-          {"name": "UAW"}
-        ]},
-        {"name": "Pharmakokinetik", "children": [
-          {"name": "Liberation"},
-          {"name": "Absorption"},
-          {"name": "Metabolismus"},
-          {"name": "Elimination"}
-        ]},
-        {"name": "AMTS", "children": [
-          {"name": "9 Rechte"},
-          {"name": "Reason-Modell"},
-          {"name": "Digitalisierung"}
-        ]}
+        {
+          "name": "Grundbegriffe",
+          "children": [
+            {
+              "name": "Arzneimittel"
+            },
+            {
+              "name": "Wirkstoffe"
+            },
+            {
+              "name": "Rezepturen"
+            },
+            {
+              "name": "Nahrungsergänzungsmittel"
+            },
+            {
+              "name": "Medizinprodukte"
+            }
+          ]
+        },
+        {
+          "name": "Pharmakodynamik",
+          "children": [
+            {
+              "name": "Rezeptorwirkung"
+            },
+            {
+              "name": "Dosis-Wirkung"
+            },
+            {
+              "name": "UAW"
+            },
+            {
+              "name": "Enzymhemmung"
+            },
+            {
+              "name": "Ionenkanäle"
+            }
+          ]
+        },
+        {
+          "name": "Pharmakokinetik",
+          "children": [
+            {
+              "name": "Liberation"
+            },
+            {
+              "name": "Absorption"
+            },
+            {
+              "name": "Metabolismus"
+            },
+            {
+              "name": "Elimination"
+            }
+          ]
+        },
+        {
+          "name": "AMTS",
+          "children": [
+            {
+              "name": "9 Rechte"
+            },
+            {
+              "name": "Reason-Modell"
+            },
+            {
+              "name": "Digitalisierung"
+            },
+            {
+              "name": "Polypharmazie"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Radiologie",
       "children": [
-        {"name": "Röntgen", "children": [
-          {"name": "PA/AP-Aufnahme"},
-          {"name": "Systematische Befundung"}
-        ]},
-        {"name": "CT", "children": [
-          {"name": "Hounsfield"},
-          {"name": "Fensterung"},
-          {"name": "Kontrastmittelphasen"}
-        ]},
-        {"name": "MRT", "children": [
-          {"name": "T1/T2"},
-          {"name": "Sicherheit"}
-        ]},
-        {"name": "Intervention", "children": [
-          {"name": "Drainagen"},
-          {"name": "Embolisation"}
-        ]}
+        {
+          "name": "Röntgen",
+          "children": [
+            {
+              "name": "PA/AP-Aufnahme"
+            },
+            {
+              "name": "Systematische Befundung"
+            },
+            {
+              "name": "AP vs PA"
+            },
+            {
+              "name": "Notfallbefunde"
+            }
+          ]
+        },
+        {
+          "name": "CT",
+          "children": [
+            {
+              "name": "Hounsfield"
+            },
+            {
+              "name": "Fensterung"
+            },
+            {
+              "name": "Kontrastmittelphasen"
+            }
+          ]
+        },
+        {
+          "name": "MRT",
+          "children": [
+            {
+              "name": "T1/T2"
+            },
+            {
+              "name": "Sicherheit"
+            }
+          ]
+        },
+        {
+          "name": "Intervention",
+          "children": [
+            {
+              "name": "Drainagen"
+            },
+            {
+              "name": "Embolisation"
+            },
+            {
+              "name": "Stentimplantation"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Radiomics-2",
       "children": [
-        {"name": "Siehe Hämatologie"}
+        {
+          "name": "Siehe Hämatologie"
+        },
+        {
+          "name": "Fallbeispiele"
+        }
       ]
     },
     {
       "name": "Radionomics",
       "children": [
-        {"name": "Datenflut", "children": [
-          {"name": "Dark Data"},
-          {"name": "Annotation"}
-        ]},
-        {"name": "KI-Techniken", "children": [
-          {"name": "Machine Learning"},
-          {"name": "Deep Learning"},
-          {"name": "Reinforcement"}
-        ]},
-        {"name": "Herausforderungen", "children": [
-          {"name": "Datenschutz"},
-          {"name": "Black Box"},
-          {"name": "Regulatorik"}
-        ]},
-        {"name": "Ausblick", "children": [
-          {"name": "Foundation Models"},
-          {"name": "Adaptive Therapie"}
-        ]}
+        {
+          "name": "Datenflut",
+          "children": [
+            {
+              "name": "Dark Data"
+            },
+            {
+              "name": "Annotation"
+            },
+            {
+              "name": "Annotationstools"
+            }
+          ]
+        },
+        {
+          "name": "KI-Techniken",
+          "children": [
+            {
+              "name": "Machine Learning"
+            },
+            {
+              "name": "Deep Learning"
+            },
+            {
+              "name": "Reinforcement"
+            },
+            {
+              "name": "Explainable AI"
+            }
+          ]
+        },
+        {
+          "name": "Herausforderungen",
+          "children": [
+            {
+              "name": "Datenschutz"
+            },
+            {
+              "name": "Black Box"
+            },
+            {
+              "name": "Regulatorik"
+            }
+          ]
+        },
+        {
+          "name": "Ausblick",
+          "children": [
+            {
+              "name": "Foundation Models"
+            },
+            {
+              "name": "Adaptive Therapie"
+            },
+            {
+              "name": "Digitale Zwillinge"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Schädelhirntrauma",
       "children": [
-        {"name": "Einführung", "children": [
-          {"name": "Häufigkeit"},
-          {"name": "Glasgow Coma Scale"}
-        ]},
-        {"name": "Pathophysiologie", "children": [
-          {"name": "Primärschaden"},
-          {"name": "Sekundärschaden"},
-          {"name": "Monro-Kellie"}
-        ]},
-        {"name": "Diagnostik", "children": [
-          {"name": "CT/MRT"},
-          {"name": "Pupillen"}
-        ]},
-        {"name": "Therapie", "children": [
-          {"name": "Bohrloch"},
-          {"name": "Kraniotomie"},
-          {"name": "Dekompressive Kraniektomie"}
-        ]}
+        {
+          "name": "Einführung",
+          "children": [
+            {
+              "name": "Häufigkeit"
+            },
+            {
+              "name": "Glasgow Coma Scale"
+            }
+          ]
+        },
+        {
+          "name": "Pathophysiologie",
+          "children": [
+            {
+              "name": "Primärschaden"
+            },
+            {
+              "name": "Sekundärschaden"
+            },
+            {
+              "name": "Monro-Kellie"
+            }
+          ]
+        },
+        {
+          "name": "Diagnostik",
+          "children": [
+            {
+              "name": "CT/MRT"
+            },
+            {
+              "name": "Pupillen"
+            }
+          ]
+        },
+        {
+          "name": "Therapie",
+          "children": [
+            {
+              "name": "Bohrloch"
+            },
+            {
+              "name": "Kraniotomie"
+            },
+            {
+              "name": "Dekompressive Kraniektomie"
+            }
+          ]
+        },
+        {
+          "name": "ABCDE",
+          "children": [
+            {
+              "name": "Airway"
+            },
+            {
+              "name": "Breathing"
+            },
+            {
+              "name": "Circulation"
+            },
+            {
+              "name": "Disability"
+            },
+            {
+              "name": "Exposure"
+            }
+          ]
+        },
+        {
+          "name": "Hämatome",
+          "children": [
+            {
+              "name": "SDH"
+            },
+            {
+              "name": "EDH"
+            },
+            {
+              "name": "SAB"
+            }
+          ]
+        },
+        {
+          "name": "Ethik",
+          "children": [
+            {
+              "name": "Notstand"
+            },
+            {
+              "name": "Patientenwille"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Spinale Navigation",
       "children": [
-        {"name": "Echtzeitbild", "children": [
-          {"name": "2D/3D-Fluoroskopie"},
-          {"name": "Intraoperatives CT"}
-        ]},
-        {"name": "Workflow", "children": [
-          {"name": "Referenzpunkte"},
-          {"name": "Instrumentenregistrierung"}
-        ]},
-        {"name": "Vorteile", "children": [
-          {"name": "Höhere Genauigkeit"},
-          {"name": "Weniger Strahlung"}
-        ]},
-        {"name": "Robotik", "children": [
-          {"name": "Bohren"},
-          {"name": "Geringe Komplikationen"}
-        ]}
+        {
+          "name": "Echtzeitbild",
+          "children": [
+            {
+              "name": "2D/3D-Fluoroskopie"
+            },
+            {
+              "name": "Intraoperatives CT"
+            }
+          ]
+        },
+        {
+          "name": "Workflow",
+          "children": [
+            {
+              "name": "Referenzpunkte"
+            },
+            {
+              "name": "Instrumentenregistrierung"
+            }
+          ]
+        },
+        {
+          "name": "Vorteile",
+          "children": [
+            {
+              "name": "Höhere Genauigkeit"
+            },
+            {
+              "name": "Weniger Strahlung"
+            }
+          ]
+        },
+        {
+          "name": "Robotik",
+          "children": [
+            {
+              "name": "Bohren"
+            },
+            {
+              "name": "Geringe Komplikationen"
+            }
+          ]
+        },
+        {
+          "name": "Konventionell",
+          "children": [
+            {
+              "name": "Verifizierungsscans"
+            }
+          ]
+        },
+        {
+          "name": "Minimalinvasiv",
+          "children": [
+            {
+              "name": "Kleine Schnitte"
+            },
+            {
+              "name": "Kürzerer Aufenthalt"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Strahlentherapie Tumorentitäten",
       "children": [
-        {"name": "Mammakarzinom", "children": [
-          {"name": "Risikofaktoren"},
-          {"name": "BET"},
-          {"name": "Hormontherapie"}
-        ]},
-        {"name": "Prostatakarzinom", "children": [
-          {"name": "PSA"},
-          {"name": "Biopsie"},
-          {"name": "Brachytherapie"}
-        ]},
-        {"name": "Herausforderungen", "children": [
-          {"name": "Lageunsicherheiten"},
-          {"name": "MR-Beschleuniger"},
-          {"name": "Atemgating"}
-        ]}
+        {
+          "name": "Mammakarzinom",
+          "children": [
+            {
+              "name": "Risikofaktoren"
+            },
+            {
+              "name": "BET"
+            },
+            {
+              "name": "Hormontherapie"
+            },
+            {
+              "name": "Symptome"
+            },
+            {
+              "name": "Diagnostik"
+            },
+            {
+              "name": "Boostbestrahlung"
+            }
+          ]
+        },
+        {
+          "name": "Prostatakarzinom",
+          "children": [
+            {
+              "name": "PSA"
+            },
+            {
+              "name": "Biopsie"
+            },
+            {
+              "name": "Brachytherapie"
+            },
+            {
+              "name": "PSA-Screening"
+            },
+            {
+              "name": "Gleason-Score"
+            },
+            {
+              "name": "Active Surveillance"
+            }
+          ]
+        },
+        {
+          "name": "Herausforderungen",
+          "children": [
+            {
+              "name": "Lageunsicherheiten"
+            },
+            {
+              "name": "MR-Beschleuniger"
+            },
+            {
+              "name": "Atemgating"
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Tiefe Hirnstimulation",
       "children": [
-        {"name": "Indikationen", "children": [
-          {"name": "Parkinson"},
-          {"name": "Tremor"},
-          {"name": "Dystonie"}
-        ]},
-        {"name": "Entwicklung", "children": [
-          {"name": "Läsionsverfahren"},
-          {"name": "Stereotaxie"},
-          {"name": "Elektrische Stimulation"}
-        ]},
-        {"name": "Technik", "children": [
-          {"name": "Multikontakt-Elektroden"},
-          {"name": "Targeting"},
-          {"name": "MNI Brain"}
-        ]},
-        {"name": "Ausblick", "children": [
-          {"name": "Adaptive THS"},
-          {"name": "Datenanalyse"}
-        ]}
+        {
+          "name": "Indikationen",
+          "children": [
+            {
+              "name": "Parkinson"
+            },
+            {
+              "name": "Tremor"
+            },
+            {
+              "name": "Dystonie"
+            }
+          ]
+        },
+        {
+          "name": "Entwicklung",
+          "children": [
+            {
+              "name": "Läsionsverfahren"
+            },
+            {
+              "name": "Stereotaxie"
+            },
+            {
+              "name": "Elektrische Stimulation"
+            }
+          ]
+        },
+        {
+          "name": "Technik",
+          "children": [
+            {
+              "name": "Multikontakt-Elektroden"
+            },
+            {
+              "name": "Targeting"
+            },
+            {
+              "name": "MNI Brain"
+            },
+            {
+              "name": "Heat Maps"
+            }
+          ]
+        },
+        {
+          "name": "Ausblick",
+          "children": [
+            {
+              "name": "Adaptive THS"
+            },
+            {
+              "name": "Datenanalyse"
+            },
+            {
+              "name": "Prädiktive Modelle"
+            }
+          ]
+        },
+        {
+          "name": "Elektroden",
+          "children": [
+            {
+              "name": "4-Kontakt"
+            },
+            {
+              "name": "8-Kontakt"
+            },
+            {
+              "name": "Directional"
+            }
+          ]
+        }
       ]
     }
   ]
