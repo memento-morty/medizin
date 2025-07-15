@@ -1,0 +1,167 @@
+1
+Diarrhö und Chronisch-Entzündliche
+Darmerkrankungen
+Zusammenfassung der Vorlesung von Prof. Dr. Annika Gauss
+Nourhan Hachache
+14.05.2025
+1. Diarrhö
+1.1 Definition
+Diarrhö ist definiert als mehr als drei Stuhlentleerungen pro 24 Stunden mit einem
+Stuhlgewicht von über 250g und einer verminderten Stuhlkonsistenz bzw.
+Stuhlwassergehalt über 80%. Es wird unterschieden zwischen akute Diarrhö und
+chronischer Diarrhö. Während akute Diarrhö weniger als 4 Wochen dauert, eine
+große Anzahl von Menschen betrifft (ca. 1 Milliarde pro Jahr) und selbst limitierend
+ist, dauert chronische Diarrhö mehr als 4 Wochen, hat keinen zuverlässigen
+internationalen Daten (Prävalenz in den USA etwa 5 %) und erfordert spezifische
+Therapie.
+1.2 Abgrenzung
+Echte Diarrhöe kann von anderen Erkrankungen des Stuhlgangs unterschieden
+werden. Obwohl bei echter Diarrhö, Pseudodiarrhö, paradoxer Diarrhö und
+Stuhlinkontinenz die Stuhlfrequenz jeweils über drei Entleerungen täglich liegt,
+unterscheiden sie sich in weiteren Merkmalen. Echte Diarrhö ist gekennzeichnet
+durch flüssig oder breiig geformten Stuhl mit einem Gewicht von über 250g und tritt
+beispielsweise bei Zöliakie auf. Pseudodiarrhö hingegen zeigt wechselnde
+Konsistenz und normales Stuhlgewicht, wie beim Reizdarmsyndrom. Paradoxe
+Diarrhö ist oft flüssig, hat aber ebenfalls normales Gewicht und kann durch ein
+stenosierendes Rektumkarzinom verursacht werden. Bei Inkontinenz handelt es sich
+meist um Stuhlschmieren aufgrund eines Sphinkterdefekts.
+1.3 Pathophysiologie
+Normalerweise resorbiert der Dünndarm von den 8,5 Litern, die ihm angeboten
+werden, etwa 6,5 Liter Flüssigkeit pro Tag, und die restlichen 1,9 Liter werden vom
+Dickdarm resorbiert. Davon geht pro Tag etwa 1 % oder 0,1 l Wasser verloren. Der
+größte Teil der Resorption von Nährstoffen findet im Dünndarm (100-300 m2
+) statt.
+Der Magen (0,1-0,3 m2
+) und der Dickdarm (0,5-1,5 m2
+) haben einen kleineren Anteil.
+2
+Störungen der Wasser- und Elektrolytabsorption und -sekretion im Darm können zu
+Diarrhö führen. Beispielsweise führt eine Veränderung der gastrointestinalen Motilität
+mit Beschleunigung der Darmtransits zu motorischer Diarrhö. Osmotische Diarrhö,
+sekretorische Diarrhö, sowie exsudative Diarrhö werden durch eine Zunahme des
+intraluminalen Flüssigkeitsvolumens im Dünn- oder Dickdarm verursacht.
+Diarrhö kann mit Medikamenten wie Antibiotika behandelt werden, in schweren
+Fällen kann eine intravenöse Flüssigkeitszufuhr erforderlich sein.
+2. Chronisch-Entzündliche Darmerkrankungen
+Chronisch entzündliche Darmerkrankungen (CED) sind dauerhafte Entzündungen
+des Magen-Darm-Traktes. CED tritt oft schon in jungen Jahren auf, hat eine
+genetische Grundlage und ist durch einen chronisch-aktiven oder schubweisen
+Verlauf gekennzeichnet. Außerdem kann CED in Organen außerhalb des MagenDarm-Traktes manifestieren, zum Beispiel in den Gelenken. Die Lebensqualität wird
+dadurch erheblich beeinträchtigt. Die häufigsten CED sind Morbus Crohn und Colitis
+Ulcerosa.
+Die Zahl der Patienten mit CED nimmt weltweit zu. In den USA sind ca. 1 Million und
+in Europa ca. 2,5 Millionen Patienten betroffen, von denen 25% in der
+Kindheit/Jugend diagnostiziert werden.
+2.1 Morbus Crohn
+Morbus Crohn wurde bereits im 18. Jahrhundert beobachtet und beschrieben, aber
+erst in den 1930er Jahren wurde eine detaillierte Beschreibung vorgenommen.
+Die wichtigsten Symptome sind Bauchschmerzen, Gewichtsverlust, Fieber und
+Durchfall über 6 Wochen lang. Morbus Crohn kann den gesamten Verdauungstrakt
+einschließlich des Dünn- und Dickdarms betreffen und zu Entzündungen und
+Geschwüren in der Schleimhaut führen.
+2.2 Colitis Ulcerosa
+Ähnlich wie Morbus Crohn wurde Colitis ulcerosa erstmals in den 1800er Jahren
+beschrieben. Der Begriff “Colitis Ulcerosa” wurde erstmals 1859 verwendet. Die
+erste detaillierte Beschreibung wurde in den 1910er Jahren vorgenommen.
+Bauchschmerzen, Schmerzen beim Stuhlgang und blutig-schleimige Durchfälle sind
+die Hauptsymptome der Colitis ulcerosa. Colitis ulcerosa unterscheidet sich von
+Morbus Crohn dadurch, dass nur der Dickdarm und die oberste Schicht der
+Darmwand, die Schleimhaut, betroffen sind. Sie führt zu Entzündungen,
+Geschwüren und sogar Blutungen.
+Falls es nicht möglich ist, die Krankheit eines Patienten eindeutig als Morbus Crohn
+oder Colitis ulcerosa zu klassifizieren, wird bei dem Patienten eine Colitis
+Indeterminata diagnostiziert.
+3
+2.3 CED-Therapien
+Ziel dieser Therapien ist es, Remissionen bei CED zu erreichen und
+aufrechtzuerhalten, d. h. die Entzündung zu minimieren und die Symptome zu
+reduzieren.
+Bei der Colitis ulcerosa können folgenden Therapien eingesetzt werden:
+• 5-Aminosalicylates (5-ASAs): Mesalazin, Sulfasalazin
+• Steroide: (Methyl-)Predniso(lo)n, Budesonid
+• Probiotika: E. coli Nissle
+• Immunodulatoren: Azathioprine, Mercaptopurine, Methotrexate,
+Calcineurininhibitoren
+• Biologika: Infliximab, Adalimumab, Golimumab
+• JAK-Inhibitoren: Tofacitinib, Upadacitinib
+Zur Behandlung von Morbus Crohn können nur Steroide, Immunodulatoren (keine
+Calcineurininhibitoren) und Biologika eingesetzt werden. Von den Jak-Inhibitoren
+kann nur Upadacitinib verwendet werden.
+Zwei Haupttherapiestrategien können verwendet werden: Der Step-up-Ansatz
+beginnt mit milderen Medikamenten wie 5-Aminosalicylaten oder Antibiotika und
+greift erst bei Bedarf auf stärkere Immundulatoren oder Biologika zurück., z.B.
+Patienten mit eineim einmaligen schweren Schub, gefolgt von milden Symptomen.
+Im Gegensatz dazu setzt der Top-down-Ansatz frühzeitig auf eine aggressive
+Therapie mit Biologika und Immunmodulatoren, insbesondere bei Patienten mit
+hohem Risiko oder schwerem Verlauf, um die Entzündung schnell zu kontrollieren
+und Komplikationen vorzubeugen.
+Falls die Medikamente nicht wirken, müssen die Patienten operiert werden.
+3. Aktuelle Herausforderungen
+Die genaue Ursache von CED ist noch nicht vollständig geklärt. Es gibt jedoch
+mehrere Krankheitstheorien, die unterschiedliche Ursachen diskutieren. Eine davon
+ist die genetischen Faktoren. Patienten, die eine Familiengeschichte von CED
+haben, haben ein höheres Erkrankungsrisiko. Ernährung, Hygiene und Störung des
+Immunsystems könnten auch das Erkrankungsrisiko beeinflussen. Außerdem gibt es
+die Theorie, dass psychologische Faktoren bei der Entstehung von CED eine Rolle
+spielen und dass eine Therapie der Persönlichkeitsstörung bei der Behandlung
+helfen kann.
+Obwohl es Behandlungsmöglichkeiten für CED gibt, ist die Krankheit aufgrund ihrer
+hohen Komplexität noch nicht heilbar.
+4
+4. Technische Anwendungen
+Technisch fortgeschrittene Anwendungen können in der Diagnose von CED
+eingesetzt werden. Diese umfassen Endoskopie, Magnetresonanztomographie
+(MRT) und Ultraschall. Die Endoskopie ermöglicht eine direkte Beurteilung der
+Schleimhaut, die MRT liefert eine detaillierte Darstellung des Dünndarms und der
+perianalen Fisteln bspw. durch Hydro-Kolon-MRT, MRT Sellink, und Becken-MRT,
+während der Ultraschall zur Beurteilung der Darmwanddicke dient.
+5. Fazit
+Obwohl Diarrhö und chronisch-entzündliche Darmerkrankungen komplex bleiben
+und bislang nicht heilbar sind, helfen die derzeit verfügbaren Therapieoptionen, die
+Erkrankungen unter Kontrolle zu halten, was auch die Lebensqualität der Patienten
+verbessert. Darüber hinaus kann sich mit Hilfe des technischen Fortschritts, z. B. bei
+der Bildgebung oder minimalinvasiven Diagnoseverfahren, das Verständnis von
+Diarrhö und CED ständig weiterentwickeln, was eine frühere und präzisere Diagnose
+ermöglicht.
+6. Literatur
+Es wurden keine direkten Literaturquellen angegeben; alle Inhalte basieren auf dem
+Vortrag von Prof. Dr. med. Annika Gauss und den Vorlesungsnotizen.
+7. KI-Nutzung
+Diese Zusammenfassung wurde mit Hilfe von ChatGPT verfasst.
+5
+Begriffserklärung
+Begriff Beschreibung
+Endoskopie medizinisches Verfahren, bei dem man mit
+einem Endoskop (einer kleinen, biegsamen
+Kamera mit Lichtquelle) in den Körper
+hineinschauen kann
+gastrointestinalen Motilität die koordinierte Kontraktion und Entspannung
+der glatten Muskulatur des Magen-Darm-Trakts
+(MDT), die den Transport, die Verdauung und
+die Resorption von Nahrungsmitteln ermöglicht
+Hydro-Kolon-MRT eine magnetresonanztomographische
+Untersuchung mit Wasser, manchmal gemischt
+mit Methylzellulose, das vor der Untersuchung
+getrunken und rektal appliziert wird
+MRT Sellink spezielle kernspintomographische
+Untersuchung des Dünndarms. Dabei wird
+Wasser oder eine Methylzellulose-Lösung als
+Kontrastmittel verwendet
+exsudative Diarrhö entzündliche Schädigung der Schleimhaut
+motorische Diarrhö eine Veränderung der gastrointestinalen
+Motilität mit Beschleunigung des Darntransits
+osmotische Diarrhö verminderte Resorption des Lumenihaltes,
+wodurch Wasser in den Darm gezogen wird
+(hängt von der Nahrungsaufnahme ab)
+sekretorische Diarrhö aktive Flüssigkeitssekretion der Schleimhaut
+Reizdarmsyndrom dauerhafte Darmkrankheit
+Sphinkterdefekts Unterbrechung oder Schwächung des analen
+Schließmuskels
+Ultraschall ein bildgebendes Verfahren, bei dem
+Schallwellen verwendet werden, um Bilder von
+inneren Organen und Geweben zu erstellen
+Zöliakie
+eine chronische, autoimmunvermittelte
+Erkrankung des Dünndarms, bei der der Körper
+auf Gluten mit einer Entzündungsreaktion
+reagiert
